@@ -95,6 +95,8 @@
 "STYLE_SHOW_TIMESTAMPS" = "Ukázat čas";
 "STYLE_SHOW_JOIN_PART" = "Ukázat připojení/odpojení";
 
+"THEME_TITLE" = "Theme";
+"THEME_VARIANT_TITLE" = "Variant (Light/Dark)";
 "THEME_VARIANT_AUTOMATICALLY" = "Switch Automatically";
 "THEME_VARIANT_LIGHT" = "Light";
 "THEME_VARIANT_DARK" = "Dark";
