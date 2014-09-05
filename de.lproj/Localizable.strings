@@ -71,7 +71,6 @@
 "CHANNEL_INVITE" = "Einladen";
 "CHANNEL_INVITE_BODY" = "%@ lädt Sie nach %@ ein";
 
-"QUERY_LEAVE" = "Verlassen";
 "QUERY_REMOVE" = "Löschen";
 
 "PREFERENCES_TITLE" = "Einstellungen";
@@ -105,11 +104,6 @@
 "ABOUT_EMAIL" = "Hilfe";
 "ABOUT_IRC" = "IRC";
 "ABOUT_ACKNOWLEDGEMENTS" = "Acknowledgements";
-
-"ABOUT_CONTRIBUTORS_TITLE" = "Mitwirkende";
-"ABOUT_CONTRIBUTORS_DEVELOPER" = "Entwickler";
-"ABOUT_CONTRIBUTORS_DESIGN" = "Designer";
-"ABOUT_CONTRIBUTORS_TRANSLATIONS" = "Übersetzer";
 
 /* IRC Events */
 

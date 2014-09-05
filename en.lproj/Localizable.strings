@@ -71,7 +71,6 @@
 "CHANNEL_INVITE" = "Invite";
 "CHANNEL_INVITE_BODY" = "%@ is inviting you into %@";
 
-"QUERY_LEAVE" = "Part";
 "QUERY_REMOVE" = "Remove";
 
 "PREFERENCES_TITLE" = "Settings";
@@ -105,11 +104,6 @@
 "ABOUT_EMAIL" = "Support";
 "ABOUT_IRC" = "IRC";
 "ABOUT_ACKNOWLEDGEMENTS" = "Acknowledgements";
-
-"ABOUT_CONTRIBUTORS_TITLE" = "Contributors";
-"ABOUT_CONTRIBUTORS_DEVELOPER" = "Developer";
-"ABOUT_CONTRIBUTORS_DESIGN" = "Design";
-"ABOUT_CONTRIBUTORS_TRANSLATIONS" = "Translations";
 
 /* IRC Events */
 

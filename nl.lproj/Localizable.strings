@@ -71,7 +71,6 @@
 "CHANNEL_INVITE" = "Uitnodigen";
 "CHANNEL_INVITE_BODY" = "%@ nodigt je uit om %@ te bezoeken";
 
-"QUERY_LEAVE" = "Verlaten";
 "QUERY_REMOVE" = "Verwijderen";
 
 "PREFERENCES_TITLE" = "Instellingen";
@@ -105,11 +104,6 @@
 "ABOUT_EMAIL" = "Hulp";
 "ABOUT_IRC" = "IRC";
 "ABOUT_ACKNOWLEDGEMENTS" = "Acknowledgements";
-
-"ABOUT_CONTRIBUTORS_TITLE" = "Medewerkers";
-"ABOUT_CONTRIBUTORS_DEVELOPER" = "Ontwikkelaar";
-"ABOUT_CONTRIBUTORS_DESIGN" = "Ontwerp";
-"ABOUT_CONTRIBUTORS_TRANSLATIONS" = "Vertaling";
 
 /* IRC Events */
 
