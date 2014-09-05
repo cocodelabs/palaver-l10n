@@ -16,3 +16,8 @@ Dutch       | `nl` | [@iamDecode](https://github.com/iamDecode)
 English     | `en` | [@kylef](https://github.com/kylef)
 German      | `de` | [@ePirat](https://github.com/ePirat)
 
+## License
+
+These translations are licensed under
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
+

@@ -1,8 +1,191 @@
-/*
+/* 
   Localizable.strings
   Palaver
 
   Created by Kyle Fuller on 10/06/2012.
-  Copyright (c) 2012-2014 Cocode. All rights reserved.
+  Copyright (c) 2012-2013 Cocode. All rights reserved.
 */
 
+"REQUIRED" = "Required";
+"OPTIONAL" = "Optional";
+"CANCEL" = "Cancel";
+"CLOSE" = "Close";
+"OK" = "OK";
+
+"NICKNAME" = "Nickname";
+
+"NETWORK_ADD" = "Add Network";
+"CHANNEL_ADD" = "Join Channel";
+"NICK_ADD" = "Message a User";
+"NICK_ADD_DONE" = "Message";
+"NICK_ADD_TITLE" = "Message User";
+"ADD_NICK_SECTION_TITLE" = "User";
+
+"NICK_SEND_MESSAGE" = "Send Message";
+"NICK_CHANNEL_KICK" = "Kick";
+"NICK_CHANNEL_BAN" = "Ban";
+"NICK_CHANNEL_OP" = "Give Op";
+"NICK_CHANNEL_VOICE" = "Give Voice";
+"NICK_CHANNEL_DEOP" = "Take Op";
+"NICK_CHANNEL_DEVOICE" = "Take Voice";
+
+"CHANNEL_ADD_CHANNEL_NAME" = "Name";
+"CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
+
+"NETWORK_SERVER_SECTION" = "Server";
+"NETWORK_AUTH_SECTION" = "Identity";
+
+"NETWORK_TITLE" = "Network";
+"NETWORK_TITLE_PLURAL" = "Networks";
+"NETWORK_NAME" = "Name";
+"NETWORK_ADDRESS" = "Address";
+"NETWORK_ADDRESS_PLACEHOLDER" = "Hostname or IP";
+"NETWORK_PORT" = "Port";
+"NETWORK_USE_TLS" = "SSL";
+"NETWORK_PASSWORD" = "Password";
+"NETWORK_AUTOCONNECT" = "Auto connect";
+"NETWORK_DELETE" = "Delete Network";
+
+"NETWORK_AUTHENTICATION" = "Authentication";
+"NETWORK_AUTHENTICATION_USERNAME" = "Username";
+"NETWORK_AUTHENTICATION_PASSWORD" = "Password";
+"NETWORK_AUTHENTICATION_SERVICE" = "Service";
+"NETWORK_AUTHENTICATION_SERVICE_NONE" = "None";
+"NETWORK_AUTHENTICATION_CREDENTIALS" = "Credentials";
+
+"NETWORK_EDIT" = "Edit";
+"NETWORK_COLLAPSE" = "Collapse";
+"NETWORK_EXPAND" = "Expand";
+"NETWORK_CONNECT" = "Connect";
+"NETWORK_DISCONNECT" = "Disconnect";
+
+"NETWORK_PASSWORD_INCORRECT" = "Password incorrect";
+
+"TLS_TRUST_CERTIFICATE" = "Trust";
+"TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Untrusted Certificate";
+"TLS_UNTRUSTED_CERTIFICATE_BODY" = "The server that you are connecting to has an untrusted TLS certificate.";
+
+"CHANNEL_TITLE" = "Channel";
+"CHANNEL_JOIN" = "Join";
+"CHANNEL_PASSWORD" = "Password";
+"CHANNEL_INVITE" = "Invite";
+"CHANNEL_INVITE_BODY" = "%@ is inviting you into %@";
+
+"QUERY_LEAVE" = "Part";
+"QUERY_REMOVE" = "Remove";
+
+"PREFERENCES_TITLE" = "Settings";
+"PREFERENCES_IDENTITY_SECTION" = "Identity";
+"PREFERENCES_INTERFACE_SECTION" = "Interface";
+"PREFERENCES_GENERAL_SECTION" = "General";
+"PREFERENCES_REALNAME" = "Real name";
+
+"FONT_SIZE_TITLE" = "Font size";
+"FONT_12" = "Tiny";
+"FONT_13" = "Small";
+"FONT_15" = "Medium";
+"FONT_17" = "Large";
+
+"STYLE_TITLE" = "Style";
+"STYLE_SHOW_TIMESTAMPS" = "Show timestamps";
+"STYLE_SHOW_JOIN_PART" = "Show join/part";
+
+"GENERAL_AUTO_JOIN_CHANNELS" = "Auto-join channels";
+"GENERAL_AUTO_AWAY" = "Auto away";
+
+"MENTIONS_TITLE" = "Mentions";
+"MENTIONS_ADD_TITLE" = "Add Keyword";
+"MENTIONS_KEYWORD_FIELD" = "Keyword";
+"MENTIONS_FOOTER" = "Go to Notifications in Settings to control badges and sounds.";
+"MENTIONS_NICK_SUBTITLE" = "Substituted with your nick";
+
+"ABOUT_TITLE" = "About";
+"ABOUT_VERSION" = "Version";
+"ABOUT_SITE" = "Website";
+"ABOUT_EMAIL" = "Support";
+"ABOUT_IRC" = "IRC";
+"ABOUT_ACKNOWLEDGEMENTS" = "Acknowledgements";
+
+"ABOUT_CONTRIBUTORS_TITLE" = "Contributors";
+"ABOUT_CONTRIBUTORS_DEVELOPER" = "Developer";
+"ABOUT_CONTRIBUTORS_DESIGN" = "Design";
+"ABOUT_CONTRIBUTORS_TRANSLATIONS" = "Translations";
+
+/* IRC Events */
+
+"IRC_KICKED_EVENT" = "%@ kicked %@ (%@)";
+"IRC_USER_QUIT_EVENT" = "%@ has quit";
+"IRC_USER_PARTED_EVENT" = "%@ has left %@";
+"IRC_USER_JOINED_EVENT" = "%@ has joined %@";
+"IRC_NICK_CHANGE_EVENT" = "%@ is now known as %@";
+
+"IRC_MODE_EVENT" = "%@ sets mode %@";
+"IRC_TOPIC_CHANGE_EVENT" = "%@ has changed the topic to %@";
+"IRC_TOPIC_EVENT" = "Topic is %@";
+
+"IRC_USER_NOT_ONLINE_EVENT" = "%@ is not online";
+
+"IRC_CONNECTED" = "Connected!";
+"IRC_CONNECTING" = "Connecting...";
+"IRC_DISCONNECTED" = "Disconnected";
+"IRC_DISCONNECTED_ERROR" = "Disconnected (%@)";
+
+"IRC_CHANNEL_MODE_q" = "Owner";
+"IRC_CHANNEL_MODE_PLURAL_q" = "Owners";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "Owners";
+
+"IRC_CHANNEL_MODE_a" = "Protected";
+"IRC_CHANNEL_MODE_PLURAL_a" = "Protected";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Protected";
+
+"IRC_CHANNEL_MODE_o" = "Op";
+"IRC_CHANNEL_MODE_PLURAL_o" = "Ops";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "Operators";
+
+"IRC_CHANNEL_MODE_h" = "Half-op";
+"IRC_CHANNEL_MODE_PLURAL_h" = "Half-ops";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "Half-Operators";
+
+"IRC_CHANNEL_MODE_v" = "Voice";
+"IRC_CHANNEL_MODE_PLURAL_v" = "Voiced";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Voiced";
+
+/* Input bar */
+
+"INPUT_MESSAGE_PLACEHOLDER" = "Message";
+"INPUT_SEND_BUTTON_TITLE" = "Send";
+
+"UPLOAD_IMAGE_CAMERA" = "Take Photo";
+"UPLOAD_IMAGE_LIBRARY" = "Choose Existing";
+"UPLOAD_IMAGE_UPLOADING" = "Uploading";
+
+"UPLOAD_IMAGE_POLICY_TITLE" = "Image Upload";
+"UPLOAD_IMAGE_POLICY_BODY" = "Uploading images is done via a third-party service, %@. Tapping below will agree to the privacy policy.";
+"UPLOAD_IMAGE_POLICY_VIEW" = "View Privacy Policy";
+"UPLOAD_IMAGE_POLICY_AGREE" = "Agree";
+
+"UPLOAD_IMAGE_PREFERENCES_TITLE" = "Image Uploads";
+
+"CLOUDAPP_VERIFY_FAILURE" = "Account could not be verified, please try again.";
+"CLOUDAPP_USERNAME" = "Email";
+"CLOUDAPP_PASSWORD" = "Password";
+
+/* Whois */
+"NICK_WHOIS" = "Whois";
+"WHOIS_USER_TITLE" = "User";
+"WHOIS_SERVER_TITLE" = "Server";
+"WHOIS_CHANNELS_TITLE" = "Channels";
+
+/* Media */
+"MEDIA_NOT_PLAYING" = "is not playing anything";
+"MEDIA_PLAYING_TITLE_ARTIST_ALBUM" = "is %@ %@ by %@ from %@";
+"MEDIA_PLAYING_TITLE_ARTIST" = "is %@ %@ by %@";
+"MEDIA_PLAYING_TITLE_ALBUM" = "is %@ %@ from %@";
+"MEDIA_PLAYING_TITLE" = "is %@ %@";
+"MEDIA_PLAYING_ERROR" = "Cannot find media information.";
+
+"MEDIA_VERB_AUDIO" = "listening to";
+"MEDIA_VERB_VIDEO" = "watching";
+"MEDIA_VERB_ALL" = "playing";
+
+"NICK_LIST" = "People";
