@@ -14,6 +14,9 @@
 
 "NICKNAME" = "Nickname";
 
+"QUERY_LIST_TITLE" = "Queries";
+"QUERY_LIST_TITLE_UNREAD" = "Queries (%@)";
+
 "NETWORK_ADD" = "Netwerk toevoegen";
 "CHANNEL_ADD" = "Betreed kanaal";
 "NICK_ADD" = "Bericht een gebruiker";

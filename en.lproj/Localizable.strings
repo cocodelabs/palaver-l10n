@@ -14,6 +14,9 @@
 
 "NICKNAME" = "Nickname";
 
+"QUERY_LIST_TITLE" = "Queries";
+"QUERY_LIST_TITLE_UNREAD" = "Queries (%@)";
+
 "NETWORK_ADD" = "Add Network";
 "CHANNEL_ADD" = "Join Channel";
 "NICK_ADD" = "Message a User";
