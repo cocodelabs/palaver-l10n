@@ -3,7 +3,7 @@
   Palaver
 
   Created by Marvin Scholz.
-  Copyright (c) 2012-2013 Cocode. All rights reserved.
+  Copyright (c) 2012-2014 Cocode. All rights reserved.
 */
 
 "REQUIRED" = "Benötigt";
@@ -14,10 +14,10 @@
 
 "NICKNAME" = "Nickname";
 
-"QUERY_LIST_TITLE" = "Queries";
-"QUERY_LIST_TITLE_UNREAD" = "Queries (%@)";
-"QUERY_LIST_ADD_NETWORK_TITLE" = "Add a Network";
-"QUERY_LIST_ADD_NETWORK_MESSAGE" = "Tap here to add your first network!";
+"QUERY_LIST_TITLE" = "Räume";
+"QUERY_LIST_TITLE_UNREAD" = "Räume (%@)";
+"QUERY_LIST_ADD_NETWORK_TITLE" = "Netzwerk hinzufügen";
+"QUERY_LIST_ADD_NETWORK_MESSAGE" = "Tippe hier, um das erste Netzwerk hinzuzufügen!";
 
 "NETWORK_ADD" = "Netzwerk hinzufügen";
 "CHANNEL_ADD" = "Raum betreten";
@@ -51,14 +51,14 @@
 "NETWORK_AUTOCONNECT" = "Auto. verbinden";
 "NETWORK_DELETE" = "Netzwerk löschen";
 
-"NETWORK_AUTHENTICATION" = "Authentication";
+"NETWORK_AUTHENTICATION" = "Authentifizierung";
 "NETWORK_AUTHENTICATION_USERNAME" = "Benutzer";
 "NETWORK_AUTHENTICATION_PASSWORD" = "Passwort";
 "NETWORK_AUTHENTICATION_SERVICE" = "Service";
-"NETWORK_AUTHENTICATION_SERVICE_NONE" = "None";
-"NETWORK_AUTHENTICATION_CREDENTIALS" = "Credentials";
+"NETWORK_AUTHENTICATION_SERVICE_NONE" = "Keine";
+"NETWORK_AUTHENTICATION_CREDENTIALS" = "Zugangsdaten";
 
-"NETWORK_OPTIONS" = "Options";
+"NETWORK_OPTIONS" = "Optionen";
 "NETWORK_EDIT" = "Bearbeiten";
 "NETWORK_COLLAPSE" = "Einklappen";
 "NETWORK_EXPAND" = "Aufklappen";
@@ -69,7 +69,7 @@
 
 "TLS_TRUST_CERTIFICATE" = "Vertrauen";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Nicht vertrauenswürdiges Zertifikat";
-"TLS_UNTRUSTED_CERTIFICATE_BODY" = "Der Server hat ein nicht vertrauenswürdiges TLS Zertifikat";
+"TLS_UNTRUSTED_CERTIFICATE_BODY" = "Der Server verwendet ein nicht vertrauenswürdiges TLS Zertifikat";
 
 "CHANNEL_TITLE" = "Raum";
 "CHANNEL_JOIN" = "Betreten";
@@ -99,17 +99,17 @@
 "GENERAL_AUTO_AWAY" = "Auto. abwesend";
 
 "MENTIONS_TITLE" = "Erwähnungen";
-"MENTIONS_ADD_TITLE" = "Schlüsselwort hinzufügen";
+"MENTIONS_ADD_TITLE" = "Neues Schlüsselwort";
 "MENTIONS_KEYWORD_FIELD" = "Wort";
-"MENTIONS_FOOTER" = "Öffnen Sie die Mitteilungseinstellungen in den Einstellungen um Kennzeichen und Töne zu ändern.";
-"MENTIONS_NICK_SUBTITLE" = "Substituted with your nick";
+"MENTIONS_FOOTER" = "Öffne die Mitteilungseinstellungen in den Einstellungen um Kennzeichen und Töne zu ändern.";
+"MENTIONS_NICK_SUBTITLE" = "Wird mit Nickname ersetzt";
 
 "ABOUT_TITLE" = "Über";
 "ABOUT_VERSION" = "Version";
 "ABOUT_SITE" = "Webseite";
 "ABOUT_EMAIL" = "Hilfe";
 "ABOUT_IRC" = "IRC";
-"ABOUT_ACKNOWLEDGEMENTS" = "Acknowledgements";
+"ABOUT_ACKNOWLEDGEMENTS" = "Danksagungen";
 
 /* IRC Events */
 
@@ -160,7 +160,7 @@
 "UPLOAD_IMAGE_UPLOADING" = "Hochladen…";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Bild hochladen";
-"UPLOAD_IMAGE_POLICY_BODY" = "Das Hochladen von Bildern wird durch einen Drittanbieter-Service realisiert, %@. Durch tippen auf Akzeptieren stimmen Sie dessen Datenschutzbestimmungen zu.";
+"UPLOAD_IMAGE_POLICY_BODY" = "Das Hochladen von Bildern wird durch %@, einen Drittanbieter-Service, realisiert. Durch tippen auf Akzeptieren stimmen Sie dessen Datenschutzbestimmungen zu.";
 "UPLOAD_IMAGE_POLICY_VIEW" = "Anzeigen";
 "UPLOAD_IMAGE_POLICY_AGREE" = "Akzeptieren";
 
@@ -188,4 +188,4 @@
 "MEDIA_VERB_VIDEO" = "guckt gerade";
 "MEDIA_VERB_ALL" = "spielt gerade";
 
-"NICK_LIST" = "People";
+"NICK_LIST" = "Benutzer";
