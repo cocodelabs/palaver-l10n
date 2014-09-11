@@ -14,8 +14,8 @@
 
 "NICKNAME" = "Nickname";
 
-"QUERY_LIST_TITLE" = "Queries";
-"QUERY_LIST_TITLE_UNREAD" = "Queries (%@)";
+"QUERY_LIST_TITLE" = "Gesprekken";
+"QUERY_LIST_TITLE_UNREAD" = "Gesprekken (%@)";
 "QUERY_LIST_ADD_NETWORK_TITLE" = "Voeg netwerk toe";
 "QUERY_LIST_ADD_NETWORK_MESSAGE" = "Tik hier om je eerste netwerk toe te voegen!";
 
@@ -51,14 +51,14 @@
 "NETWORK_AUTOCONNECT" = "Automatisch verbinden";
 "NETWORK_DELETE" = "Verwijder Netwerk";
 
-"NETWORK_AUTHENTICATION" = "Authentication";
+"NETWORK_AUTHENTICATION" = "Authenticatie";
 "NETWORK_AUTHENTICATION_USERNAME" = "Gebruikersnaam";
 "NETWORK_AUTHENTICATION_PASSWORD" = "Wachtwoord";
-"NETWORK_AUTHENTICATION_SERVICE" = "Service";
-"NETWORK_AUTHENTICATION_SERVICE_NONE" = "None";
-"NETWORK_AUTHENTICATION_CREDENTIALS" = "Credentials";
+"NETWORK_AUTHENTICATION_SERVICE" = "Dienst";
+"NETWORK_AUTHENTICATION_SERVICE_NONE" = "Geen";
+"NETWORK_AUTHENTICATION_CREDENTIALS" = "Inloggegevens";
 
-"NETWORK_OPTIONS" = "Options";
+"NETWORK_OPTIONS" = "Opties";
 "NETWORK_EDIT" = "Aanpassen";
 "NETWORK_COLLAPSE" = "Inklappen";
 "NETWORK_EXPAND" = "Uitklappen";
@@ -68,7 +68,7 @@
 "NETWORK_PASSWORD_INCORRECT" = "Wachtwoord onjuist";
 
 "TLS_TRUST_CERTIFICATE" = "Vertrouwen";
-"TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Onbetrouwbaar Certificaat";
+"TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Onbetrouwbaar certificaat";
 "TLS_UNTRUSTED_CERTIFICATE_BODY" = "De server waarmee je probeert te verbinden heeft een onbetrouwbaar TLS certificaat.";
 
 "CHANNEL_TITLE" = "Kanaal";
@@ -102,7 +102,7 @@
 "MENTIONS_ADD_TITLE" = "Voeg sleutelwoord toe";
 "MENTIONS_KEYWORD_FIELD" = "Sleutelwoord";
 "MENTIONS_FOOTER" = "Ga naar Notificaties in de Instellingen om je badges en geluiden in te stellen.";
-"MENTIONS_NICK_SUBTITLE" = "Substituted with your nick";
+"MENTIONS_NICK_SUBTITLE" = "Vervang met je nickname";
 
 "ABOUT_TITLE" = "Over";
 "ABOUT_VERSION" = "Versie";
@@ -130,13 +130,13 @@
 "IRC_DISCONNECTED" = "Verbinding verbroken";
 "IRC_DISCONNECTED_ERROR" = "Verbinding verbroken (%@)";
 
-"IRC_CHANNEL_MODE_q" = "Owner";
-"IRC_CHANNEL_MODE_PLURAL_q" = "Owners";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "Owners";
+"IRC_CHANNEL_MODE_q" = "Eigenaar";
+"IRC_CHANNEL_MODE_PLURAL_q" = "Eigenaars";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "Eigenaars";
 
-"IRC_CHANNEL_MODE_a" = "Protected";
-"IRC_CHANNEL_MODE_PLURAL_a" = "Protected";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Protected";
+"IRC_CHANNEL_MODE_a" = "Beveiligd";
+"IRC_CHANNEL_MODE_PLURAL_a" = "Beveiligd";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Beveiligd";
 
 "IRC_CHANNEL_MODE_o" = "Op";
 "IRC_CHANNEL_MODE_PLURAL_o" = "Ops";
@@ -177,15 +177,15 @@
 "WHOIS_CHANNELS_TITLE" = "Kanalen";
 
 /* Media */
-"MEDIA_NOT_PLAYING" = "is not playing anything";
-"MEDIA_PLAYING_TITLE_ARTIST_ALBUM" = "is %@ %@ by %@ from %@";
-"MEDIA_PLAYING_TITLE_ARTIST" = "is %@ %@ by %@";
-"MEDIA_PLAYING_TITLE_ALBUM" = "is %@ %@ from %@";
-"MEDIA_PLAYING_TITLE" = "is %@ %@";
+"MEDIA_NOT_PLAYING" = "speelt geen muziek af";
+"MEDIA_PLAYING_TITLE_ARTIST_ALBUM" = "%@ %@ van %@ van het album %@";
+"MEDIA_PLAYING_TITLE_ARTIST" = "%@ %@ van %@";
+"MEDIA_PLAYING_TITLE_ALBUM" = "%@ %@ van het album %@";
+"MEDIA_PLAYING_TITLE" = "%@ %@";
 "MEDIA_PLAYING_ERROR" = "Cannot find media information.";
 
-"MEDIA_VERB_AUDIO" = "listening to";
-"MEDIA_VERB_VIDEO" = "watching";
-"MEDIA_VERB_ALL" = "playing";
+"MEDIA_VERB_AUDIO" = "luistert naar";
+"MEDIA_VERB_VIDEO" = "kijkt naar";
+"MEDIA_VERB_ALL" = "speelt momenteel";
 
-"NICK_LIST" = "People";
+"NICK_LIST" = "Personen";
