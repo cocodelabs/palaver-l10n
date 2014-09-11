@@ -16,6 +16,8 @@
 
 "QUERY_LIST_TITLE" = "Queries";
 "QUERY_LIST_TITLE_UNREAD" = "Queries (%@)";
+"QUERY_LIST_ADD_NETWORK_TITLE" = "Voeg netwerk toe";
+"QUERY_LIST_ADD_NETWORK_MESSAGE" = "Tik hier om je eerste netwerk toe te voegen!";
 
 "NETWORK_ADD" = "Netwerk toevoegen";
 "CHANNEL_ADD" = "Betreed kanaal";

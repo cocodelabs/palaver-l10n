@@ -16,6 +16,8 @@
 
 "QUERY_LIST_TITLE" = "Queries";
 "QUERY_LIST_TITLE_UNREAD" = "Queries (%@)";
+"QUERY_LIST_ADD_NETWORK_TITLE" = "Add a Network";
+"QUERY_LIST_ADD_NETWORK_MESSAGE" = "Tap here to add your first network!";
 
 "NETWORK_ADD" = "Netzwerk hinzufügen";
 "CHANNEL_ADD" = "Raum betreten";
