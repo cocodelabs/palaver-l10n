@@ -14,8 +14,8 @@
 
 "NICKNAME" = "Nickname";
 
-"QUERY_LIST_TITLE" = "Queries";
-"QUERY_LIST_TITLE_UNREAD" = "Queries (%@)";
+"QUERY_LIST_TITLE" = "Chats";
+"QUERY_LIST_TITLE_UNREAD" = "Chats (%@)";
 "QUERY_LIST_ADD_NETWORK_TITLE" = "Add a Network";
 "QUERY_LIST_ADD_NETWORK_MESSAGE" = "Tap here to add your first network!";
 
