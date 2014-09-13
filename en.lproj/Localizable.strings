@@ -152,8 +152,9 @@
 
 /* Input bar */
 
+"INPUT_UPLOAD_IMAGE_LABEL" = "Send an Image";
 "INPUT_MESSAGE_PLACEHOLDER" = "Message";
-"INPUT_SEND_BUTTON_TITLE" = "Send";
+"INPUT_SEND_BUTTON_LABEL" = "Send Message";
 
 "UPLOAD_IMAGE_CAMERA" = "Take Photo";
 "UPLOAD_IMAGE_LIBRARY" = "Choose Existing";

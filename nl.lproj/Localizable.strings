@@ -152,8 +152,9 @@
 
 /* Input bar */
 
+"INPUT_UPLOAD_IMAGE_LABEL" = "Send an Image";
 "INPUT_MESSAGE_PLACEHOLDER" = "Bericht";
-"INPUT_SEND_BUTTON_TITLE" = "Stuur";
+"INPUT_SEND_BUTTON_TITLE_LABEL" = "Stuur";
 
 "UPLOAD_IMAGE_CAMERA" = "Maak foto";
 "UPLOAD_IMAGE_LIBRARY" = "Kies bestaande";
