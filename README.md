@@ -15,6 +15,7 @@ Language    | Code | Contributor
 Dutch       | `nl` | [@iamDecode](https://github.com/iamDecode)
 English     | `en` | [@kylef](https://github.com/kylef)
 German      | `de` | [@ePirat](https://github.com/ePirat)
+Spanish     | `es` | [@henriwatson](https://github.com/henriwatson)
 
 ## License
 
