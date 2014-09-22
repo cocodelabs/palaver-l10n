@@ -1,0 +1,192 @@
+/*
+  Localizable.strings
+  Palaver
+
+  Created by Henri Watson.
+  Copyright (c) 2012-2014 Cocode. All rights reserved.
+*/
+
+"REQUIRED" = "Obligatorio";
+"OPTIONAL" = "Opcional";
+"CANCEL" = "Cancelar";
+"CLOSE" = "Cerrar";
+"OK" = "OK";
+
+"NICKNAME" = "Apodo";
+
+"QUERY_LIST_TITLE" = "Conversaciones";
+"QUERY_LIST_TITLE_UNREAD" = "Conversaciones (%@)";
+"QUERY_LIST_ADD_NETWORK_TITLE" = "Agregar una Red";
+"QUERY_LIST_ADD_NETWORK_MESSAGE" = "¡Toque aquí para agregar tu primera red!";
+
+"NETWORK_ADD" = "Agregar Red";
+"CHANNEL_ADD" = "Unirse a un Canal";
+"NICK_ADD" = "Hablar con un Usuario";
+"NICK_ADD_DONE" = "Enviar";
+"NICK_ADD_TITLE" = "Hablar con un Usuario";
+"ADD_NICK_SECTION_TITLE" = "Usuario";
+
+"NICK_SEND_MESSAGE" = "Enviar Mensaje";
+"NICK_CHANNEL_KICK" = "Sacar";
+"NICK_CHANNEL_BAN" = "Prohibir";
+"NICK_CHANNEL_OP" = "Dar Op";
+"NICK_CHANNEL_VOICE" = "Dar el Habla";
+"NICK_CHANNEL_DEOP" = "Quitar Op";
+"NICK_CHANNEL_DEVOICE" = "Quitar el Habla";
+
+"CHANNEL_ADD_CHANNEL_NAME" = "Nombre";
+"CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
+
+"NETWORK_SERVER_SECTION" = "Servidor";
+"NETWORK_AUTH_SECTION" = "Identidad";
+
+"NETWORK_TITLE" = "Red";
+"NETWORK_TITLE_PLURAL" = "Redes";
+"NETWORK_NAME" = "Nombre";
+"NETWORK_ADDRESS" = "Dirección";
+"NETWORK_ADDRESS_PLACEHOLDER" = "Nombre de host o IP";
+"NETWORK_PORT" = "Puerto";
+"NETWORK_USE_TLS" = "SSL";
+"NETWORK_PASSWORD" = "Contraseña";
+"NETWORK_AUTOCONNECT" = "Conectar automáticamente";
+"NETWORK_DELETE" = "Eliminar Red";
+
+"NETWORK_AUTHENTICATION" = "Autenticación";
+"NETWORK_AUTHENTICATION_USERNAME" = "Usuario";
+"NETWORK_AUTHENTICATION_PASSWORD" = "Contraseña";
+"NETWORK_AUTHENTICATION_SERVICE" = "Servicio";
+"NETWORK_AUTHENTICATION_SERVICE_NONE" = "Ninguno";
+"NETWORK_AUTHENTICATION_CREDENTIALS" = "Credenciales";
+
+"NETWORK_OPTIONS" = "Opciones";
+"NETWORK_EDIT" = "Modificar";
+"NETWORK_COLLAPSE" = "Cerrar";
+"NETWORK_EXPAND" = "Abrir";
+"NETWORK_CONNECT" = "Conectar";
+"NETWORK_DISCONNECT" = "Desconectar";
+
+"NETWORK_PASSWORD_INCORRECT" = "Clave incorrecta";
+
+"TLS_TRUST_CERTIFICATE" = "Confiar";
+"TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Certificado no fiable";
+"TLS_UNTRUSTED_CERTIFICATE_BODY" = "El servidor cuenta con un certificado TLS no fiable.";
+
+"CHANNEL_TITLE" = "Canal";
+"CHANNEL_JOIN" = "Unirte";
+"CHANNEL_PASSWORD" = "Contraseña";
+"CHANNEL_INVITE" = "Invitación";
+"CHANNEL_INVITE_BODY" = "%@ te esta invitando a %@";
+
+"QUERY_REMOVE" = "Cerrar";
+
+"PREFERENCES_TITLE" = "Configuración";
+"PREFERENCES_IDENTITY_SECTION" = "Identidad";
+"PREFERENCES_INTERFACE_SECTION" = "Interfaz";
+"PREFERENCES_GENERAL_SECTION" = "General";
+"PREFERENCES_REALNAME" = "Nombre real";
+
+"FONT_SIZE_TITLE" = "Tamaño de letra";
+"FONT_12" = "Minúsculo";
+"FONT_13" = "Pequeño";
+"FONT_15" = "Mediano";
+"FONT_17" = "Grande";
+
+"STYLE_TITLE" = "Estilo";
+"STYLE_SHOW_TIMESTAMPS" = "Mostrar marcas de tiempo";
+"STYLE_SHOW_JOIN_PART" = "Mostrar entradas/salidas";
+
+"GENERAL_AUTO_JOIN_CHANNELS" = "Auto-unirse a los canales";
+"GENERAL_AUTO_AWAY" = "Auto-away";
+
+"MENTIONS_TITLE" = "Menciones";
+"MENTIONS_ADD_TITLE" = "Añadir Palabra Clave";
+"MENTIONS_KEYWORD_FIELD" = "Palabra Clave";
+"MENTIONS_FOOTER" = "Vaya a Notificaciones en Ajustes para controlar el escudo y los sonidos.";
+"MENTIONS_NICK_SUBTITLE" = "Sustituido con tu apodo";
+
+"ABOUT_TITLE" = "Acerca de";
+"ABOUT_VERSION" = "Versión";
+"ABOUT_SITE" = "Página Web";
+"ABOUT_EMAIL" = "Soporte";
+"ABOUT_IRC" = "IRC";
+"ABOUT_ACKNOWLEDGEMENTS" = "Agradecimientos";
+
+/* IRC Events */
+
+"IRC_KICKED_EVENT" = "%@ sacó a %@ (%@)";
+"IRC_USER_QUIT_EVENT" = "%@ se ha desconectado";
+"IRC_USER_PARTED_EVENT" = "%@ ha salido de %@";
+"IRC_USER_JOINED_EVENT" = "%@ se ha unido a %@";
+"IRC_NICK_CHANGE_EVENT" = "%@ ahora se conoce como %@";
+
+"IRC_MODE_EVENT" = "%@ configura modo %@";
+"IRC_TOPIC_CHANGE_EVENT" = "%@ ha cambiado el tema a %@";
+"IRC_TOPIC_EVENT" = "Tema es %@";
+
+"IRC_USER_NOT_ONLINE_EVENT" = "%@ no esta conectado.";
+
+"IRC_CONNECTED" = "¡Conectado!";
+"IRC_CONNECTING" = "Conectando...";
+"IRC_DISCONNECTED" = "Desconectado";
+"IRC_DISCONNECTED_ERROR" = "Desconectado (%@)";
+
+"IRC_CHANNEL_MODE_q" = "Dueño";
+"IRC_CHANNEL_MODE_PLURAL_q" = "Dueños";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "Dueños";
+
+"IRC_CHANNEL_MODE_a" = "Protegido";
+"IRC_CHANNEL_MODE_PLURAL_a" = "Protegidos";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Protegidos";
+
+"IRC_CHANNEL_MODE_o" = "Op";
+"IRC_CHANNEL_MODE_PLURAL_o" = "Ops";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "Operadores";
+
+"IRC_CHANNEL_MODE_h" = "Medio-op";
+"IRC_CHANNEL_MODE_PLURAL_h" = "Medio-ops";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "Medio-Operadores";
+
+"IRC_CHANNEL_MODE_v" = "Hablante";
+"IRC_CHANNEL_MODE_PLURAL_v" = "Hablantes";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Hablantes";
+
+/* Input bar */
+
+"INPUT_UPLOAD_IMAGE_LABEL" = "Mandar una Imagen";
+"INPUT_MESSAGE_PLACEHOLDER" = "Mensaje";
+"INPUT_SEND_BUTTON_LABEL" = "Mandar Mensaje";
+
+"UPLOAD_IMAGE_CAMERA" = "Tomar Foto";
+"UPLOAD_IMAGE_LIBRARY" = "Seleccionar Foto Existente";
+"UPLOAD_IMAGE_UPLOADING" = "Subiendo Imagen";
+
+"UPLOAD_IMAGE_POLICY_TITLE" = "Subida de Imagen";
+"UPLOAD_IMAGE_POLICY_BODY" = "La subida de imágenes se realiza a través de un servicio de terceros, %@. Al seguir, estará aceptando su política de privacidad.";
+"UPLOAD_IMAGE_POLICY_VIEW" = "Ver Política de Privacidad";
+"UPLOAD_IMAGE_POLICY_AGREE" = "Acordar";
+
+"UPLOAD_IMAGE_PREFERENCES_TITLE" = "Subidas de Imágenes";
+
+"CLOUDAPP_VERIFY_FAILURE" = "La cuenta no pudo ser validada, por favor intente otra vez.";
+"CLOUDAPP_USERNAME" = "Email";
+"CLOUDAPP_PASSWORD" = "Contraseña";
+
+/* Whois */
+"NICK_WHOIS" = "Whois";
+"WHOIS_USER_TITLE" = "Usuario";
+"WHOIS_SERVER_TITLE" = "Servidor";
+"WHOIS_CHANNELS_TITLE" = "Canales";
+
+/* Media */
+"MEDIA_NOT_PLAYING" = "no esta reproduciendo nada";
+"MEDIA_PLAYING_TITLE_ARTIST_ALBUM" = "esta %@ %@ de %@ de %@";
+"MEDIA_PLAYING_TITLE_ARTIST" = "esta %@ %@ de %@";
+"MEDIA_PLAYING_TITLE_ALBUM" = "esta %@ %@ de %@";
+"MEDIA_PLAYING_TITLE" = "esta %@ %@";
+"MEDIA_PLAYING_ERROR" = "No se pudo encontrar la información de la multimedia";
+
+"MEDIA_VERB_AUDIO" = "oyendo";
+"MEDIA_VERB_VIDEO" = "viendo";
+"MEDIA_VERB_ALL" = "reproduciendo";
+
+"NICK_LIST" = "Personas";
