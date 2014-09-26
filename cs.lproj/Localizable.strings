@@ -1,0 +1,194 @@
+/*
+  Localizable.strings
+  Palaver
+
+  Created by Honza Dvorsky on 26/09/2014.
+  Copyright (c) 2012-2014 Cocode. All rights reserved.
+*/
+
+"REQUIRED" = "Požadováno";
+"OPTIONAL" = "Nepovinné";
+"CANCEL" = "Zrušit";
+"CLOSE" = "Zavřít";
+"OK" = "OK";
+
+"NICKNAME" = "Přezdívka";
+
+"QUERY_LIST_TITLE" = "Žádosti";
+"QUERY_LIST_TITLE_UNREAD" = "Žádosti (%@)";
+"QUERY_LIST_ADD_NETWORK_TITLE" = "Přidat síť";
+"QUERY_LIST_ADD_NETWORK_MESSAGE" = "Přidejte si první sít stiskem zde!";
+
+"NETWORK_ADD" = "Přidat síť";
+"CHANNEL_ADD" = "Přidat kanál";
+"NICK_ADD" = "Odeslat zprávu Uživateli";
+"NICK_ADD_DONE" = "Obsah zprávy";
+"NICK_ADD_TITLE" = "Odeslat zprávu Uživateli";
+"ADD_NICK_SECTION_TITLE" = "Uživatel";
+
+"NICK_SEND_MESSAGE" = "Odeslat zprávu";
+"NICK_CHANNEL_KICK" = "Vykopnout";
+"NICK_CHANNEL_BAN" = "Zablokovat";
+"NICK_CHANNEL_OP" = "Dát Op";
+"NICK_CHANNEL_VOICE" = "Dát slovo";
+"NICK_CHANNEL_DEOP" = "Vzít Op";
+"NICK_CHANNEL_DEVOICE" = "Vzít slovo";
+
+"CHANNEL_ADD_CHANNEL_NAME" = "Jméno";
+"CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
+
+"NETWORK_SERVER_SECTION" = "Server";
+"NETWORK_AUTH_SECTION" = "Identita";
+
+"NETWORK_TITLE" = "Síť";
+"NETWORK_TITLE_PLURAL" = "Sítě";
+"NETWORK_NAME" = "Jméno sítě";
+"NETWORK_ADDRESS" = "Adresa";
+"NETWORK_ADDRESS_PLACEHOLDER" = "Jméno nebo IP";
+"NETWORK_PORT" = "Port";
+"NETWORK_USE_TLS" = "SSL";
+"NETWORK_PASSWORD" = "Heslo";
+"NETWORK_AUTOCONNECT" = "Automaticky připojit";
+"NETWORK_DELETE" = "Odstranit síť";
+
+"NETWORK_AUTHENTICATION" = "Ověřování";
+"NETWORK_AUTHENTICATION_USERNAME" = "Uživatelské jméno";
+"NETWORK_AUTHENTICATION_PASSWORD" = "Heslo";
+"NETWORK_AUTHENTICATION_SERVICE" = "Služba";
+"NETWORK_AUTHENTICATION_SERVICE_NONE" = "Žádná";
+"NETWORK_AUTHENTICATION_CREDENTIALS" = "Přístupové údaje";
+
+"NETWORK_OPTIONS" = "Možnosti";
+"NETWORK_EDIT" = "Upravit";
+"NETWORK_COLLAPSE" = "Zabalit";
+"NETWORK_EXPAND" = "Rozbalit";
+"NETWORK_CONNECT" = "Připojit";
+"NETWORK_DISCONNECT" = "Odpojit";
+
+"NETWORK_PASSWORD_INCORRECT" = "Nesprávné heslo";
+
+"TLS_TRUST_CERTIFICATE" = "Ověření";
+"TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Neověřený Certifikát";
+"TLS_UNTRUSTED_CERTIFICATE_BODY" = "Server, ke kterému se připojujete, má neověřený TLS certifikát.";
+
+"CHANNEL_TITLE" = "Kanál";
+"CHANNEL_JOIN" = "Přidat se";
+"CHANNEL_PASSWORD" = "Heslo";
+"CHANNEL_INVITE" = "Pozvánka";
+"CHANNEL_INVITE_BODY" = "%@ vás zve do %@";
+
+"QUERY_REMOVE" = "Odstranit";
+
+"PREFERENCES_TITLE" = "Nastavení";
+"PREFERENCES_IDENTITY_SECTION" = "Identita";
+"PREFERENCES_INTERFACE_SECTION" = "Rozhraní";
+"PREFERENCES_GENERAL_SECTION" = "Obecné";
+"PREFERENCES_REALNAME" = "Pravé jméno";
+
+"FONT_SIZE_TITLE" = "Velikost textu";
+"FONT_12" = "Velmi malá";
+"FONT_13" = "Malá";
+"FONT_15" = "Střední";
+"FONT_17" = "Velká";
+
+"STYLE_TITLE" = "Styl";
+"STYLE_SHOW_TIMESTAMPS" = "Ukázat čas";
+"STYLE_SHOW_JOIN_PART" = "Ukázat připojení/odpojení";
+
+"GENERAL_AUTO_JOIN_CHANNELS" = "Automaticky se připojit ke kanálům";
+"GENERAL_AUTO_AWAY" = "Auto nedostupný";
+
+"MENTIONS_TITLE" = "Zmínění";
+"MENTIONS_ADD_TITLE" = "Přidat klíčové slovo";
+"MENTIONS_KEYWORD_FIELD" = "Klíčové slovo";
+"MENTIONS_FOOTER" = "Běžte do sekce Oznámení v Nastavení pro upravení odznaků a zvuků.";
+"MENTIONS_NICK_SUBTITLE" = "Nahrazený vaší přezdívkou";
+
+"ABOUT_TITLE" = "O Aplikaci";
+"ABOUT_VERSION" = "Verze";
+"ABOUT_SITE" = "Domovská stránka";
+"ABOUT_EMAIL" = "Podpora";
+"ABOUT_IRC" = "IRC";
+"ABOUT_ACKNOWLEDGEMENTS" = "Poděkování";
+
+/* IRC Events */
+
+"IRC_KICKED_EVENT" = "%@ vykopl %@ (%@)";
+"IRC_USER_QUIT_EVENT" = "%@ ukončil";
+"IRC_USER_PARTED_EVENT" = "%@ odešel %@";
+"IRC_USER_JOINED_EVENT" = "%@ přišel %@";
+"IRC_NICK_CHANGE_EVENT" = "%@ je odteď %@";
+
+"IRC_MODE_EVENT" = "%@ přepnul na stav %@";
+"IRC_TOPIC_CHANGE_EVENT" = "%@ změnil téma na %@";
+"IRC_TOPIC_EVENT" = "Téma je %@";
+
+"IRC_USER_NOT_ONLINE_EVENT" = "%@ není připojen";
+
+"IRC_CONNECTED" = "Připojen!";
+"IRC_CONNECTING" = "Připojování...";
+"IRC_DISCONNECTED" = "Odpojen";
+"IRC_DISCONNECTED_ERROR" = "Odpojen (%@)";
+
+"IRC_CHANNEL_MODE_q" = "Majitel";
+"IRC_CHANNEL_MODE_PLURAL_q" = "Majitelé";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "Majitelé";
+
+"IRC_CHANNEL_MODE_a" = "Chráněný";
+"IRC_CHANNEL_MODE_PLURAL_a" = "Chráněné";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Chráněné";
+
+"IRC_CHANNEL_MODE_o" = "Operátor";
+"IRC_CHANNEL_MODE_PLURAL_o" = "Operátoři";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "Operátoři";
+
+"IRC_CHANNEL_MODE_h" = "Půl-operátor";
+"IRC_CHANNEL_MODE_PLURAL_h" = "Půl-operátoři";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "Půl-operátoři";
+
+"IRC_CHANNEL_MODE_v" = "Slovo";
+"IRC_CHANNEL_MODE_PLURAL_v" = "Slova";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Slova";
+
+/* Input bar */
+
+"INPUT_UPLOAD_IMAGE_LABEL" = "Odeslat obrázek";
+"INPUT_MESSAGE_PLACEHOLDER" = "Zpráva";
+"INPUT_SEND_BUTTON_LABEL" = "Odeslat zprávu";
+
+"UPLOAD_IMAGE_CAMERA" = "Vyfotit";
+"UPLOAD_IMAGE_LIBRARY" = "Vybrat existující";
+"UPLOAD_IMAGE_UPLOADING" = "Nahrávání";
+
+"UPLOAD_IMAGE_POLICY_TITLE" = "Nahrání obrázku";
+"UPLOAD_IMAGE_POLICY_BODY" = "Uploading images is done via a third-party service, %@. Tapping below will agree to the privacy policy.";
+"UPLOAD_IMAGE_POLICY_BODY" = "Nahrávání obrázků provozuje třetí strana, %@. Stisknutím níže souhlasíte s jejich zásadami ochrany osobních údajů.";
+"UPLOAD_IMAGE_POLICY_VIEW" = "Zobrazit zásady ochrany osobních údajů";
+"UPLOAD_IMAGE_POLICY_AGREE" = "Souhlasím";
+
+"UPLOAD_IMAGE_PREFERENCES_TITLE" = "Nahrané obrázky";
+
+"CLOUDAPP_VERIFY_FAILURE" = "Account could not be verified, please try again.";
+"CLOUDAPP_VERIFY_FAILURE" = "Účet se nepodařilo ověřit, zkuste to prosím znovu.";
+"CLOUDAPP_USERNAME" = "Email";
+"CLOUDAPP_PASSWORD" = "Heslo";
+
+/* Whois */
+"NICK_WHOIS" = "Whois";
+"WHOIS_USER_TITLE" = "Uživatel";
+"WHOIS_SERVER_TITLE" = "Server";
+"WHOIS_CHANNELS_TITLE" = "Kanály";
+
+/* Media */
+"MEDIA_NOT_PLAYING" = "nic neposlouchá";
+"MEDIA_PLAYING_TITLE_ARTIST_ALBUM" = "je %@ %@ od %@ od %@";
+"MEDIA_PLAYING_TITLE_ARTIST" = "je %@ %@ od %@";
+"MEDIA_PLAYING_TITLE_ALBUM" = "je %@ %@ od %@";
+"MEDIA_PLAYING_TITLE" = "je %@ %@";
+"MEDIA_PLAYING_ERROR" = "Nepodařilo se najít informace o skladbě.";
+
+"MEDIA_VERB_AUDIO" = "poslouchá";
+"MEDIA_VERB_VIDEO" = "sleduje";
+"MEDIA_VERB_ALL" = "přehrává";
+
+"NICK_LIST" = "Lidé";
