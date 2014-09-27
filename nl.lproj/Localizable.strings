@@ -190,3 +190,6 @@
 "MEDIA_VERB_ALL" = "speelt momenteel";
 
 "NICK_LIST" = "Personen";
+
+/* Channel List */
+"CHANNEL_LIST_TITLE" = "Channels";

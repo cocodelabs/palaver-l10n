@@ -190,3 +190,6 @@
 "MEDIA_VERB_ALL" = "playing";
 
 "NICK_LIST" = "People";
+
+/* Channel List */
+"CHANNEL_LIST_TITLE" = "Channels";

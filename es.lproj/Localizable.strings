@@ -190,3 +190,6 @@
 "MEDIA_VERB_ALL" = "reproduciendo";
 
 "NICK_LIST" = "Personas";
+
+/* Channel List */
+"CHANNEL_LIST_TITLE" = "Channels";

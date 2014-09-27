@@ -192,3 +192,6 @@
 "MEDIA_VERB_ALL" = "přehrává";
 
 "NICK_LIST" = "Lidé";
+
+/* Channel List */
+"CHANNEL_LIST_TITLE" = "Channels";
