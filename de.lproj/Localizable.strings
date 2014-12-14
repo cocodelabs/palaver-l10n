@@ -91,7 +91,7 @@
 "FONT_15" = "Mittel";
 "FONT_17" = "Groß";
 
-"STYLE_TITLE" = "Style";
+"STYLE_TITLE" = "Thema";
 "STYLE_SHOW_TIMESTAMPS" = "Zeitstempel anzeigen";
 "STYLE_SHOW_JOIN_PART" = "Betreten/Verlassen anzeigen";
 

@@ -91,7 +91,7 @@
 "FONT_15" = "Gemiddeld";
 "FONT_17" = "Groot";
 
-"STYLE_TITLE" = "Stijl";
+"STYLE_TITLE" = "Thema";
 "STYLE_SHOW_TIMESTAMPS" = "Geef tijdstempel weer";
 "STYLE_SHOW_JOIN_PART" = "Weergeef betreden/verlaten";
 
