@@ -95,6 +95,10 @@
 "STYLE_SHOW_TIMESTAMPS" = "Ukázat čas";
 "STYLE_SHOW_JOIN_PART" = "Ukázat připojení/odpojení";
 
+"THEME_VARIANT_AUTOMATICALLY" = "Switch Automatically";
+"THEME_VARIANT_LIGHT" = "Light";
+"THEME_VARIANT_DARK" = "Dark";
+
 "GENERAL_AUTO_JOIN_CHANNELS" = "Automaticky se připojit ke kanálům";
 "GENERAL_AUTO_AWAY" = "Auto nedostupný";
 

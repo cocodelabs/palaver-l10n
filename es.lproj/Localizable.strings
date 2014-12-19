@@ -95,6 +95,10 @@
 "STYLE_SHOW_TIMESTAMPS" = "Mostrar marcas de tiempo";
 "STYLE_SHOW_JOIN_PART" = "Mostrar entradas/salidas";
 
+"THEME_VARIANT_AUTOMATICALLY" = "Switch Automatically";
+"THEME_VARIANT_LIGHT" = "Light";
+"THEME_VARIANT_DARK" = "Dark";
+
 "GENERAL_AUTO_JOIN_CHANNELS" = "Auto-unirse a los canales";
 "GENERAL_AUTO_AWAY" = "Auto-away";
 

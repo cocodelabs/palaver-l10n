@@ -95,6 +95,10 @@
 "STYLE_SHOW_TIMESTAMPS" = "Geef tijdstempel weer";
 "STYLE_SHOW_JOIN_PART" = "Weergeef betreden/verlaten";
 
+"THEME_VARIANT_AUTOMATICALLY" = "Verander automatisch";
+"THEME_VARIANT_LIGHT" = "Licht";
+"THEME_VARIANT_DARK" = "Donker";
+
 "GENERAL_AUTO_JOIN_CHANNELS" = "Verbind automatisch met kanalen";
 "GENERAL_AUTO_AWAY" = "Automatische weg status";
 

@@ -95,6 +95,10 @@
 "STYLE_SHOW_TIMESTAMPS" = "Zeitstempel anzeigen";
 "STYLE_SHOW_JOIN_PART" = "Betreten/Verlassen anzeigen";
 
+"THEME_VARIANT_AUTOMATICALLY" = "Automatisch wechseln";
+"THEME_VARIANT_LIGHT" = "Hell";
+"THEME_VARIANT_DARK" = "Dunkel";
+
 "GENERAL_AUTO_JOIN_CHANNELS" = "Räume auto. betreten";
 "GENERAL_AUTO_AWAY" = "Auto. abwesend";
 
