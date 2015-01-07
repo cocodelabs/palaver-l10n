@@ -91,12 +91,12 @@
 "FONT_15" = "Mittel";
 "FONT_17" = "Groß";
 
-"STYLE_TITLE" = "Thema";
+"STYLE_TITLE" = "Design";
 "STYLE_SHOW_TIMESTAMPS" = "Zeitstempel anzeigen";
 "STYLE_SHOW_JOIN_PART" = "Betreten/Verlassen anzeigen";
 
-"THEME_TITLE" = "Thema";
-"THEME_VARIANT_TITLE" = "Variant (Light/Dark)";
+"THEME_TITLE" = "Design";
+"THEME_VARIANT_TITLE" = "Variante (Hell/Dunkel)";
 "THEME_VARIANT_AUTOMATICALLY" = "Automatisch wechseln";
 "THEME_VARIANT_LIGHT" = "Hell";
 "THEME_VARIANT_DARK" = "Dunkel";
