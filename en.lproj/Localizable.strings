@@ -64,6 +64,8 @@
 "NETWORK_EXPAND" = "Expand";
 "NETWORK_CONNECT" = "Connect";
 "NETWORK_DISCONNECT" = "Disconnect";
+"NETWORK_ORDER" = "Order";
+"NETWORK_REARRANGE" = "Rearrange";
 
 "NETWORK_PASSWORD_INCORRECT" = "Password incorrect";
 

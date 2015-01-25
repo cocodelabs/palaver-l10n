@@ -64,6 +64,8 @@
 "NETWORK_EXPAND" = "Uitklappen";
 "NETWORK_CONNECT" = "Verbinden";
 "NETWORK_DISCONNECT" = "Verbinding verbreken";
+"NETWORK_ORDER" = "Volgorde";
+"NETWORK_REARRANGE" = "Verander volgorde";
 
 "NETWORK_PASSWORD_INCORRECT" = "Wachtwoord onjuist";
 

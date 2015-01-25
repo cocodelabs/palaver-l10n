@@ -64,6 +64,8 @@
 "NETWORK_EXPAND" = "Rozbalit";
 "NETWORK_CONNECT" = "Připojit";
 "NETWORK_DISCONNECT" = "Odpojit";
+"NETWORK_ORDER" = "Order";
+"NETWORK_REARRANGE" = "Rearrange";
 
 "NETWORK_PASSWORD_INCORRECT" = "Nesprávné heslo";
 
