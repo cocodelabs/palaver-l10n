@@ -65,7 +65,7 @@
 "NETWORK_CONNECT" = "Verbinden";
 "NETWORK_DISCONNECT" = "Trennen";
 "NETWORK_ORDER" = "Order";
-"NETWORK_REARRANGE" = "Rearrange";
+"NETWORK_REARRANGE" = "Sortieren";
 
 "NETWORK_PASSWORD_INCORRECT" = "Falsches Passwort";
 
