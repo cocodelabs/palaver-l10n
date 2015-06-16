@@ -67,7 +67,7 @@
 "NETWORK_ORDER" = "Order";
 "NETWORK_REARRANGE" = "Rearrange";
 
-"NETWORK_PASSWORD_INCORRECT" = "Password incorrect";
+"NETWORK_PASSWORD_INCORRECT" = "Password incorrect (%@)";
 
 "TLS_TRUST_CERTIFICATE" = "Trust";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Untrusted Certificate";

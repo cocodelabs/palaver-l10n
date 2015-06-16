@@ -67,7 +67,7 @@
 "NETWORK_ORDER" = "Order";
 "NETWORK_REARRANGE" = "Seřadit";
 
-"NETWORK_PASSWORD_INCORRECT" = "Nesprávné heslo";
+"NETWORK_PASSWORD_INCORRECT" = "Nesprávné heslo (%@)";
 
 "TLS_TRUST_CERTIFICATE" = "Ověření";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Neověřený Certifikát";

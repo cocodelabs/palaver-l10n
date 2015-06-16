@@ -67,7 +67,7 @@
 "NETWORK_ORDER" = "Volgorde";
 "NETWORK_REARRANGE" = "Verander volgorde";
 
-"NETWORK_PASSWORD_INCORRECT" = "Wachtwoord onjuist";
+"NETWORK_PASSWORD_INCORRECT" = "Wachtwoord onjuist (%@)";
 
 "TLS_TRUST_CERTIFICATE" = "Vertrouwen";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Onbetrouwbaar certificaat";
