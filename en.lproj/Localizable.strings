@@ -99,6 +99,7 @@
 "STYLE_TITLE" = "Theme";
 "STYLE_SHOW_TIMESTAMPS" = "Show timestamps";
 "STYLE_SHOW_JOIN_PART" = "Show join/part";
+"STYLE_PREVIEW_LINKS" = "Show link previews";
 
 "THEME_TITLE" = "Theme";
 "THEME_VARIANT_TITLE" = "Variant (Light/Dark)";

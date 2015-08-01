@@ -99,6 +99,7 @@
 "STYLE_TITLE" = "Thema";
 "STYLE_SHOW_TIMESTAMPS" = "Geef tijdstempel weer";
 "STYLE_SHOW_JOIN_PART" = "Weergeef betreden/verlaten";
+"STYLE_PREVIEW_LINKS" = "Toon link voorbeeld";
 
 "THEME_TITLE" = "Thema";
 "THEME_VARIANT_TITLE" = "Variant (licht/donker)";

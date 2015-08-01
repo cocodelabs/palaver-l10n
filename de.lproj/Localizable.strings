@@ -99,6 +99,7 @@
 "STYLE_TITLE" = "Design";
 "STYLE_SHOW_TIMESTAMPS" = "Zeitstempel anzeigen";
 "STYLE_SHOW_JOIN_PART" = "Betreten/Verlassen anzeigen";
+"STYLE_PREVIEW_LINKS" = "Show link previews";
 
 "THEME_TITLE" = "Design";
 "THEME_VARIANT_TITLE" = "Variante (Hell/Dunkel)";

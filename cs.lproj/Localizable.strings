@@ -99,6 +99,7 @@
 "STYLE_TITLE" = "Styl";
 "STYLE_SHOW_TIMESTAMPS" = "Ukázat čas";
 "STYLE_SHOW_JOIN_PART" = "Ukázat připojení/odpojení";
+"STYLE_PREVIEW_LINKS" = "Show link previews";
 
 "THEME_TITLE" = "Theme";
 "THEME_VARIANT_TITLE" = "Variant (Light/Dark)";
