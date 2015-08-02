@@ -162,6 +162,12 @@
 "IRC_CHANNEL_MODE_PLURAL_v" = "Hablantes";
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Hablantes";
 
+/* Query Status */
+"QUERY_STATUS_DISCONNECTED" = "Disconnected.";
+"QUERY_STATUS_CONNECTING" = "Connecting...";
+"QUERY_STATUS_PARTED" = "Tap to join";
+"QUERY_STATUS_NICK_OFFLINE" = "User is offline";
+
 /* Input bar */
 
 "INPUT_UPLOAD_IMAGE_LABEL" = "Mandar una Imagen";
