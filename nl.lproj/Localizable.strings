@@ -95,6 +95,7 @@
 "FONT_13" = "Klein";
 "FONT_15" = "Gemiddeld";
 "FONT_17" = "Groot";
+"FONT_19" = "Huge";
 
 "STYLE_TITLE" = "Thema";
 "STYLE_SHOW_TIMESTAMPS" = "Geef tijdstempel weer";

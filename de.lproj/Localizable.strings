@@ -95,6 +95,7 @@
 "FONT_13" = "Klein";
 "FONT_15" = "Mittel";
 "FONT_17" = "Groß";
+"FONT_19" = "Huge";
 
 "STYLE_TITLE" = "Design";
 "STYLE_SHOW_TIMESTAMPS" = "Zeitstempel anzeigen";

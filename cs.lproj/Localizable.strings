@@ -95,6 +95,7 @@
 "FONT_13" = "Malá";
 "FONT_15" = "Střední";
 "FONT_17" = "Velká";
+"FONT_19" = "Huge";
 
 "STYLE_TITLE" = "Styl";
 "STYLE_SHOW_TIMESTAMPS" = "Ukázat čas";

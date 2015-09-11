@@ -95,6 +95,7 @@
 "FONT_13" = "Pequeño";
 "FONT_15" = "Mediano";
 "FONT_17" = "Grande";
+"FONT_19" = "Huge";
 
 "STYLE_TITLE" = "Estilo";
 "STYLE_SHOW_TIMESTAMPS" = "Mostrar marcas de tiempo";

@@ -95,6 +95,7 @@
 "FONT_13" = "Small";
 "FONT_15" = "Medium";
 "FONT_17" = "Large";
+"FONT_19" = "Huge";
 
 "STYLE_TITLE" = "Theme";
 "STYLE_SHOW_TIMESTAMPS" = "Show timestamps";
