@@ -163,6 +163,9 @@
 "IRC_CHANNEL_MODE_PLURAL_v" = "Voiced";
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Voiced";
 
+/* Notifications */
+"IRC_CHANNEL_INVITATION" = "%@ has invited you to %@ on %@";
+
 /* Query Status */
 "QUERY_STATUS_DISCONNECTED" = "Verbinding verbroken";
 "QUERY_STATUS_DISCONNECTED_ACTION" = "Tap to connect";

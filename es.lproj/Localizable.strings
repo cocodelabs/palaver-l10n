@@ -163,6 +163,9 @@
 "IRC_CHANNEL_MODE_PLURAL_v" = "Hablantes";
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Hablantes";
 
+/* Notifications */
+"IRC_CHANNEL_INVITATION" = "%@ has invited you to %@ on %@";
+
 /* Query Status */
 "QUERY_STATUS_DISCONNECTED" = "Disconnected";
 "QUERY_STATUS_DISCONNECTED_ACTION" = "Tap to connect";
