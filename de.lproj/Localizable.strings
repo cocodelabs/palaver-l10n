@@ -164,7 +164,8 @@
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Voiced";
 
 /* Notifications */
-"IRC_CHANNEL_INVITATION" = "%@ has invited you to %@ on %@";
+"IRC_CHANNEL_INVITATION" = "%@ has invited you to join %@ on %@";
+"IRC_CHANNEL_KICKED" = "%@ has kicked you from %@ on %@";
 
 /* Query Status */
 "QUERY_STATUS_DISCONNECTED" = "Disconnected";
