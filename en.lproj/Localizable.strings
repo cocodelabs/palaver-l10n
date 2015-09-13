@@ -180,8 +180,8 @@
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Enable Link Preview";
 "QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "Disable Link Preview";
-"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Just this once";
-"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "All the time";
+"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Just this link";
+"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "All links";
 
 /* Input bar */
 
