@@ -95,12 +95,12 @@
 "FONT_13" = "Malá";
 "FONT_15" = "Střední";
 "FONT_17" = "Velká";
-"FONT_19" = "Huge";
+"FONT_19" = "Obrovská";
 
 "STYLE_TITLE" = "Styl";
 "STYLE_SHOW_TIMESTAMPS" = "Ukázat čas";
 "STYLE_SHOW_JOIN_PART" = "Ukázat připojení/odpojení";
-"STYLE_PREVIEW_LINKS" = "Show link previews";
+"STYLE_PREVIEW_LINKS" = "Zobrazovat náhledy odkazů";
 
 "THEME_TITLE" = "Theme";
 "THEME_VARIANT_TITLE" = "Variant (Light/Dark)";
@@ -164,24 +164,24 @@
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Slova";
 
 /* Notifications */
-"IRC_CHANNEL_INVITATION" = "%@ has invited you to join %@ on %@";
-"IRC_CHANNEL_KICKED" = "%@ has kicked you from %@ on %@";
+"IRC_CHANNEL_INVITATION" = "%@ vás pozval do %@ na %@";
+"IRC_CHANNEL_KICKED" = "%@ vás vykopl z %@ na %@";
 
 /* Query Status */
-"QUERY_STATUS_DISCONNECTED" = "Disconnected";
-"QUERY_STATUS_DISCONNECTED_ACTION" = "Tap to connect";
+"QUERY_STATUS_DISCONNECTED" = "Odpojen";
+"QUERY_STATUS_DISCONNECTED_ACTION" = "Klikněte pro připojení";
 
-"QUERY_STATUS_PARTED" = "Channel not joined";
-"QUERY_STATUS_PARTED_ACTION" = "Tap to join";
+"QUERY_STATUS_PARTED" = "Kanál nepřidán";
+"QUERY_STATUS_PARTED_ACTION" = "Klikněte pro přidání";
 
-"QUERY_STATUS_CONNECTING" = "Connecting...";
-"QUERY_STATUS_NICK_OFFLINE" = "User is offline";
+"QUERY_STATUS_CONNECTING" = "Připojuji...";
+"QUERY_STATUS_NICK_OFFLINE" = "Uživatel je odpojen";
 
 /* Link Preview */
-"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Enable Link Preview";
-"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "Disable Link Preview";
-"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Just this once";
-"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "All the time";
+"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Zapněte náhledy odkazů";
+"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "Vypněte náhledy odkazů";
+"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Pouze jednou";
+"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "Pokaždé";
 
 /* Input bar */
 
