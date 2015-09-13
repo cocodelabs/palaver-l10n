@@ -177,6 +177,12 @@
 "QUERY_STATUS_CONNECTING" = "Connecting...";
 "QUERY_STATUS_NICK_OFFLINE" = "User is offline";
 
+/* Link Preview */
+"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Enable Link Preview";
+"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "Disable Link Preview";
+"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Just this once";
+"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "All the time";
+
 /* Input bar */
 
 "INPUT_UPLOAD_IMAGE_LABEL" = "Odeslat obrázek";
