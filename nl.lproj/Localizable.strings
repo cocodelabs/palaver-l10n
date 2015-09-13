@@ -12,7 +12,7 @@
 "CLOSE" = "Sluiten";
 "OK" = "Ok";
 
-"NICKNAME" = "Nickname";
+"NICKNAME" = "Bijnaam";
 
 "QUERY_LIST_TITLE" = "Gesprekken";
 "QUERY_LIST_TITLE_UNREAD" = "Gesprekken (%@)";
@@ -95,7 +95,7 @@
 "FONT_13" = "Klein";
 "FONT_15" = "Gemiddeld";
 "FONT_17" = "Groot";
-"FONT_19" = "Huge";
+"FONT_19" = "Extra groot";
 
 "STYLE_TITLE" = "Thema";
 "STYLE_SHOW_TIMESTAMPS" = "Geef tijdstempel weer";
@@ -115,7 +115,7 @@
 "MENTIONS_ADD_TITLE" = "Voeg sleutelwoord toe";
 "MENTIONS_KEYWORD_FIELD" = "Sleutelwoord";
 "MENTIONS_FOOTER" = "Ga naar Notificaties in de Instellingen om je badges en geluiden in te stellen.";
-"MENTIONS_NICK_SUBTITLE" = "Vervang met je nickname";
+"MENTIONS_NICK_SUBTITLE" = "Vervangen met je bijnaam";
 
 "ABOUT_TITLE" = "Over";
 "ABOUT_VERSION" = "Versie";
@@ -164,28 +164,28 @@
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Voiced";
 
 /* Notifications */
-"IRC_CHANNEL_INVITATION" = "%@ has invited you to join %@ on %@";
-"IRC_CHANNEL_KICKED" = "%@ has kicked you from %@ on %@";
+"IRC_CHANNEL_INVITATION" = "%@ heeft je uitgenodigd het kanaal %@ op %@ te betreden";
+"IRC_CHANNEL_KICKED" = "%@ heeft je van %@ op %@ gekicked";
 
 /* Query Status */
 "QUERY_STATUS_DISCONNECTED" = "Verbinding verbroken";
-"QUERY_STATUS_DISCONNECTED_ACTION" = "Tap to connect";
+"QUERY_STATUS_DISCONNECTED_ACTION" = "Tik om te verbinden";
 
-"QUERY_STATUS_PARTED" = "Tik om te betreden";
-"QUERY_STATUS_PARTED_ACTION" = "Tap to join";
+"QUERY_STATUS_PARTED" = "Niet in channel";
+"QUERY_STATUS_PARTED_ACTION" = "Tik om te betreden";
 
 "QUERY_STATUS_CONNECTING" = "Verbinden...";
 "QUERY_STATUS_NICK_OFFLINE" = "Gebruiker is offline";
 
 /* Link Preview */
-"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Enable Link Preview";
-"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "Disable Link Preview";
-"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Just this once";
-"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "All the time";
+"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Link voorbeeld inschakelen";
+"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "Link voorbeeld uitschakelen";
+"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Alleen voor deze link";
+"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "Voor alle links";
 
 /* Input bar */
 
-"INPUT_UPLOAD_IMAGE_LABEL" = "Send an Image";
+"INPUT_UPLOAD_IMAGE_LABEL" = "Stuur een afbeelding";
 "INPUT_MESSAGE_PLACEHOLDER" = "Bericht";
 "INPUT_SEND_BUTTON_TITLE_LABEL" = "Stuur";
 
@@ -216,7 +216,7 @@
 "MEDIA_PLAYING_TITLE_ARTIST" = "%@ %@ van %@";
 "MEDIA_PLAYING_TITLE_ALBUM" = "%@ %@ van het album %@";
 "MEDIA_PLAYING_TITLE" = "%@ %@";
-"MEDIA_PLAYING_ERROR" = "Cannot find media information.";
+"MEDIA_PLAYING_ERROR" = "Kon media informatie niet vinden.";
 
 "MEDIA_VERB_AUDIO" = "luistert naar";
 "MEDIA_VERB_VIDEO" = "kijkt naar";
