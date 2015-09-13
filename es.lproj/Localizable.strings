@@ -67,8 +67,8 @@
 "NETWORK_EXPAND" = "Abrir";
 "NETWORK_CONNECT" = "Conectar";
 "NETWORK_DISCONNECT" = "Desconectar";
-"NETWORK_ORDER" = "Order";
-"NETWORK_REARRANGE" = "Rearrange";
+"NETWORK_ORDER" = "Orden";
+"NETWORK_REARRANGE" = "Reorganizar";
 
 "NETWORK_PASSWORD_INCORRECT" = "Clave incorrecta (%@)";
 
@@ -95,18 +95,18 @@
 "FONT_13" = "Pequeño";
 "FONT_15" = "Mediano";
 "FONT_17" = "Grande";
-"FONT_19" = "Huge";
+"FONT_19" = "Enorme";
 
 "STYLE_TITLE" = "Estilo";
 "STYLE_SHOW_TIMESTAMPS" = "Mostrar marcas de tiempo";
 "STYLE_SHOW_JOIN_PART" = "Mostrar entradas/salidas";
-"STYLE_PREVIEW_LINKS" = "Show link previews";
+"STYLE_PREVIEW_LINKS" = "Mostrar previstas de enlaces";
 
-"THEME_TITLE" = "Theme";
-"THEME_VARIANT_TITLE" = "Variant (Light/Dark)";
-"THEME_VARIANT_AUTOMATICALLY" = "Switch Automatically";
-"THEME_VARIANT_LIGHT" = "Light";
-"THEME_VARIANT_DARK" = "Dark";
+"THEME_TITLE" = "Tema";
+"THEME_VARIANT_TITLE" = "Variante (Brillante/Oscuro)";
+"THEME_VARIANT_AUTOMATICALLY" = "Cambiar Automáticamente";
+"THEME_VARIANT_LIGHT" = "Brillante";
+"THEME_VARIANT_DARK" = "Oscuro";
 
 "GENERAL_AUTO_JOIN_CHANNELS" = "Auto-unirse a los canales";
 "GENERAL_AUTO_AWAY" = "Auto-away";
@@ -164,24 +164,24 @@
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Hablantes";
 
 /* Notifications */
-"IRC_CHANNEL_INVITATION" = "%@ has invited you to join %@ on %@";
-"IRC_CHANNEL_KICKED" = "%@ has kicked you from %@ on %@";
+"IRC_CHANNEL_INVITATION" = "%@ te ha invitado a %@ en %@";
+"IRC_CHANNEL_KICKED" = "%@ te ha sacado de %@ en %@";
 
 /* Query Status */
-"QUERY_STATUS_DISCONNECTED" = "Disconnected";
-"QUERY_STATUS_DISCONNECTED_ACTION" = "Tap to connect";
+"QUERY_STATUS_DISCONNECTED" = "Desconectado";
+"QUERY_STATUS_DISCONNECTED_ACTION" = "Toque para conectar";
 
-"QUERY_STATUS_PARTED" = "Channel not joined";
-"QUERY_STATUS_PARTED_ACTION" = "Tap to join";
+"QUERY_STATUS_PARTED" = "No forma parte del canal";
+"QUERY_STATUS_PARTED_ACTION" = "Toque para unirse";
 
-"QUERY_STATUS_CONNECTING" = "Connecting...";
-"QUERY_STATUS_NICK_OFFLINE" = "User is offline";
+"QUERY_STATUS_CONNECTING" = "Conectando...";
+"QUERY_STATUS_NICK_OFFLINE" = "El usuario no se encuentra en línea";
 
 /* Link Preview */
-"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Enable Link Preview";
-"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "Disable Link Preview";
-"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Just this once";
-"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "All the time";
+"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Habilitar Prevista de Enlaces";
+"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "Deshabilitar Prevista de Enlaces";
+"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Solo esta ves";
+"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "Todo el tiempo";
 
 /* Input bar */
 
@@ -225,4 +225,4 @@
 "NICK_LIST" = "Personas";
 
 /* Channel List */
-"CHANNEL_LIST_TITLE" = "Channels";
+"CHANNEL_LIST_TITLE" = "Canales";
