@@ -127,7 +127,7 @@
 
 /* IRC Events */
 
-"IRC_KICKED_EVENT" = "%@が%@（%@）がキック";
+"IRC_KICKED_EVENT" = "%@が%@（%@）がkick";
 "IRC_USER_QUIT_EVENT" = "%@が終了";
 "IRC_USER_PARTED_EVENT" = "%@が%@から退出";
 "IRC_USER_JOINED_EVENT" = "%@が%@に参加";
@@ -166,7 +166,7 @@
 
 /* Notifications */
 "IRC_CHANNEL_INVITATION" = "%@が%@に%@で招待しました";
-"IRC_CHANNEL_KICKED" = "%@が%@を%@でキックしました";
+"IRC_CHANNEL_KICKED" = "%@が%@を%@でkickしました";
 
 /* Query Status */
 "QUERY_STATUS_DISCONNECTED" = "切断しました";
