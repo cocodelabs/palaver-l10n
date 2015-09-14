@@ -89,6 +89,7 @@
 "PREFERENCES_INTERFACE_SECTION" = "Oberfläche";
 "PREFERENCES_GENERAL_SECTION" = "Allgemein";
 "PREFERENCES_REALNAME" = "Name";
+"PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
 
 "FONT_SIZE_TITLE" = "Schriftgröße";
 "FONT_12" = "Winzig";

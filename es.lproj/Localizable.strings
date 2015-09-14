@@ -89,6 +89,7 @@
 "PREFERENCES_INTERFACE_SECTION" = "Interfaz";
 "PREFERENCES_GENERAL_SECTION" = "General";
 "PREFERENCES_REALNAME" = "Nombre real";
+"PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
 
 "FONT_SIZE_TITLE" = "Tamaño de letra";
 "FONT_12" = "Minúsculo";

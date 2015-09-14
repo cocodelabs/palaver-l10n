@@ -89,6 +89,7 @@
 "PREFERENCES_INTERFACE_SECTION" = "Uiterlijk";
 "PREFERENCES_GENERAL_SECTION" = "Algemeen";
 "PREFERENCES_REALNAME" = "Echte naam";
+"PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
 
 "FONT_SIZE_TITLE" = "Lettergrootte";
 "FONT_12" = "Mini";

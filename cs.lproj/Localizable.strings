@@ -89,6 +89,7 @@
 "PREFERENCES_INTERFACE_SECTION" = "Rozhraní";
 "PREFERENCES_GENERAL_SECTION" = "Obecné";
 "PREFERENCES_REALNAME" = "Pravé jméno";
+"PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
 
 "FONT_SIZE_TITLE" = "Velikost textu";
 "FONT_12" = "Velmi malá";
