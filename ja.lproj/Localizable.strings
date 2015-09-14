@@ -1,0 +1,229 @@
+/*
+  Localizable.strings
+  Palaver
+
+  Created by Delisa Mason on 09/13/2015.
+  Copyright (c) 2012-2015 Cocode. All rights reserved.
+*/
+
+"REQUIRED" = "必須入力";
+"OPTIONAL" = "任意信号";
+"CANCEL" = "キャンセル";
+"CLOSE" = "閉じる";
+"OK" = "OK";
+
+"NICKNAME" = "ニックネーム";
+
+"QUERY_LIST_TITLE" = "チャット";
+"QUERY_LIST_TITLE_UNREAD" = "チャット (%@)";
+"QUERY_LIST_ADD_NETWORK_TITLE" = "ネットワークを連ねる";
+"QUERY_LIST_ADD_NETWORK_MESSAGE" = "Tap here to add your first network!";
+
+"NETWORK_ADD" = "ネットワークを連ねる";
+"CHANNEL_ADD" = "チャンネルに参加";
+"NICK_ADD" = "ユーザーへメッセージ";
+"NICK_ADD_DONE" = "メッセージ";
+"NICK_ADD_TITLE" = "ユーザーへメッセージ";
+"ADD_NICK_SECTION_TITLE" = "ユーザー";
+
+"NICK_SEND_MESSAGE" = "メッセージを送信";
+"NICK_CHANNEL_KICK" = "Kick";
+"NICK_CHANNEL_BAN" = "Ban";
+"NICK_CHANNEL_OP" = "指定したOp権を付与";
+"NICK_CHANNEL_VOICE" = "指定したVoice権を付与";
+"NICK_CHANNEL_DEOP" = "Opを剥奪";
+"NICK_CHANNEL_DEVOICE" = "Voiceを剥奪";
+
+"CHANNEL_ADD_CHANNEL_NAME" = "名";
+"CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
+
+"NETWORK_SERVER_SECTION" = "サーバー";
+"NETWORK_AUTH_SECTION" = "氏名";
+
+"NETWORK_TITLE" = "ネットワーク";
+"NETWORK_TITLE_PLURAL" = "ネットワーク";
+"NETWORK_NAME" = "名";
+"NETWORK_ADDRESS" = "アドレス";
+"NETWORK_ADDRESS_PLACEHOLDER" = "IPアドレスかホスト名";
+"NETWORK_PORT" = "ポート";
+"NETWORK_USE_TLS" = "SSL";
+"NETWORK_PASSWORD" = "パスワード";
+"NETWORK_AUTOCONNECT" = "自動接続";
+"NETWORK_DELETE" = "ネットワークを削除";
+
+"NETWORK_AUTHENTICATION" = "認証";
+"NETWORK_AUTHENTICATION_USERNAME" = "ユーザ名";
+"NETWORK_AUTHENTICATION_PASSWORD" = "パスワード";
+"NETWORK_AUTHENTICATION_SERVICE" = "サービス";
+"NETWORK_AUTHENTICATION_SERVICE_NONE" = "無し";
+"NETWORK_AUTHENTICATION_SERVICE_ZNC" = "ZNC";
+"NETWORK_AUTHENTICATION_SERVICE_NICKSERV" = "NickServ";
+"NETWORK_AUTHENTICATION_SERVICE_SASL" = "SASL";
+"NETWORK_AUTHENTICATION_CREDENTIALS" = "証明書";
+
+"NETWORK_OPTIONS" = "環境設定";
+"NETWORK_EDIT" = "編集";
+"NETWORK_COLLAPSE" = "Queryを非表示";
+"NETWORK_EXPAND" = "Queryを表示";
+"NETWORK_CONNECT" = "接続";
+"NETWORK_DISCONNECT" = "切断";
+"NETWORK_ORDER" = "順序付ける";
+"NETWORK_REARRANGE" = "並べ直す";
+
+"NETWORK_PASSWORD_INCORRECT" = "パスワードが正しくありません (%@)";
+
+"TLS_TRUST_CERTIFICATE" = "信頼";
+"TLS_UNTRUSTED_CERTIFICATE_TITLE" = "明書は信頼できません";
+"TLS_UNTRUSTED_CERTIFICATE_BODY" = "The server that you are connecting to has an untrusted TLS certificate.";
+
+"CHANNEL_TITLE" = "チャンネル";
+"CHANNEL_JOIN" = "入る";
+"CHANNEL_PASSWORD" = "パスワード";
+"CHANNEL_INVITE" = "招待";
+"CHANNEL_INVITE_BODY" = "%@は%@に招待しました";
+
+"QUERY_REMOVE" = "削除";
+
+"PREFERENCES_TITLE" = "設定";
+"PREFERENCES_IDENTITY_SECTION" = "氏名";
+"PREFERENCES_INTERFACE_SECTION" = "ＧＵＩ";
+"PREFERENCES_GENERAL_SECTION" = "一般";
+"PREFERENCES_REALNAME" = "本名";
+"PREFERENCES_SYSTEM_SETTINGS" = "設定のアップ";
+
+"FONT_SIZE_TITLE" = "フォントサイズ";
+"FONT_12" = "ちっぽけ";
+"FONT_13" = "小さい";
+"FONT_15" = "中";
+"FONT_17" = "大きい";
+"FONT_19" = "でかい";
+
+"STYLE_TITLE" = "テーマ";
+"STYLE_SHOW_TIMESTAMPS" = "タイムスタンプを表示";
+"STYLE_SHOW_JOIN_PART" = "joinとpartを表示";
+"STYLE_PREVIEW_LINKS" = "ＵＲＬプレビューを表示";
+
+"THEME_TITLE" = "テーマ";
+"THEME_VARIANT_TITLE" = "変異形 (淡色/暗色)";
+"THEME_VARIANT_AUTOMATICALLY" = "ひとりでに転向";
+"THEME_VARIANT_LIGHT" = "淡色";
+"THEME_VARIANT_DARK" = "暗色";
+
+"GENERAL_AUTO_JOIN_CHANNELS" = "チャンネルに自動接続";
+"GENERAL_AUTO_AWAY" = "自動離席";
+
+"MENTIONS_TITLE" = "論及";
+"MENTIONS_ADD_TITLE" = "キーワードに参加";
+"MENTIONS_KEYWORD_FIELD" = "キーワード";
+"MENTIONS_FOOTER" = "Go to Notifications in Settings to control badges and sounds.";
+"MENTIONS_NICK_SUBTITLE" = "Substituted with your nick";
+
+"ABOUT_TITLE" = "概要";
+"ABOUT_VERSION" = "バージョン";
+"ABOUT_SITE" = "ホームページ";
+"ABOUT_EMAIL" = "フィードバック";
+"ABOUT_IRC" = "ＩＲＣ";
+"ABOUT_ACKNOWLEDGEMENTS" = "礼状";
+
+/* IRC Events */
+
+"IRC_KICKED_EVENT" = "%@が%@（%@）がキック";
+"IRC_USER_QUIT_EVENT" = "%@が終了";
+"IRC_USER_PARTED_EVENT" = "%@が%@から退出";
+"IRC_USER_JOINED_EVENT" = "%@が%@に参加";
+"IRC_NICK_CHANGE_EVENT" = "%@のニックネームが変更され%@になりました";
+
+"IRC_MODE_EVENT" = "%@がユーザモードを%@に両替しました";
+"IRC_TOPIC_CHANGE_EVENT" = "%@が%@のトピックを変更しました";
+"IRC_TOPIC_EVENT" = "Topicが%@";
+
+"IRC_USER_NOT_ONLINE_EVENT" = "%@がオンラインしません";
+
+"IRC_CONNECTED" = "接続しました！";
+"IRC_CONNECTING" = "接続しっています。。。";
+"IRC_DISCONNECTED" = "切断しました";
+"IRC_DISCONNECTED_ERROR" = "切断しました (%@)";
+
+"IRC_CHANNEL_MODE_q" = "Owner";
+"IRC_CHANNEL_MODE_PLURAL_q" = "Owner";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "Owner";
+
+"IRC_CHANNEL_MODE_a" = "Protected";
+"IRC_CHANNEL_MODE_PLURAL_a" = "Protected";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Protected";
+
+"IRC_CHANNEL_MODE_o" = "Op";
+"IRC_CHANNEL_MODE_PLURAL_o" = "Op";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "Operator";
+
+"IRC_CHANNEL_MODE_h" = "Half-op";
+"IRC_CHANNEL_MODE_PLURAL_h" = "Half-op";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "Half-Operator";
+
+"IRC_CHANNEL_MODE_v" = "Voice";
+"IRC_CHANNEL_MODE_PLURAL_v" = "Voice";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Voice";
+
+/* Notifications */
+"IRC_CHANNEL_INVITATION" = "%@が%@に%@で招待しました";
+"IRC_CHANNEL_KICKED" = "%@が%@を%@でキックしました";
+
+/* Query Status */
+"QUERY_STATUS_DISCONNECTED" = "切断しました";
+"QUERY_STATUS_DISCONNECTED_ACTION" = "Tap to connect";
+
+"QUERY_STATUS_PARTED" = "チャンネルが入りません";
+"QUERY_STATUS_PARTED_ACTION" = "Tap to join";
+
+"QUERY_STATUS_CONNECTING" = "接続しっています。。。";
+"QUERY_STATUS_NICK_OFFLINE" = "ユーザがオフライン";
+
+/* Link Preview */
+"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "ＵＲＬプレビューをイネーブル";
+"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "ＵＲＬプレビューをディスエーブル";
+"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "このＵＲＬ";
+"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "あらゆるＵＲＬ";
+
+/* Input bar */
+
+"INPUT_UPLOAD_IMAGE_LABEL" = "描画像を送信";
+"INPUT_MESSAGE_PLACEHOLDER" = "メッセージ";
+"INPUT_SEND_BUTTON_LABEL" = "メッセージを送信";
+
+"UPLOAD_IMAGE_CAMERA" = "写真またを撮る";
+"UPLOAD_IMAGE_LIBRARY" = "フォトライブラリ";
+"UPLOAD_IMAGE_UPLOADING" = "アップロードしっています";
+
+"UPLOAD_IMAGE_POLICY_TITLE" = "描画像アップロード";
+"UPLOAD_IMAGE_POLICY_BODY" = "Uploading images is done via a third-party service, %@. Tapping below will agree to the privacy policy.";
+"UPLOAD_IMAGE_POLICY_VIEW" = "プライバシーポリシーを読む";
+"UPLOAD_IMAGE_POLICY_AGREE" = "心得る";
+
+"UPLOAD_IMAGE_PREFERENCES_TITLE" = "描画像アップロード";
+
+"CLOUDAPP_VERIFY_FAILURE" = "Account could not be verified, please try again.";
+"CLOUDAPP_USERNAME" = "電子メール";
+"CLOUDAPP_PASSWORD" = "パスワード";
+
+/* Whois */
+"NICK_WHOIS" = "Whois";
+"WHOIS_USER_TITLE" = "ユーザ";
+"WHOIS_SERVER_TITLE" = "セーバー";
+"WHOIS_CHANNELS_TITLE" = "チャンネル";
+
+/* Media */
+"MEDIA_NOT_PLAYING" = "is not playing anything";
+"MEDIA_PLAYING_TITLE_ARTIST_ALBUM" = "is %@ %@ by %@ from %@";
+"MEDIA_PLAYING_TITLE_ARTIST" = "is %@ %@ by %@";
+"MEDIA_PLAYING_TITLE_ALBUM" = "is %@ %@ from %@";
+"MEDIA_PLAYING_TITLE" = "is %@ %@";
+"MEDIA_PLAYING_ERROR" = "Cannot find media information.";
+
+"MEDIA_VERB_AUDIO" = "listening to";
+"MEDIA_VERB_VIDEO" = "watching";
+"MEDIA_VERB_ALL" = "playing";
+
+"NICK_LIST" = "人民";
+
+/* Channel List */
+"CHANNEL_LIST_TITLE" = "チャンネル";
