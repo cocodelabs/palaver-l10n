@@ -194,12 +194,12 @@
 "UPLOAD_IMAGE_LIBRARY" = "フォトライブラリ";
 "UPLOAD_IMAGE_UPLOADING" = "アップロードしっています";
 
-"UPLOAD_IMAGE_POLICY_TITLE" = "描画像アップロード";
-"UPLOAD_IMAGE_POLICY_BODY" = "サードパーティーサービスの%@が描画像アップロードします。";
+"UPLOAD_IMAGE_POLICY_TITLE" = "画像のアップロード";
+"UPLOAD_IMAGE_POLICY_BODY" = "サードパーティーサービスの%@が画像のアップロードします。";
 "UPLOAD_IMAGE_POLICY_VIEW" = "プライバシーポリシーを読む";
 "UPLOAD_IMAGE_POLICY_AGREE" = "心得る";
 
-"UPLOAD_IMAGE_PREFERENCES_TITLE" = "描画像アップロード";
+"UPLOAD_IMAGE_PREFERENCES_TITLE" = "画像のアップロード";
 
 "CLOUDAPP_VERIFY_FAILURE" = "アカウントが糺しません。再試行してください。";
 "CLOUDAPP_USERNAME" = "電子メール";
