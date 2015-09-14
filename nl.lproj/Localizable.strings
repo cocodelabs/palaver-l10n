@@ -227,3 +227,9 @@
 
 /* Channel List */
 "CHANNEL_LIST_TITLE" = "Channels";
+
+/* Channel Detail */
+"CHANNEL_DETAIL_TITLE" = "Channel Settings";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS" = "Message Notifications";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "All messages";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Mentions or highlights";
