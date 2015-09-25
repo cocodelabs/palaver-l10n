@@ -1,0 +1,229 @@
+/* 
+  Localizable.strings
+  Palaver
+
+  Created by Dennis Collaris on 25/09/2015.
+  Copyright (c) 2012-2015 Cocode. All rights reserved.
+*/
+
+"REQUIRED" = "要求的"; /* English: Required */
+"OPTIONAL" = "可选的"; /* English: Optional */
+"CANCEL" = "取消"; /* English: Cancel */
+"CLOSE" = "关闭"; /* English: Close */
+"OK" = "好"; /* English: OK */
+
+"NICKNAME" = "昵称"; /* English: Nickname */
+
+"QUERY_LIST_TITLE" = "聊天"; /* English: Chats */
+"QUERY_LIST_TITLE_UNREAD" = "聊天"; /* English: Chats (%@) */
+"QUERY_LIST_ADD_NETWORK_TITLE" = "添加一个网络"; /* English: Add a Network */
+"QUERY_LIST_ADD_NETWORK_MESSAGE" = "点击这里添加你的第一个网络"; /* English: Tap here to add your first network! */
+
+"NETWORK_ADD" = "添加网络"; /* English: Add Network */
+"CHANNEL_ADD" = "加入频道"; /* English: Join Channel */
+"NICK_ADD" = "向用户发送信息"; /* English: Message a User */
+"NICK_ADD_DONE" = "信息"; /* English: Message */
+"NICK_ADD_TITLE" = "收件人"; /* English: Message User */
+"ADD_NICK_SECTION_TITLE" = "用户"; /* English: User */
+
+"NICK_SEND_MESSAGE" = "发送信息"; /* English: Send Message */
+"NICK_CHANNEL_KICK" = "踢除"; /* English: Kick */
+"NICK_CHANNEL_BAN" = "禁止"; /* English: Ban */
+"NICK_CHANNEL_OP" = "发送管理邀请"; /* English: Give Op */
+"NICK_CHANNEL_VOICE" = ""; /* English: Give Voice */
+"NICK_CHANNEL_DEOP" = "去除管理邀请"; /* English: Take Op */
+"NICK_CHANNEL_DEVOICE" = ""; /* English: Take Voice */
+
+"CHANNEL_ADD_CHANNEL_NAME" = "名字"; /* English: Name */
+"CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver"; /* English: #palaver */
+
+"NETWORK_SERVER_SECTION" = "服务器"; /* English: Server */
+"NETWORK_AUTH_SECTION" = "认证"; /* English: Identity */
+
+"NETWORK_TITLE" = "网络"; /* English: Network */
+"NETWORK_TITLE_PLURAL" = "网络"; /* English: Networks */
+"NETWORK_NAME" = "名字"; /* English: Name */
+"NETWORK_ADDRESS" = "地址"; /* English: Address */
+"NETWORK_ADDRESS_PLACEHOLDER" = "主机名或地址"; /* English: Hostname or IP */
+"NETWORK_PORT" = "端口"; /* English: Port */
+"NETWORK_USE_TLS" = "安全套接字"; /* English: SSL */
+"NETWORK_PASSWORD" = "密码"; /* English: Password */
+"NETWORK_AUTOCONNECT" = "自动连接"; /* English: Auto connect */
+"NETWORK_DELETE" = "删除网络"; /* English: Delete Network */
+
+"NETWORK_AUTHENTICATION" = "认证"; /* English: Authentication */
+"NETWORK_AUTHENTICATION_USERNAME" = "用户名"; /* English: Username */
+"NETWORK_AUTHENTICATION_PASSWORD" = "密码"; /* English: Password */
+"NETWORK_AUTHENTICATION_SERVICE" = "服务"; /* English: Service */
+"NETWORK_AUTHENTICATION_SERVICE_NONE" = "空"; /* English: None */
+"NETWORK_AUTHENTICATION_SERVICE_ZNC" = "ZNC"; /* English: ZNC */
+"NETWORK_AUTHENTICATION_SERVICE_NICKSERV" = "NickServ"; /* English: NickServ */
+"NETWORK_AUTHENTICATION_SERVICE_SASL" = "SASL"; /* English: SASL */
+"NETWORK_AUTHENTICATION_CREDENTIALS" = "资格证书"; /* English: Credentials */
+
+"NETWORK_OPTIONS" = "选项"; /* English: Options */
+"NETWORK_EDIT" = "编辑"; /* English: Edit */
+"NETWORK_COLLAPSE" = "压缩"; /* English: Collapse */
+"NETWORK_EXPAND" = "释放"; /* English: Expand */
+"NETWORK_CONNECT" = "连接"; /* English: Connect */
+"NETWORK_DISCONNECT" = "断开连接"; /* English: Disconnect */
+"NETWORK_ORDER" = ""; /* English: Order */
+"NETWORK_REARRANGE" = "重安排"; /* English: Rearrange */
+
+"NETWORK_PASSWORD_INCORRECT" = "密码错误(%@)"; /* English: Password incorrect (%@) */
+
+"TLS_TRUST_CERTIFICATE" = "信任"; /* English: Trust */
+"TLS_UNTRUSTED_CERTIFICATE_TITLE" = "不信任证书"; /* English: Untrusted Certificate */
+"TLS_UNTRUSTED_CERTIFICATE_BODY" = "你所连接的服务器具备不被信任的tls证书"; /* English: The server that you are connecting to has an untrusted TLS certificate. */
+
+"CHANNEL_TITLE" = "频道"; /* English: Channel */
+"CHANNEL_JOIN" = "加入"; /* English: Join */
+"CHANNEL_PASSWORD" = "密码"; /* English: Password */
+"CHANNEL_INVITE" = "邀请"; /* English: Invite */
+"CHANNEL_INVITE_BODY" = "％@ 邀请你加入 ％@"; /* English: %@ is inviting you into %@ */
+
+"QUERY_REMOVE" = "移除"; /* English: Remove */
+
+"PREFERENCES_TITLE" = "设置"; /* English: Settings */
+"PREFERENCES_IDENTITY_SECTION" = "身份"; /* English: Identity */
+"PREFERENCES_INTERFACE_SECTION" = "接口"; /* English: Interface */
+"PREFERENCES_GENERAL_SECTION" = "通用的"; /* English: General */
+"PREFERENCES_REALNAME" = "真实姓名"; /* English: Real name */
+"PREFERENCES_SYSTEM_SETTINGS" = "系统设置"; /* English: System Settings */
+
+"FONT_SIZE_TITLE" = "字体大小"; /* English: Font size */
+"FONT_12" = "微小"; /* English: Tiny */
+"FONT_13" = "小"; /* English: Small */
+"FONT_15" = "中等"; /* English: Medium */
+"FONT_17" = "大"; /* English: Large */
+"FONT_19" = "巨大"; /* English: Huge */
+
+"STYLE_TITLE" = "主题"; /* English: Theme */
+"STYLE_SHOW_TIMESTAMPS" = "显示时间戳"; /* English: Show timestamps */
+"STYLE_SHOW_JOIN_PART" = "显示连接/分离"; /* English: Show join/part */
+"STYLE_PREVIEW_LINKS" = "显示连接预览"; /* English: Show link previews */
+
+"THEME_TITLE" = "主题"; /* English: Theme */
+"THEME_VARIANT_TITLE" = "亮度(亮／暗)"; /* English: Variant (Light/Dark) */
+"THEME_VARIANT_AUTOMATICALLY" = "自动调节"; /* English: Switch Automatically */
+"THEME_VARIANT_LIGHT" = "亮"; /* English: Light */
+"THEME_VARIANT_DARK" = "暗"; /* English: Dark */
+
+"GENERAL_AUTO_JOIN_CHANNELS" = "自动加入频道"; /* English: Auto-join channels */
+"GENERAL_AUTO_AWAY" = "自动退出"; /* English: Auto away */
+
+"MENTIONS_TITLE" = "提到"; /* English: Mentions */
+"MENTIONS_ADD_TITLE" = "添加关键字"; /* English: Add Keyword */
+"MENTIONS_KEYWORD_FIELD" = "关键字"; /* English: Keyword */
+"MENTIONS_FOOTER" = "前往设置中的通知以控制徽章和声音"; /* English: Go to Notifications in Settings to control badges and sounds. */
+"MENTIONS_NICK_SUBTITLE" = "以昵称代替"; /* English: Substituted with your nick */
+
+"ABOUT_TITLE" = "关于"; /* English: About */
+"ABOUT_VERSION" = "版本"; /* English: Version */
+"ABOUT_SITE" = "网站"; /* English: Website */
+"ABOUT_EMAIL" = "反馈"; /* English: Feedback */
+"ABOUT_IRC" = "IRC"; /* English: IRC */
+"ABOUT_ACKNOWLEDGEMENTS" = "承认"; /* English: Acknowledgements */
+
+/* IRC Events */
+
+"IRC_KICKED_EVENT" = "%@ 接触(踢除) %@ (%@)"; /* English: %@ kicked %@ (%@) */
+"IRC_USER_QUIT_EVENT" = "%@ 已经退出"; /* English: %@ has quit */
+"IRC_USER_PARTED_EVENT" = "%@ 已经离开 %@"; /* English: %@ has left %@ */
+"IRC_USER_JOINED_EVENT" = "%@ 已经加入 %@"; /* English: %@ has joined %@ */
+"IRC_NICK_CHANGE_EVENT" = "%@ 被 %@所知"; /* English: %@ is now known as %@ */
+
+"IRC_MODE_EVENT" = "%@ 将模式设置成 %@"; /* English: %@ sets mode %@ */
+"IRC_TOPIC_CHANGE_EVENT" = "%@ 将话题修改为 %@"; /* English: %@ has changed the topic to %@ */
+"IRC_TOPIC_EVENT" = "话题是 %@"; /* English: The topic is %@ */
+
+"IRC_USER_NOT_ONLINE_EVENT" = "%@ 不在线"; /* English: %@ is not online */
+
+"IRC_CONNECTED" = "连接"; /* English: Connected! */
+"IRC_CONNECTING" = "连接中"; /* English: Connecting… */
+"IRC_DISCONNECTED" = "断开连接的"; /* English: Disconnected */
+"IRC_DISCONNECTED_ERROR" = "断开连接的 (%@)"; /* English: Disconnected (%@) */
+
+"IRC_CHANNEL_MODE_q" = "拥有者"; /* English: Owner */
+"IRC_CHANNEL_MODE_PLURAL_q" = "拥有者"; /* English: Owners */
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "拥有者"; /* English: Owners */
+
+"IRC_CHANNEL_MODE_a" = "受保护的"; /* English: Protected */
+"IRC_CHANNEL_MODE_PLURAL_a" = "受保护的"; /* English: Protected */
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "受保护的"; /* English: Protected */
+
+"IRC_CHANNEL_MODE_o" = "管理员"; /* English: Op */
+"IRC_CHANNEL_MODE_PLURAL_o" = "管理员"; /* English: Ops */
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "管理员"; /* English: Operators */
+
+"IRC_CHANNEL_MODE_h" = ""; /* English: Half-op */
+"IRC_CHANNEL_MODE_PLURAL_h" = ""; /* English: Half-ops */
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = ""; /* English: Half-Operators */
+
+"IRC_CHANNEL_MODE_v" = ""; /* English: Voice */
+"IRC_CHANNEL_MODE_PLURAL_v" = ""; /* English: Voiced */
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = ""; /* English: Voiced */
+
+/* Notifications */
+"IRC_CHANNEL_INVITATION" = "%@ 已经邀请你加入 %@ 关于什么 %@"; /* %@ has invited you to join %@ on %@ */
+"IRC_CHANNEL_KICKED" = "%@ 已经问候你 %@ 关于什么 %@; /* English: %@ has kicked you from %@ on %@ */
+
+/* Query Status */
+"QUERY_STATUS_DISCONNECTED" = "断开连接的"; /* English: Disconnected */
+"QUERY_STATUS_DISCONNECTED_ACTION" = "点击以连接"; /* English: Tap to connect */
+
+"QUERY_STATUS_PARTED" = "未加入频道"; /* English: Channel not joined */
+"QUERY_STATUS_PARTED_ACTION" = "点击加入"; /* English: Tap to join */
+
+"QUERY_STATUS_CONNECTING" = "连接中"; /* English: Connecting… */
+"QUERY_STATUS_NICK_OFFLINE" = "用户处于离线"; /* English: User is offline */
+
+/* Link Preview */
+"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "启动连接预览"; /* English: Enable URL Preview */
+"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "禁用连接预览"; /* English: Disable URL Preview */
+"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "仅仅这个连接"; /* English: Just this URL */
+"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "所有连接"; /* English: All URL */
+
+/* Input bar */
+
+"INPUT_UPLOAD_IMAGE_LABEL" = "发送图片"; /* English: Send an Image */
+"INPUT_MESSAGE_PLACEHOLDER" = "信息"; /* English: Message */
+"INPUT_SEND_BUTTON_LABEL" = "发送信息"; /* English: Send Message */
+
+"UPLOAD_IMAGE_CAMERA" = "拍照"; /* English: Take Photo */
+"UPLOAD_IMAGE_LIBRARY" = "选择已有照片"; /* English: Choose Existing */
+"UPLOAD_IMAGE_UPLOADING" = "上传 "; /* English: Uploading */
+
+"UPLOAD_IMAGE_POLICY_TITLE" = "图片上传"; /* English: Image Upload */
+"UPLOAD_IMAGE_POLICY_BODY" = "图片上传由第三方服务，％@，点击下方将同意隐私策略"; /* English: Uploading images is done via a third-party service, %@. Tapping below will agree to the privacy policy. */
+"UPLOAD_IMAGE_POLICY_VIEW" = "浏览隐私政策"; /* English: View Privacy Policy */
+"UPLOAD_IMAGE_POLICY_AGREE" = "同意"; /* English: Agree */
+
+"UPLOAD_IMAGE_PREFERENCES_TITLE" = "图片上传"; /* English: Image Uploads */
+
+"CLOUDAPP_VERIFY_FAILURE" = "账号无法识别，请再次尝试"; /* English: Account could not be verified, please try again. */
+"CLOUDAPP_USERNAME" = "电子邮箱"; /* English: Email */
+"CLOUDAPP_PASSWORD" = "密码"; /* English: Password */
+
+/* Whois */
+"NICK_WHOIS" = "昵称"; /* English: Whois */
+"WHOIS_USER_TITLE" = "用户"; /* English: User */
+"WHOIS_SERVER_TITLE" = "服务器"; /* English: Server */
+"WHOIS_CHANNELS_TITLE" = "频道"; /* English: Channels */
+
+/* Media */
+"MEDIA_NOT_PLAYING" = "没有在播放任何媒体"; /* English: is not playing anything */
+"MEDIA_PLAYING_TITLE_ARTIST_ALBUM" = "是%@ %@ 作者 %@ 来自 %@"; /* English: is %@ %@ by %@ from %@ */
+"MEDIA_PLAYING_TITLE_ARTIST" = "是%@ %@ 作者"; /* English: is %@ %@ by %@ */
+"MEDIA_PLAYING_TITLE_ALBUM" = "是 %@ 来自 %@"; /* English: is %@ %@ from %@ */
+"MEDIA_PLAYING_TITLE" = "是 %@"; /* English: is %@ %@ */
+"MEDIA_PLAYING_ERROR" = "无法找到媒体信息"; /* English: Cannot find media information. */
+
+"MEDIA_VERB_AUDIO" = "听"; /* English: listening to */
+"MEDIA_VERB_VIDEO" = "观看"; /* English: watching */
+"MEDIA_VERB_ALL" = "播放"; /* English: playing */
+
+"NICK_LIST" = "联系列表"; /* English: People */
+
+/* Channel List */
+"CHANNEL_LIST_TITLE" = "频道"; /* English: Channels */
