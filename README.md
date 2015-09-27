@@ -17,6 +17,7 @@ English     | `en` | [@kylef](https://github.com/kylef)
 German      | `de` | [@ePirat](https://github.com/ePirat)
 Spanish     | `es` | [@henriwatson](https://github.com/henriwatson)
 Czech       | `cs` | [@czechboy0](https://github.com/czechboy0)
+Japanese    | `ja` | [@kattrali](https://github.com/kattrali)
 
 ## License
 
