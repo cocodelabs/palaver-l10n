@@ -14,8 +14,8 @@
 
 "NICKNAME" = "昵称"; /* English: Nickname */
 
-"QUERY_LIST_TITLE" = "聊天"; /* English: Chats */
-"QUERY_LIST_TITLE_UNREAD" = "聊天"; /* English: Chats (%@) */
+"QUERY_LIST_TITLE" = "聊天室"; /* English: Chats */
+"QUERY_LIST_TITLE_UNREAD" = "聊天室(%@)"; /* English: Chats (%@) */
 "QUERY_LIST_ADD_NETWORK_TITLE" = "添加一个网络"; /* English: Add a Network */
 "QUERY_LIST_ADD_NETWORK_MESSAGE" = "点击这里添加你的第一个网络"; /* English: Tap here to add your first network! */
 
@@ -27,12 +27,12 @@
 "ADD_NICK_SECTION_TITLE" = "用户"; /* English: User */
 
 "NICK_SEND_MESSAGE" = "发送信息"; /* English: Send Message */
-"NICK_CHANNEL_KICK" = "踢除"; /* English: Kick */
+"NICK_CHANNEL_KICK" = "踢出"; /* English: Kick */
 "NICK_CHANNEL_BAN" = "禁止"; /* English: Ban */
 "NICK_CHANNEL_OP" = "发送管理邀请"; /* English: Give Op */
-"NICK_CHANNEL_VOICE" = ""; /* English: Give Voice */
+"NICK_CHANNEL_VOICE" = "給予發言權限"; /* English: Give Voice */
 "NICK_CHANNEL_DEOP" = "去除管理邀请"; /* English: Take Op */
-"NICK_CHANNEL_DEVOICE" = ""; /* English: Take Voice */
+"NICK_CHANNEL_DEVOICE" = "移除發言權限"; /* English: Take Voice */
 
 "CHANNEL_ADD_CHANNEL_NAME" = "名字"; /* English: Name */
 "CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver"; /* English: #palaver */
@@ -67,7 +67,7 @@
 "NETWORK_EXPAND" = "释放"; /* English: Expand */
 "NETWORK_CONNECT" = "连接"; /* English: Connect */
 "NETWORK_DISCONNECT" = "断开连接"; /* English: Disconnect */
-"NETWORK_ORDER" = ""; /* English: Order */
+"NETWORK_ORDER" = "安排"; /* English: Order */
 "NETWORK_REARRANGE" = "重安排"; /* English: Rearrange */
 
 "NETWORK_PASSWORD_INCORRECT" = "密码错误(%@)"; /* English: Password incorrect (%@) */
@@ -101,7 +101,7 @@
 "STYLE_TITLE" = "主题"; /* English: Theme */
 "STYLE_SHOW_TIMESTAMPS" = "显示时间戳"; /* English: Show timestamps */
 "STYLE_SHOW_JOIN_PART" = "显示连接/分离"; /* English: Show join/part */
-"STYLE_PREVIEW_LINKS" = "显示连接预览"; /* English: Show link previews */
+"STYLE_PREVIEW_LINKS" = "显示网址预览"; /* English: Show link previews */
 
 "THEME_TITLE" = "主题"; /* English: Theme */
 "THEME_VARIANT_TITLE" = "亮度(亮／暗)"; /* English: Variant (Light/Dark) */
@@ -127,7 +127,7 @@
 
 /* IRC Events */
 
-"IRC_KICKED_EVENT" = "%@ 接触(踢除) %@ (%@)"; /* English: %@ kicked %@ (%@) */
+"IRC_KICKED_EVENT" = "%@ 接触(踢除)%@(%@)"; /* English: %@ kicked %@ (%@) */
 "IRC_USER_QUIT_EVENT" = "%@ 已经退出"; /* English: %@ has quit */
 "IRC_USER_PARTED_EVENT" = "%@ 已经离开 %@"; /* English: %@ has left %@ */
 "IRC_USER_JOINED_EVENT" = "%@ 已经加入 %@"; /* English: %@ has joined %@ */
@@ -137,12 +137,12 @@
 "IRC_TOPIC_CHANGE_EVENT" = "%@ 将话题修改为 %@"; /* English: %@ has changed the topic to %@ */
 "IRC_TOPIC_EVENT" = "话题是 %@"; /* English: The topic is %@ */
 
-"IRC_USER_NOT_ONLINE_EVENT" = "%@ 不在线"; /* English: %@ is not online */
+"IRC_USER_NOT_ONLINE_EVENT" = "%@不在线"; /* English: %@ is not online */
 
 "IRC_CONNECTED" = "连接"; /* English: Connected! */
 "IRC_CONNECTING" = "连接中"; /* English: Connecting… */
 "IRC_DISCONNECTED" = "断开连接的"; /* English: Disconnected */
-"IRC_DISCONNECTED_ERROR" = "断开连接的 (%@)"; /* English: Disconnected (%@) */
+"IRC_DISCONNECTED_ERROR" = "断开连接的(%@)"; /* English: Disconnected (%@) */
 
 "IRC_CHANNEL_MODE_q" = "拥有者"; /* English: Owner */
 "IRC_CHANNEL_MODE_PLURAL_q" = "拥有者"; /* English: Owners */
@@ -156,17 +156,17 @@
 "IRC_CHANNEL_MODE_PLURAL_o" = "管理员"; /* English: Ops */
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "管理员"; /* English: Operators */
 
-"IRC_CHANNEL_MODE_h" = ""; /* English: Half-op */
-"IRC_CHANNEL_MODE_PLURAL_h" = ""; /* English: Half-ops */
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = ""; /* English: Half-Operators */
+"IRC_CHANNEL_MODE_h" = "副管理員"; /* English: Half-op */
+"IRC_CHANNEL_MODE_PLURAL_h" = "副管理員"; /* English: Half-ops */
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "副管理員"; /* English: Half-Operators */
 
-"IRC_CHANNEL_MODE_v" = ""; /* English: Voice */
-"IRC_CHANNEL_MODE_PLURAL_v" = ""; /* English: Voiced */
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = ""; /* English: Voiced */
+"IRC_CHANNEL_MODE_v" = "發言權限"; /* English: Voice */
+"IRC_CHANNEL_MODE_PLURAL_v" = "發言權限"; /* English: Voiced */
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "發言權限"; /* English: Voiced */
 
 /* Notifications */
-"IRC_CHANNEL_INVITATION" = "%@ 已经邀请你加入 %@ 关于什么 %@"; /* %@ has invited you to join %@ on %@ */
-"IRC_CHANNEL_KICKED" = "%@ 已经问候你 %@ 关于什么 %@; /* English: %@ has kicked you from %@ on %@ */
+"IRC_CHANNEL_INVITATION" = "您受邀加入 %2$@ ，邀請人是 %1$@"; /* %@ has invited you to join %@ on %@ */
+"IRC_CHANNEL_KICKED" = "您被踢出了 %2$@ ，踢您的人是 %1$@"; /* English: %@ has kicked you from %@ on %@ */
 
 /* Query Status */
 "QUERY_STATUS_DISCONNECTED" = "断开连接的"; /* English: Disconnected */
@@ -178,11 +178,11 @@
 "QUERY_STATUS_CONNECTING" = "连接中"; /* English: Connecting… */
 "QUERY_STATUS_NICK_OFFLINE" = "用户处于离线"; /* English: User is offline */
 
-/* Link Preview */
-"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "启动连接预览"; /* English: Enable URL Preview */
-"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "禁用连接预览"; /* English: Disable URL Preview */
-"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "仅仅这个连接"; /* English: Just this URL */
-"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "所有连接"; /* English: All URL */
+/* Link Preview */网
+"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "启用网址预览"; /* English: Enable URL Preview */
+"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "禁用网址预览"; /* English: Disable URL Preview */
+"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "仅仅这个网址"; /* English: Just this URL */
+"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "所有网址"; /* English: All URL */
 
 /* Input bar */
 
