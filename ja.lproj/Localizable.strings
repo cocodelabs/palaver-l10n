@@ -33,6 +33,8 @@
 "NICK_CHANNEL_VOICE" = "指定したVoice権を付与";
 "NICK_CHANNEL_DEOP" = "Opを剥奪";
 "NICK_CHANNEL_DEVOICE" = "Voiceを剥奪";
+"NICK_IGNORE" = "Ignore";
+"NICK_UNIGNORE" = "Stop Ignoring";
 
 "CHANNEL_ADD_CHANNEL_NAME" = "名";
 "CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
@@ -50,6 +52,7 @@
 "NETWORK_PASSWORD" = "パスワード";
 "NETWORK_AUTOCONNECT" = "自動接続";
 "NETWORK_DELETE" = "ネットワークを削除";
+"NETWORK_IGNORED_NICKS" = "Ignored Nicknames";
 
 "NETWORK_AUTHENTICATION" = "認証";
 "NETWORK_AUTHENTICATION_USERNAME" = "ユーザ名";
@@ -177,6 +180,9 @@
 
 "QUERY_STATUS_CONNECTING" = "接続しっています。。。";
 "QUERY_STATUS_NICK_OFFLINE" = "ユーザがオフライン";
+
+"QUERY_STATUS_NICK_IGNORED" = "Nickname Ignored";
+"QUERY_STATUS_NICK_IGNORED_ACTION" = "Tap here to stop ignoring this user.";
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "URLプレビューをイネーブル";
