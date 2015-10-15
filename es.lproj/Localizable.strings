@@ -33,8 +33,8 @@
 "NICK_CHANNEL_VOICE" = "Dar el Habla";
 "NICK_CHANNEL_DEOP" = "Quitar Op";
 "NICK_CHANNEL_DEVOICE" = "Quitar el Habla";
-"NICK_IGNORE" = "Ignore";
-"NICK_UNIGNORE" = "Stop Ignoring";
+"NICK_IGNORE" = "Ignorar";
+"NICK_UNIGNORE" = "Parar de Ignorar";
 
 "CHANNEL_ADD_CHANNEL_NAME" = "Nombre";
 "CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
@@ -52,7 +52,7 @@
 "NETWORK_PASSWORD" = "Contraseña";
 "NETWORK_AUTOCONNECT" = "Conectar automáticamente";
 "NETWORK_DELETE" = "Eliminar Red";
-"NETWORK_IGNORED_NICKS" = "Ignored Nicknames";
+"NETWORK_IGNORED_NICKS" = "Apodos Ignorados";
 
 "NETWORK_AUTHENTICATION" = "Autenticación";
 "NETWORK_AUTHENTICATION_USERNAME" = "Usuario";
@@ -92,7 +92,7 @@
 "PREFERENCES_INTERFACE_SECTION" = "Interfaz";
 "PREFERENCES_GENERAL_SECTION" = "General";
 "PREFERENCES_REALNAME" = "Nombre real";
-"PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
+"PREFERENCES_SYSTEM_SETTINGS" = "Configuración del Sistema";
 
 "FONT_SIZE_TITLE" = "Tamaño de letra";
 "FONT_12" = "Minúsculo";
@@ -116,8 +116,8 @@
 "GENERAL_AUTO_AWAY" = "Auto-away";
 
 "MENTIONS_TITLE" = "Menciones";
-"MENTIONS_ADD_TITLE" = "Añadir Palabra Clave";
-"MENTIONS_KEYWORD_FIELD" = "Palabra Clave";
+"MENTIONS_ADD_TITLE" = "Añadir Palabra Resaltada";
+"MENTIONS_KEYWORD_FIELD" = "Palabra Resaltada";
 "MENTIONS_FOOTER" = "Vaya a Notificaciones en Ajustes para controlar el escudo y los sonidos.";
 "MENTIONS_NICK_SUBTITLE" = "Sustituido con tu apodo";
 
@@ -235,8 +235,7 @@
 "CHANNEL_LIST_TITLE" = "Canales";
 
 /* Channel Detail */
-"CHANNEL_DETAIL_TITLE" = "Channel Settings";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS" = "Message Notifications";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "All messages";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Mentions or highlights";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Never";
+"CHANNEL_DETAIL_TITLE" = "Configuración del Canal";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS" = "Notificaciones de Mensajes";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "Todos los mensajes";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Menciones o palabras resaltadas";
