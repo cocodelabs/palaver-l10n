@@ -197,7 +197,8 @@
 "INPUT_SEND_BUTTON_LABEL" = "Mandar Mensaje";
 
 "UPLOAD_IMAGE_CAMERA" = "Tomar Foto";
-"UPLOAD_IMAGE_LIBRARY" = "Seleccionar Foto Existente";
+"UPLOAD_IMAGE_LIBRARY" = "Photo Library";
+"UPLOAD_IMAGE_UPLOAD" = "Upload Photo";
 "UPLOAD_IMAGE_UPLOADING" = "Subiendo Imagen";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Subida de Imagen";

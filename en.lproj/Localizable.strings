@@ -197,7 +197,8 @@
 "INPUT_SEND_BUTTON_LABEL" = "Send Message";
 
 "UPLOAD_IMAGE_CAMERA" = "Take Photo";
-"UPLOAD_IMAGE_LIBRARY" = "Choose Existing";
+"UPLOAD_IMAGE_LIBRARY" = "Photo Library";
+"UPLOAD_IMAGE_UPLOAD" = "Upload Photo";
 "UPLOAD_IMAGE_UPLOADING" = "Uploading";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Image Upload";

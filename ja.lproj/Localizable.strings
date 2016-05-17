@@ -197,7 +197,8 @@
 "INPUT_SEND_BUTTON_LABEL" = "メッセージを送信";
 
 "UPLOAD_IMAGE_CAMERA" = "写真またを撮る";
-"UPLOAD_IMAGE_LIBRARY" = "フォトライブラリ";
+"UPLOAD_IMAGE_LIBRARY" = "フォトライブラリー";
+"UPLOAD_IMAGE_UPLOAD" = "画像のアップロード";
 "UPLOAD_IMAGE_UPLOADING" = "アップロードしっています";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "画像のアップロード";

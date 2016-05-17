@@ -197,7 +197,8 @@
 "INPUT_SEND_BUTTON_TITLE_LABEL" = "Stuur";
 
 "UPLOAD_IMAGE_CAMERA" = "Maak foto";
-"UPLOAD_IMAGE_LIBRARY" = "Kies bestaande";
+"UPLOAD_IMAGE_LIBRARY" = "Photo Library";
+"UPLOAD_IMAGE_UPLOAD" = "Upload Photo";
 "UPLOAD_IMAGE_UPLOADING" = "Uploaden";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Afbeelding Uploaden";
