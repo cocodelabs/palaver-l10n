@@ -95,11 +95,7 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "設定のアップ";
 
 "FONT_SIZE_TITLE" = "フォントサイズ";
-"FONT_12" = "ちっぽけ";
-"FONT_13" = "小さい";
-"FONT_15" = "中";
-"FONT_17" = "大きい";
-"FONT_19" = "でかい";
+"FONT_SIZE_USE_SYSTEM" = "システム設定を使";
 
 "STYLE_TITLE" = "テーマ";
 "STYLE_SHOW_TIMESTAMPS" = "タイムスタンプを表示";

@@ -95,11 +95,7 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
 
 "FONT_SIZE_TITLE" = "Schriftgröße";
-"FONT_12" = "Winzig";
-"FONT_13" = "Klein";
-"FONT_15" = "Mittel";
-"FONT_17" = "Groß";
-"FONT_19" = "Riesig";
+"FONT_SIZE_USE_SYSTEM" = "Use System Settings";
 
 "STYLE_TITLE" = "Design";
 "STYLE_SHOW_TIMESTAMPS" = "Zeitstempel anzeigen";

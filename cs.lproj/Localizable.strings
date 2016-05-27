@@ -95,11 +95,7 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
 
 "FONT_SIZE_TITLE" = "Velikost textu";
-"FONT_12" = "Velmi malá";
-"FONT_13" = "Malá";
-"FONT_15" = "Střední";
-"FONT_17" = "Velká";
-"FONT_19" = "Obrovská";
+"FONT_SIZE_USE_SYSTEM" = "Use System Settings";
 
 "STYLE_TITLE" = "Styl";
 "STYLE_SHOW_TIMESTAMPS" = "Ukázat čas";

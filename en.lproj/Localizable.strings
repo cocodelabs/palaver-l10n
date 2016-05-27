@@ -95,11 +95,7 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
 
 "FONT_SIZE_TITLE" = "Font size";
-"FONT_12" = "Tiny";
-"FONT_13" = "Small";
-"FONT_15" = "Medium";
-"FONT_17" = "Large";
-"FONT_19" = "Huge";
+"FONT_SIZE_USE_SYSTEM" = "Use System Settings";
 
 "STYLE_TITLE" = "Theme";
 "STYLE_SHOW_TIMESTAMPS" = "Show timestamps";

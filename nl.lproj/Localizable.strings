@@ -95,11 +95,7 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "Systeem instellingen";
 
 "FONT_SIZE_TITLE" = "Lettergrootte";
-"FONT_12" = "Mini";
-"FONT_13" = "Klein";
-"FONT_15" = "Gemiddeld";
-"FONT_17" = "Groot";
-"FONT_19" = "Extra groot";
+"FONT_SIZE_USE_SYSTEM" = "Use System Settings";
 
 "STYLE_TITLE" = "Thema";
 "STYLE_SHOW_TIMESTAMPS" = "Geef tijdstempel weer";

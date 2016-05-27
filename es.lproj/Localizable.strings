@@ -95,11 +95,7 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "Configuración del Sistema";
 
 "FONT_SIZE_TITLE" = "Tamaño de letra";
-"FONT_12" = "Minúsculo";
-"FONT_13" = "Pequeño";
-"FONT_15" = "Mediano";
-"FONT_17" = "Grande";
-"FONT_19" = "Enorme";
+"FONT_SIZE_USE_SYSTEM" = "Use System Settings";
 
 "STYLE_TITLE" = "Estilo";
 "STYLE_SHOW_TIMESTAMPS" = "Mostrar marcas de tiempo";
