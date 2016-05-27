@@ -33,8 +33,8 @@
 "NICK_CHANNEL_VOICE" = "Geef Voice";
 "NICK_CHANNEL_DEOP" = "Verwijder Op";
 "NICK_CHANNEL_DEVOICE" = "Verwijder Voice";
-"NICK_IGNORE" = "Ignore";
-"NICK_UNIGNORE" = "Stop Ignoring";
+"NICK_IGNORE" = "Negeer";
+"NICK_UNIGNORE" = "Stop met negeren";
 
 "CHANNEL_ADD_CHANNEL_NAME" = "Naam";
 "CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
@@ -52,7 +52,7 @@
 "NETWORK_PASSWORD" = "Wachtwoord";
 "NETWORK_AUTOCONNECT" = "Automatisch verbinden";
 "NETWORK_DELETE" = "Verwijder Netwerk";
-"NETWORK_IGNORED_NICKS" = "Ignored Nicknames";
+"NETWORK_IGNORED_NICKS" = "Genegeerde gebruikers";
 
 "NETWORK_AUTHENTICATION" = "Authenticatie";
 "NETWORK_AUTHENTICATION_USERNAME" = "Gebruikersnaam";
@@ -177,8 +177,8 @@
 "QUERY_STATUS_CONNECTING" = "Verbinden...";
 "QUERY_STATUS_NICK_OFFLINE" = "Gebruiker is offline";
 
-"QUERY_STATUS_NICK_IGNORED" = "Nickname Ignored";
-"QUERY_STATUS_NICK_IGNORED_ACTION" = "Tap here to stop ignoring this user.";
+"QUERY_STATUS_NICK_IGNORED" = "Gebruiker genegeerd";
+"QUERY_STATUS_NICK_IGNORED_ACTION" = "Tik hier om te stoppen de gebruiker te negeren.";
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Link voorbeeld inschakelen";
