@@ -46,13 +46,13 @@
 "NETWORK_TITLE_PLURAL" = "Netzwerke";
 "NETWORK_NAME" = "Name";
 "NETWORK_ADDRESS" = "Adresse";
-"NETWORK_ADDRESS_PLACEHOLDER" = "Hostname or IP";
+"NETWORK_ADDRESS_PLACEHOLDER" = "Hostname oder IP";
 "NETWORK_PORT" = "Port";
 "NETWORK_USE_TLS" = "SSL";
 "NETWORK_PASSWORD" = "Passwort";
 "NETWORK_AUTOCONNECT" = "Auto. verbinden";
 "NETWORK_DELETE" = "Netzwerk löschen";
-"NETWORK_IGNORED_NICKS" = "Ignored Nicknames";
+"NETWORK_IGNORED_NICKS" = "Ignorierte Nicknamen";
 
 "NETWORK_AUTHENTICATION" = "Authentifizierung";
 "NETWORK_AUTHENTICATION_USERNAME" = "Benutzer";
@@ -92,10 +92,10 @@
 "PREFERENCES_INTERFACE_SECTION" = "Oberfläche";
 "PREFERENCES_GENERAL_SECTION" = "Allgemein";
 "PREFERENCES_REALNAME" = "Name";
-"PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
+"PREFERENCES_SYSTEM_SETTINGS" = "Systemeinstellungen";
 
 "FONT_SIZE_TITLE" = "Schriftgröße";
-"FONT_SIZE_USE_SYSTEM" = "Use System Settings";
+"FONT_SIZE_USE_SYSTEM" = "Systemeinstellung verwenden";
 
 "STYLE_TITLE" = "Design";
 "STYLE_SHOW_TIMESTAMPS" = "Zeitstempel anzeigen";
@@ -177,8 +177,8 @@
 "QUERY_STATUS_CONNECTING" = "Verbinden...";
 "QUERY_STATUS_NICK_OFFLINE" = "Benutzer ist offline";
 
-"QUERY_STATUS_NICK_IGNORED" = "Nickname Ignored";
-"QUERY_STATUS_NICK_IGNORED_ACTION" = "Tap here to stop ignoring this user.";
+"QUERY_STATUS_NICK_IGNORED" = "Nickname ignoriert";
+"QUERY_STATUS_NICK_IGNORED_ACTION" = "Tippe, um diesen Nutzer nicht mehr zu ignorieren.";
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Linkvorschau aktivieren";
@@ -193,8 +193,8 @@
 "INPUT_SEND_BUTTON_TITLE_LABEL" = "Senden";
 
 "UPLOAD_IMAGE_CAMERA" = "Foto aufnehmen";
-"UPLOAD_IMAGE_LIBRARY" = "Photo Library";
-"UPLOAD_IMAGE_UPLOAD" = "Upload Photo";
+"UPLOAD_IMAGE_LIBRARY" = "Fotobibliothek";
+"UPLOAD_IMAGE_UPLOAD" = "Foto hochladen";
 "UPLOAD_IMAGE_UPLOADING" = "Hochladen…";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Bild hochladen";
@@ -232,8 +232,8 @@
 "CHANNEL_LIST_TITLE" = "Räume";
 
 /* Channel Detail */
-"CHANNEL_DETAIL_TITLE" = "Channel Settings";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS" = "Message Notifications";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "All messages";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Mentions or highlights";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Never";
+"CHANNEL_DETAIL_TITLE" = "Raum Einstellungen";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS" = "Benachrichtigungen";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "Alle Nachrichten";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Erwähnungen/Hervorhebungen";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Niemals";
