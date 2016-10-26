@@ -95,7 +95,7 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "Configuración del Sistema";
 
 "FONT_SIZE_TITLE" = "Tamaño de letra";
-"FONT_SIZE_USE_SYSTEM" = "Use System Settings";
+"FONT_SIZE_USE_SYSTEM" = "Usar Configuración del Sistema";
 
 "STYLE_TITLE" = "Estilo";
 "STYLE_SHOW_TIMESTAMPS" = "Mostrar marcas de tiempo";
@@ -177,8 +177,8 @@
 "QUERY_STATUS_CONNECTING" = "Conectando...";
 "QUERY_STATUS_NICK_OFFLINE" = "El usuario no se encuentra en línea";
 
-"QUERY_STATUS_NICK_IGNORED" = "Nickname Ignored";
-"QUERY_STATUS_NICK_IGNORED_ACTION" = "Tap here to stop ignoring this user.";
+"QUERY_STATUS_NICK_IGNORED" = "Usuario Ignorado";
+"QUERY_STATUS_NICK_IGNORED_ACTION" = "Toque aquí para dejar de ignorar este usuario.";
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Habilitar Prevista de Enlaces";
@@ -193,8 +193,8 @@
 "INPUT_SEND_BUTTON_LABEL" = "Mandar Mensaje";
 
 "UPLOAD_IMAGE_CAMERA" = "Tomar Foto";
-"UPLOAD_IMAGE_LIBRARY" = "Photo Library";
-"UPLOAD_IMAGE_UPLOAD" = "Upload Photo";
+"UPLOAD_IMAGE_LIBRARY" = "Galería de Fotos";
+"UPLOAD_IMAGE_UPLOAD" = "Subir Foto";
 "UPLOAD_IMAGE_UPLOADING" = "Subiendo Imagen";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Subida de Imagen";
