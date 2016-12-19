@@ -19,6 +19,21 @@
 "QUERY_LIST_ADD_NETWORK_TITLE" = "Přidat síť";
 "QUERY_LIST_ADD_NETWORK_MESSAGE" = "Přidejte si první sít stiskem zde!";
 
+/* Accessibility label for connected network status */
+"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "connected";
+
+/* Accessibility label for disconnected network status */
+"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "disconnected";
+
+/* Accessibility label for connecting network status */
+"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "connecting";
+
+/* Accessibility Label for query */
+"QUERY_LIST_QUERY_LABEL" = "%@ (%@ unread)";
+
+/* Accessibility Label for query with unread mentions */
+"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ unread, with mentions)";
+
 "NETWORK_ADD" = "Přidat síť";
 "CHANNEL_ADD" = "Přidat kanál";
 "NICK_ADD" = "Odeslat zprávu Uživateli";
@@ -179,6 +194,15 @@
 
 "QUERY_STATUS_NICK_IGNORED" = "Nickname Ignored";
 "QUERY_STATUS_NICK_IGNORED_ACTION" = "Tap here to stop ignoring this user.";
+
+/* Accessibility label for nicks in channel button */
+"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "Channel Members";
+
+/* Accessibility label for whois user button */
+"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User";
+
+/* Accessibility label for scroll to bottom button */
+"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "Scroll down to bottom of conversation";
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Zapněte náhledy odkazů";
