@@ -234,9 +234,56 @@
 
 /* Whois */
 "NICK_WHOIS" = "Whois";
-"WHOIS_USER_TITLE" = "Gebruiker";
-"WHOIS_SERVER_TITLE" = "Server";
 "WHOIS_CHANNELS_TITLE" = "Kanalen";
+
+/* Whois */
+"NICK_WHOIS" = "Whois";
+"WHOIS_CHANNELS_TITLE" = "Channels";
+
+/* Whois User Information Section */
+"WHOIS_USER_SECTION" = "Gebruiker";
+
+/* Whois Session Information Section */
+"WHOIS_SESSION_SECTION" = "Session Information";
+
+/* Whois Server Information Section */
+"WHOIS_SERVER_SECTION" = "Server Information";
+
+/* Whois User Realname */
+"WHOIS_USER_REALNAME" = "Realname";
+
+/* Whois User Ident */
+"WHOIS_USER_IDENT" = "Ident";
+
+/* Whois User Hostname */
+"WHOIS_USER_HOSTNAME" = "Hostname";
+
+/* Whois User Is Network Operator */
+"WHOIS_USER_IS_NETWORK_OPERATOR" = "Network Operator";
+
+/* Whois User Connection Status */
+"WHOIS_USER_CONNECTION_STATUS" = "Status";
+
+/* Whois User Connection Status (Connected) */
+"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Connected";
+
+/* Whois User Connection Status (Disconnected) */
+"WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline";
+
+/* Whois Session Idle Time */
+"WHOIS_SESSION_IDLE_TIME" = "Idle";
+
+/* Whois Session Connected Time */
+"WHOIS_SESSION_CONNECTED_TIME" = "Connected";
+
+/* Whois Session Using TLS */
+"WHOIS_SESSION_USING_TLS" = "Using TLS";
+
+/* Whois Server Hostname */
+"WHOIS_SERVER_HOSTNAME" = "Server";
+
+/* Whois Server Information */
+"WHOIS_SERVER_INFO" = "Server Info";
 
 /* Media */
 "MEDIA_NOT_PLAYING" = "speelt geen muziek af";
@@ -261,3 +308,9 @@
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "Alle berichten";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Vermeldingen of highlights";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Never";
+
+/* View/Edit Channel Modes */
+"CHANNEL_DETAIL_VIEW_MODES" = "Channel Modes";
+
+/* Modes View (View/Edit) Title */
+"CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes";
