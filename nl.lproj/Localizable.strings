@@ -20,19 +20,19 @@
 "QUERY_LIST_ADD_NETWORK_MESSAGE" = "Tik hier om je eerste netwerk toe te voegen!";
 
 /* Accessibility label for connected network status */
-"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "connected";
+"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "verbonden";
 
 /* Accessibility label for disconnected network status */
-"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "disconnected";
+"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "verbinding verbroken";
 
 /* Accessibility label for connecting network status */
-"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "connecting";
+"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "verbinden";
 
 /* Accessibility Label for query */
-"QUERY_LIST_QUERY_LABEL" = "%@ (%@ unread)";
+"QUERY_LIST_QUERY_LABEL" = "%@ (%@ ongelezen)";
 
 /* Accessibility Label for query with unread mentions */
-"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ unread, with mentions)";
+"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ ongelezen, met mentions)";
 
 "NETWORK_ADD" = "Netwerk toevoegen";
 "CHANNEL_ADD" = "Betreed kanaal";
@@ -196,13 +196,13 @@
 "QUERY_STATUS_NICK_IGNORED_ACTION" = "Tik hier om te stoppen de gebruiker te negeren.";
 
 /* Accessibility label for nicks in channel button */
-"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "Channel Members";
+"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "Kanaal gebruikers";
 
 /* Accessibility label for whois user button */
-"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User";
+"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is gebruiker";
 
 /* Accessibility label for scroll to bottom button */
-"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "Scroll down to bottom of conversation";
+"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "Scroll naar het meest recente bericht";
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Link voorbeeld inschakelen";
@@ -236,48 +236,44 @@
 "NICK_WHOIS" = "Whois";
 "WHOIS_CHANNELS_TITLE" = "Kanalen";
 
-/* Whois */
-"NICK_WHOIS" = "Whois";
-"WHOIS_CHANNELS_TITLE" = "Channels";
-
 /* Whois User Information Section */
 "WHOIS_USER_SECTION" = "Gebruiker";
 
 /* Whois Session Information Section */
-"WHOIS_SESSION_SECTION" = "Session Information";
+"WHOIS_SESSION_SECTION" = "Sessie Informatie";
 
 /* Whois Server Information Section */
-"WHOIS_SERVER_SECTION" = "Server Information";
+"WHOIS_SERVER_SECTION" = "Server Informatie";
 
 /* Whois User Realname */
-"WHOIS_USER_REALNAME" = "Realname";
+"WHOIS_USER_REALNAME" = "Echte naam";
 
 /* Whois User Ident */
 "WHOIS_USER_IDENT" = "Ident";
 
 /* Whois User Hostname */
-"WHOIS_USER_HOSTNAME" = "Hostname";
+"WHOIS_USER_HOSTNAME" = "Hostnaam";
 
 /* Whois User Is Network Operator */
-"WHOIS_USER_IS_NETWORK_OPERATOR" = "Network Operator";
+"WHOIS_USER_IS_NETWORK_OPERATOR" = "Netwerk Operator";
 
 /* Whois User Connection Status */
 "WHOIS_USER_CONNECTION_STATUS" = "Status";
 
 /* Whois User Connection Status (Connected) */
-"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Connected";
+"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Verbonden";
 
 /* Whois User Connection Status (Disconnected) */
 "WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline";
 
 /* Whois Session Idle Time */
-"WHOIS_SESSION_IDLE_TIME" = "Idle";
+"WHOIS_SESSION_IDLE_TIME" = "Niet aanwezig";
 
 /* Whois Session Connected Time */
-"WHOIS_SESSION_CONNECTED_TIME" = "Connected";
+"WHOIS_SESSION_CONNECTED_TIME" = "Verbonden";
 
 /* Whois Session Using TLS */
-"WHOIS_SESSION_USING_TLS" = "Using TLS";
+"WHOIS_SESSION_USING_TLS" = "Gebruikt TLS";
 
 /* Whois Server Hostname */
 "WHOIS_SERVER_HOSTNAME" = "Server";
