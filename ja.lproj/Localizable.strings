@@ -20,19 +20,19 @@
 "QUERY_LIST_ADD_NETWORK_MESSAGE" = "ネットワークを連ねに接触してください！";
 
 /* Accessibility label for connected network status */
-"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "connected";
+"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "コネクトした";
 
 /* Accessibility label for disconnected network status */
-"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "disconnected";
+"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "ディスコネクトした";
 
 /* Accessibility label for connecting network status */
-"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "connecting";
+"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "コネクトして";
 
 /* Accessibility Label for query */
-"QUERY_LIST_QUERY_LABEL" = "%@ (%@ unread)";
+"QUERY_LIST_QUERY_LABEL" = "%@（未読の%@個）";
 
 /* Accessibility Label for query with unread mentions */
-"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ unread, with mentions)";
+"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@（未読の%@個とメンション）";
 
 "NETWORK_ADD" = "ネットワークを連ねる";
 "CHANNEL_ADD" = "チャンネルに参加";
@@ -48,7 +48,7 @@
 "NICK_CHANNEL_VOICE" = "指定したVoice権を付与";
 "NICK_CHANNEL_DEOP" = "Opを剥奪";
 "NICK_CHANNEL_DEVOICE" = "Voiceを剥奪";
-"NICK_IGNORE" = "Ignore";
+"NICK_IGNORE" = "軽視";
 "NICK_UNIGNORE" = "Stop Ignoring";
 
 "CHANNEL_ADD_CHANNEL_NAME" = "名";
@@ -196,13 +196,13 @@
 "QUERY_STATUS_NICK_IGNORED_ACTION" = "Tap here to stop ignoring this user.";
 
 /* Accessibility label for nicks in channel button */
-"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "Channel Members";
+"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "チャンネルの会員";
 
 /* Accessibility label for whois user button */
 "QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User";
 
 /* Accessibility label for scroll to bottom button */
-"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "Scroll down to bottom of conversation";
+"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "会話の切りでスクロールダウン";
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "URLプレビューをイネーブル";
@@ -237,49 +237,49 @@
 "WHOIS_CHANNELS_TITLE" = "チャンネル";
 
 /* Whois User Information Section */
-"WHOIS_USER_SECTION" = "ユーザ Information";
+"WHOIS_USER_SECTION" = "ユーザの情報";
 
 /* Whois Session Information Section */
-"WHOIS_SESSION_SECTION" = "Session Information";
+"WHOIS_SESSION_SECTION" = "セッションの情報";
 
 /* Whois Server Information Section */
-"WHOIS_SERVER_SECTION" = "Server Information";
+"WHOIS_SERVER_SECTION" = "サーバの情報";
 
 /* Whois User Realname */
-"WHOIS_USER_REALNAME" = "Realname";
+"WHOIS_USER_REALNAME" = "本名";
 
 /* Whois User Ident */
-"WHOIS_USER_IDENT" = "Ident";
+"WHOIS_USER_IDENT" = "一意名";
 
 /* Whois User Hostname */
-"WHOIS_USER_HOSTNAME" = "Hostname";
+"WHOIS_USER_HOSTNAME" = "ホスト名";
 
 /* Whois User Is Network Operator */
-"WHOIS_USER_IS_NETWORK_OPERATOR" = "Network Operator";
+"WHOIS_USER_IS_NETWORK_OPERATOR" = "ネットワークのOp";
 
 /* Whois User Connection Status */
-"WHOIS_USER_CONNECTION_STATUS" = "Status";
+"WHOIS_USER_CONNECTION_STATUS" = "ステータス";
 
 /* Whois User Connection Status (Connected) */
-"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Connected";
+"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "コネクトした";
 
 /* Whois User Connection Status (Disconnected) */
-"WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline";
+"WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "非直結";
 
 /* Whois Session Idle Time */
-"WHOIS_SESSION_IDLE_TIME" = "Idle";
+"WHOIS_SESSION_IDLE_TIME" = "アイドル時間";
 
 /* Whois Session Connected Time */
-"WHOIS_SESSION_CONNECTED_TIME" = "Connected";
+"WHOIS_SESSION_CONNECTED_TIME" = "コネクトした";
 
 /* Whois Session Using TLS */
-"WHOIS_SESSION_USING_TLS" = "Using TLS";
+"WHOIS_SESSION_USING_TLS" = "TLS";
 
 /* Whois Server Hostname */
-"WHOIS_SERVER_HOSTNAME" = "セーバー";
+"WHOIS_SERVER_HOSTNAME" = "セーバーのホスト名";
 
 /* Whois Server Information */
-"WHOIS_SERVER_INFO" = "Server Info";
+"WHOIS_SERVER_INFO" = "セーバーの情報";
 
 /* Media */
 "MEDIA_NOT_PLAYING" = "is not playing anything";
@@ -303,10 +303,10 @@
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS" = "メッセージ通知";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "すべてのメッセージ";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "論及とハイライト";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Never";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "決して";
 
 /* View/Edit Channel Modes */
-"CHANNEL_DETAIL_VIEW_MODES" = "Channel Modes";
+"CHANNEL_DETAIL_VIEW_MODES" = "チャンネルの会話形";
 
 /* Modes View (View/Edit) Title */
-"CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes";
+"CHANNEL_DETAIL_MODES_TITLE" = "チャンネルの会話形";
