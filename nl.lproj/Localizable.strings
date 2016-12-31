@@ -14,6 +14,15 @@
 
 "NICKNAME" = "Bijnaam";
 
+/* Reply button title for message notification */
+"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reply";
+
+/* Title of notification when sending a message from a notification failed */
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Failed to send message";
+
+/* Body of notification when sending a message from a notification failed */
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open application to retry";
+
 "QUERY_LIST_TITLE" = "Gesprekken";
 "QUERY_LIST_TITLE_UNREAD" = "Gesprekken (%@)";
 "QUERY_LIST_ADD_NETWORK_TITLE" = "Voeg netwerk toe";
