@@ -210,6 +210,24 @@
 "QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "Just this link";
 "QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "All links";
 
+/* Accessibility label for the failed message retry button */
+"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message";
+
+/* Accessibility hint for the failed message retry button */
+"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options";
+
+/* Message of alert when opening failed message retry options */
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered";
+
+/* Retry option of alert for failed message retry options */
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again";
+
+/* Delete option of alert for failed message retry options */
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message";
+
+/* Cancel option of alert for failed message retry options */
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "Cancel";
+
 /* Input bar */
 
 "INPUT_UPLOAD_IMAGE_LABEL" = "Send an Image";

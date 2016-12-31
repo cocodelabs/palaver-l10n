@@ -204,6 +204,24 @@
 /* Accessibility label for scroll to bottom button */
 "QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "会話の切りでスクロールダウン";
 
+/* Accessibility label for the failed message retry button */
+"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message";
+
+/* Accessibility hint for the failed message retry button */
+"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options";
+
+/* Message of alert when opening failed message retry options */
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered";
+
+/* Retry option of alert for failed message retry options */
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again";
+
+/* Delete option of alert for failed message retry options */
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message";
+
+/* Cancel option of alert for failed message retry options */
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "キャンセル";
+
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "URLプレビューをイネーブル";
 "QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "URLプレビューをディスエーブル";
