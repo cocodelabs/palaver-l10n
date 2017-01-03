@@ -15,13 +15,13 @@
 "NICKNAME" = "Bijnaam";
 
 /* Reply button title for message notification */
-"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reply";
+"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reageren";
 
 /* Title of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Failed to send message";
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Bericht versturen mislukt";
 
 /* Body of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open application to retry";
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open Palaver om opnieuw te proberen";
 
 "QUERY_LIST_TITLE" = "Gesprekken";
 "QUERY_LIST_TITLE_UNREAD" = "Gesprekken (%@)";
@@ -220,19 +220,19 @@
 "QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "Voor alle links";
 
 /* Accessibility label for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message";
+"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Bericht versturen mislukt";
 
 /* Accessibility hint for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options";
+"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Opties voor opnieuw proberen";
 
 /* Message of alert when opening failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Bericht was niet verstuurd";
 
 /* Retry option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Probeer opnieuw";
 
 /* Delete option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Verwijder bericht";
 
 /* Cancel option of alert for failed message retry options */
 "QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "Annuleren";
