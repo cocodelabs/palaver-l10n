@@ -151,6 +151,7 @@
 /* IRC Events */
 
 "IRC_KICKED_EVENT" = "%@ heeft %@ gekicked (%@)";
+"IRC_INVITED_EVENT" = "%@ has invited %@";
 "IRC_USER_PARTED_EVENT" = "%@ heeft %@ verlaten";
 "IRC_USER_QUIT_EVENT" = "%@ heeft IRC afgesloten";
 "IRC_USER_JOINED_EVENT" = "%@ komt %@ binnen";

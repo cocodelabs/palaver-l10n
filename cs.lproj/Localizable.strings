@@ -151,6 +151,7 @@
 /* IRC Events */
 
 "IRC_KICKED_EVENT" = "%@ vykopl %@ (%@)";
+"IRC_INVITED_EVENT" = "%@ has invited %@";
 "IRC_USER_QUIT_EVENT" = "%@ ukončil";
 "IRC_USER_PARTED_EVENT" = "%@ odešel %@";
 "IRC_USER_JOINED_EVENT" = "%@ přišel %@";

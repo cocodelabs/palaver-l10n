@@ -151,6 +151,7 @@
 /* IRC Events */
 
 "IRC_KICKED_EVENT" = "%@が%@（%@）がkick";
+"IRC_INVITED_EVENT" = "%@ has invited %@";
 "IRC_USER_QUIT_EVENT" = "%@が終了";
 "IRC_USER_PARTED_EVENT" = "%@が%@から退出";
 "IRC_USER_JOINED_EVENT" = "%@が%@に参加";
