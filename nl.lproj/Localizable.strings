@@ -15,7 +15,7 @@
 "NICKNAME" = "Bijnaam";
 
 /* Body of notification when message previews are disabled */
-"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "Message";
+"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "Bericht ontvangen";
 
 /* Reply button title for message notification */
 "NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reageren";
@@ -138,8 +138,8 @@
 "GENERAL_AUTO_JOIN_CHANNELS" = "Verbind automatisch met kanalen";
 "GENERAL_AUTO_AWAY" = "Automatische weg status";
 
-"NOTIFICATIONS_TITLE" = "Notifications";
-"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Show Message Previews";
+"NOTIFICATIONS_TITLE" = "Notificaties";
+"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Toon bericht in notificatie";
 
 "MENTIONS_TITLE" = "Mentions";
 "MENTIONS_ADD_TITLE" = "Voeg sleutelwoord toe";
