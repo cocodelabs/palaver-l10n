@@ -244,6 +244,9 @@
 /* Cancel option of alert for failed message retry options */
 "QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "Cancelar";
 
+"QUERY_DETAIL_MESSAGE_COPY" = "Copy";
+"QUERY_DETAIL_MESSAGE_MORE" = "More";
+
 /* Input bar */
 
 "INPUT_UPLOAD_IMAGE_LABEL" = "Mandar una Imagen";
