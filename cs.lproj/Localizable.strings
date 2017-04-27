@@ -102,7 +102,7 @@
 "NETWORK_CHANNEL_LIST" = "Channel List";
 
 "NETWORK_ORDER" = "Order";
-"NETWORK_REARRANGE" = "Seřadit";
+"NETWORK_REARRANGE" = "Sort Networks";
 
 "NETWORK_PASSWORD_INCORRECT" = "Nesprávné heslo (%@)";
 
