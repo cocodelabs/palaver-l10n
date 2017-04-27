@@ -97,6 +97,10 @@
 "NETWORK_EXPAND" = "Queryを表示";
 "NETWORK_CONNECT" = "接続";
 "NETWORK_DISCONNECT" = "切断";
+"NETWORK_CHANGE_NICKNAME" = "Change Nickname";
+"NETWORK_CHANGE_NICKNAME_APPLY" = "Change";
+"NETWORK_CHANNEL_LIST" = "Channel List";
+
 "NETWORK_ORDER" = "順序付ける";
 "NETWORK_REARRANGE" = "並べ直す";
 

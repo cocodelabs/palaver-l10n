@@ -97,6 +97,10 @@
 "NETWORK_EXPAND" = "Abrir";
 "NETWORK_CONNECT" = "Conectar";
 "NETWORK_DISCONNECT" = "Desconectar";
+"NETWORK_CHANGE_NICKNAME" = "Change Nickname";
+"NETWORK_CHANGE_NICKNAME_APPLY" = "Change";
+"NETWORK_CHANNEL_LIST" = "Channel List";
+
 "NETWORK_ORDER" = "Orden";
 "NETWORK_REARRANGE" = "Reorganizar";
 

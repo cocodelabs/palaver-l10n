@@ -97,6 +97,10 @@
 "NETWORK_EXPAND" = "Uitklappen";
 "NETWORK_CONNECT" = "Verbinden";
 "NETWORK_DISCONNECT" = "Verbinding verbreken";
+"NETWORK_CHANGE_NICKNAME" = "Change Nickname";
+"NETWORK_CHANGE_NICKNAME_APPLY" = "Change";
+"NETWORK_CHANNEL_LIST" = "Channel List";
+
 "NETWORK_ORDER" = "Volgorde";
 "NETWORK_REARRANGE" = "Verander volgorde";
 
