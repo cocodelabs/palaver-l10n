@@ -105,12 +105,12 @@
 "NETWORK_EXPAND" = "Uitklappen";
 "NETWORK_CONNECT" = "Verbinden";
 "NETWORK_DISCONNECT" = "Verbinding verbreken";
-"NETWORK_CHANGE_NICKNAME" = "Change Nickname";
-"NETWORK_CHANGE_NICKNAME_APPLY" = "Change";
-"NETWORK_CHANNEL_LIST" = "Channel List";
+"NETWORK_CHANGE_NICKNAME" = "Change Nickname"; // Untranslated
+"NETWORK_CHANGE_NICKNAME_APPLY" = "Change"; // Untranslated
+"NETWORK_CHANNEL_LIST" = "Channel List"; // Untranslated
 
 "NETWORK_ORDER" = "Volgorde";
-"NETWORK_REARRANGE" = "Sort Networks";
+"NETWORK_REARRANGE" = "Sort Networks"; // Untranslated
 
 "NETWORK_PASSWORD_INCORRECT" = "Wachtwoord onjuist (%@)";
 
@@ -256,8 +256,8 @@
 /* Cancel option of alert for failed message retry options */
 "QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "Annuleren";
 
-"QUERY_DETAIL_MESSAGE_COPY" = "Copy";
-"QUERY_DETAIL_MESSAGE_MORE" = "More";
+"QUERY_DETAIL_MESSAGE_COPY" = "Copy"; // Untranslated
+"QUERY_DETAIL_MESSAGE_MORE" = "More"; // Untranslated
 
 "QUERY_DETAIL_ADD_REACTION" = "Add Reaction"; // Untranslated
 "QUERY_DETAIL_REACTION_TITLE" = "Reactions"; // Untranslated
@@ -359,26 +359,26 @@
 "NICK_LIST" = "Personen";
 
 /* Channel List */
-"CHANNEL_LIST_TITLE" = "Channels";
+"CHANNEL_LIST_TITLE" = "Channels"; // Untranslated
 
 /* Channel Detail */
 "CHANNEL_DETAIL_TITLE" = "Kanaal instellingen";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_SECTION" = "Bericht notificaties";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "Alle berichten";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Vermeldingen of highlights";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Never";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Never"; // Untranslated
 
-"CHANNEL_DETAIL_TOPIC_SECTION" = "Topic";
-"CHANNEL_DETAIL_NO_TOPIC" = "No Topic";
+"CHANNEL_DETAIL_TOPIC_SECTION" = "Topic"; // Untranslated
+"CHANNEL_DETAIL_NO_TOPIC" = "No Topic"; // Untranslated
 "CHANNEL_DETAIL_TOPIC_EDIT" = "Edit"; // Untranslated
 
 "CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "Unread Count"; // Untranslated
 
 /* View/Edit Channel Modes */
-"CHANNEL_DETAIL_VIEW_MODES" = "Channel Modes";
+"CHANNEL_DETAIL_VIEW_MODES" = "Channel Modes"; // Untranslated
 
 /* Modes View (View/Edit) Title */
-"CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes";
+"CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes"; // Untranslated
 
 "CHANNEL_MODE_C" = "Disable color codes (+c)"; // Untranslated
 "CHANNEL_MODE_I" = "Invite only (+i)"; // Untranslated

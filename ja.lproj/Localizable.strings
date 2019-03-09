@@ -18,16 +18,16 @@
 "NICKNAME" = "ニックネーム";
 
 /* Body of notification when message previews are disabled */
-"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "Message";
+"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "Message"; // Untranslated
 
 /* Reply button title for message notification */
-"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reply";
+"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reply"; // Untranslated
 
 /* Title of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Failed to send message";
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Failed to send message"; // Untranslated
 
 /* Body of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open application to retry";
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open application to retry"; // Untranslated
 
 "NOTIFICATION_REPLY_FAILED" = "Failed to send message '%@'. Unknown or deleted IRC Network."; // Untranslated
 
@@ -87,7 +87,7 @@
 "NETWORK_PASSWORD" = "パスワード";
 "NETWORK_AUTOCONNECT" = "自動接続";
 "NETWORK_DELETE" = "ネットワークを削除";
-"NETWORK_IGNORED_NICKS" = "Ignored Nicknames";
+"NETWORK_IGNORED_NICKS" = "Ignored Nicknames"; // Untranslated
 
 "NETWORK_AUTHENTICATION" = "認証";
 "NETWORK_AUTHENTICATION_USERNAME" = "ユーザ名";
@@ -105,12 +105,12 @@
 "NETWORK_EXPAND" = "Queryを表示";
 "NETWORK_CONNECT" = "接続";
 "NETWORK_DISCONNECT" = "切断";
-"NETWORK_CHANGE_NICKNAME" = "Change Nickname";
-"NETWORK_CHANGE_NICKNAME_APPLY" = "Change";
-"NETWORK_CHANNEL_LIST" = "Channel List";
+"NETWORK_CHANGE_NICKNAME" = "Change Nickname"; // Untranslated
+"NETWORK_CHANGE_NICKNAME_APPLY" = "Change"; // Untranslated
+"NETWORK_CHANNEL_LIST" = "Channel List"; // Untranslated
 
 "NETWORK_ORDER" = "順序付ける";
-"NETWORK_REARRANGE" = "Sort Networks";
+"NETWORK_REARRANGE" = "Sort Networks"; // Untranslated
 
 "NETWORK_PASSWORD_INCORRECT" = "パスワードが正しくありません (%@)";
 
@@ -150,8 +150,8 @@
 "GENERAL_AUTO_JOIN_CHANNELS" = "チャンネルに自動接続";
 "GENERAL_AUTO_AWAY" = "自動離席";
 
-"NOTIFICATIONS_TITLE" = "Notifications";
-"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Show Message Previews";
+"NOTIFICATIONS_TITLE" = "Notifications"; // Untranslated
+"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Show Message Previews"; // Untranslated
 
 "MENTIONS_TITLE" = "論及";
 "MENTIONS_ADD_TITLE" = "キーワードに参加";
@@ -190,21 +190,21 @@
 "IRC_CHANNEL_MODE_PLURAL_q" = "Owner";
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "Owner";
 
-"IRC_CHANNEL_MODE_a" = "Protected";
-"IRC_CHANNEL_MODE_PLURAL_a" = "Protected";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Protected";
+"IRC_CHANNEL_MODE_a" = "Protected"; // Untranslated
+"IRC_CHANNEL_MODE_PLURAL_a" = "Protected"; // Untranslated
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Protected"; // Untranslated
 
-"IRC_CHANNEL_MODE_o" = "Op";
-"IRC_CHANNEL_MODE_PLURAL_o" = "Op";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "Operator";
+"IRC_CHANNEL_MODE_o" = "Op"; // Untranslated
+"IRC_CHANNEL_MODE_PLURAL_o" = "Op"; // Untranslated
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "Operator"; // Untranslated
 
-"IRC_CHANNEL_MODE_h" = "Half-op";
-"IRC_CHANNEL_MODE_PLURAL_h" = "Half-op";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "Half-Operator";
+"IRC_CHANNEL_MODE_h" = "Half-op"; // Untranslated
+"IRC_CHANNEL_MODE_PLURAL_h" = "Half-op"; // Untranslated
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "Half-Operator"; // Untranslated
 
-"IRC_CHANNEL_MODE_v" = "Voice";
-"IRC_CHANNEL_MODE_PLURAL_v" = "Voice";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Voice";
+"IRC_CHANNEL_MODE_v" = "Voice"; // Untranslated
+"IRC_CHANNEL_MODE_PLURAL_v" = "Voice"; // Untranslated
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Voice"; // Untranslated
 
 /* Notifications */
 "IRC_CHANNEL_INVITATION" = "%@が%@に%@で招待しました";
@@ -220,38 +220,38 @@
 "QUERY_STATUS_CONNECTING" = "接続しっています。。。";
 "QUERY_STATUS_NICK_OFFLINE" = "ユーザがオフライン";
 
-"QUERY_STATUS_NICK_IGNORED" = "Nickname Ignored";
-"QUERY_STATUS_NICK_IGNORED_ACTION" = "Tap here to stop ignoring this user.";
+"QUERY_STATUS_NICK_IGNORED" = "Nickname Ignored"; // Untranslated
+"QUERY_STATUS_NICK_IGNORED_ACTION" = "Tap here to stop ignoring this user."; // Untranslated
 
 /* Accessibility label for nicks in channel button */
 "QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "チャンネルの会員";
 
 /* Accessibility label for whois user button */
-"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User";
+"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User"; // Untranslated
 
 /* Accessibility label for scroll to bottom button */
 "QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "会話の切りでスクロールダウン";
 
 /* Accessibility label for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message";
+"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message"; // Untranslated
 
 /* Accessibility hint for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options";
+"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options"; // Untranslated
 
 /* Message of alert when opening failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered"; // Untranslated
 
 /* Retry option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again"; // Untranslated
 
 /* Delete option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message"; // Untranslated
 
 /* Cancel option of alert for failed message retry options */
 "QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "キャンセル";
 
-"QUERY_DETAIL_MESSAGE_COPY" = "Copy";
-"QUERY_DETAIL_MESSAGE_MORE" = "More";
+"QUERY_DETAIL_MESSAGE_COPY" = "Copy"; // Untranslated
+"QUERY_DETAIL_MESSAGE_MORE" = "More"; // Untranslated
 
 "QUERY_DETAIL_ADD_REACTION" = "Add Reaction"; // Untranslated
 "QUERY_DETAIL_REACTION_TITLE" = "Reactions"; // Untranslated
@@ -350,11 +350,11 @@
 "MEDIA_PLAYING_TITLE_ARTIST" = "is %@ %@ by %@";
 "MEDIA_PLAYING_TITLE_ALBUM" = "is %@ %@ from %@";
 "MEDIA_PLAYING_TITLE" = "is %@ %@";
-"MEDIA_PLAYING_ERROR" = "Cannot find media information.";
+"MEDIA_PLAYING_ERROR" = "Cannot find media information."; // Untranslated
 
-"MEDIA_VERB_AUDIO" = "listening to";
-"MEDIA_VERB_VIDEO" = "watching";
-"MEDIA_VERB_ALL" = "playing";
+"MEDIA_VERB_AUDIO" = "listening to"; // Untranslated
+"MEDIA_VERB_VIDEO" = "watching"; // Untranslated
+"MEDIA_VERB_ALL" = "playing"; // Untranslated
 
 "NICK_LIST" = "人民";
 
@@ -368,8 +368,8 @@
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "論及とハイライト";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "決して";
 
-"CHANNEL_DETAIL_TOPIC_SECTION" = "Topic";
-"CHANNEL_DETAIL_NO_TOPIC" = "No Topic";
+"CHANNEL_DETAIL_TOPIC_SECTION" = "Topic"; // Untranslated
+"CHANNEL_DETAIL_NO_TOPIC" = "No Topic"; // Untranslated
 "CHANNEL_DETAIL_TOPIC_EDIT" = "Edit"; // Untranslated
 
 "CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "Unread Count"; // Untranslated

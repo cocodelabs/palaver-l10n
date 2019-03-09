@@ -18,16 +18,16 @@
 "NICKNAME" = "Nickname";
 
 /* Body of notification when message previews are disabled */
-"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "Message";
+"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "Message"; // Untranslated
 
 /* Reply button title for message notification */
-"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reply";
+"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reply"; // Untranslated
 
 /* Title of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Failed to send message";
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Failed to send message"; // Untranslated
 
 /* Body of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open application to retry";
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open application to retry"; // Untranslated
 
 "NOTIFICATION_REPLY_FAILED" = "Failed to send message '%@'. Unknown or deleted IRC Network."; // Untranslated
 
@@ -37,19 +37,19 @@
 "QUERY_LIST_ADD_NETWORK_MESSAGE" = "Tippe hier, um das erste Netzwerk hinzuzufügen!";
 
 /* Accessibility label for connected network status */
-"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "connected";
+"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "connected"; // Untranslated
 
 /* Accessibility label for disconnected network status */
-"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "disconnected";
+"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "disconnected"; // Untranslated
 
 /* Accessibility label for connecting network status */
-"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "connecting";
+"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "connecting"; // Untranslated
 
 /* Accessibility Label for query */
-"QUERY_LIST_QUERY_LABEL" = "%@ (%@ unread)";
+"QUERY_LIST_QUERY_LABEL" = "%@ (%@ unread)"; // Untranslated
 
 /* Accessibility Label for query with unread mentions */
-"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ unread, with mentions)";
+"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ unread, with mentions)"; // Untranslated
 
 "QUERY_LIST_SEARCH" = "Search Messages"; // Untranslated
 "QUERY_LIST_MARK_AS_READ" = "Mark as read"; // Untranslated
@@ -68,8 +68,8 @@
 "NICK_CHANNEL_VOICE" = "Voice setzen";
 "NICK_CHANNEL_DEOP" = "Op entfernen";
 "NICK_CHANNEL_DEVOICE" = "Voice entfernen";
-"NICK_IGNORE" = "Ignore";
-"NICK_UNIGNORE" = "Stop Ignoring";
+"NICK_IGNORE" = "Ignore"; // Untranslated
+"NICK_UNIGNORE" = "Stop Ignoring"; // Untranslated
 
 "CHANNEL_ADD_CHANNEL_NAME" = "Name";
 "CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
@@ -105,12 +105,12 @@
 "NETWORK_EXPAND" = "Aufklappen";
 "NETWORK_CONNECT" = "Verbinden";
 "NETWORK_DISCONNECT" = "Trennen";
-"NETWORK_CHANGE_NICKNAME" = "Change Nickname";
-"NETWORK_CHANGE_NICKNAME_APPLY" = "Change";
-"NETWORK_CHANNEL_LIST" = "Channel List";
+"NETWORK_CHANGE_NICKNAME" = "Change Nickname"; // Untranslated
+"NETWORK_CHANGE_NICKNAME_APPLY" = "Change"; // Untranslated
+"NETWORK_CHANNEL_LIST" = "Channel List"; // Untranslated
 
-"NETWORK_ORDER" = "Order";
-"NETWORK_REARRANGE" = "Sort Networks";
+"NETWORK_ORDER" = "Order"; // Untranslated
+"NETWORK_REARRANGE" = "Sort Networks"; // Untranslated
 
 "NETWORK_PASSWORD_INCORRECT" = "Falsches Passwort (%@)";
 
@@ -150,8 +150,8 @@
 "GENERAL_AUTO_JOIN_CHANNELS" = "Räume auto. betreten";
 "GENERAL_AUTO_AWAY" = "Auto. abwesend";
 
-"NOTIFICATIONS_TITLE" = "Notifications";
-"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Show Message Previews";
+"NOTIFICATIONS_TITLE" = "Notifications"; // Untranslated
+"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Show Message Previews"; // Untranslated
 
 "MENTIONS_TITLE" = "Erwähnungen";
 "MENTIONS_ADD_TITLE" = "Neues Schlüsselwort";
@@ -186,25 +186,25 @@
 "IRC_DISCONNECTED" = "Verbindung getrennt";
 "IRC_DISCONNECTED_ERROR" = "Verbindung getrennt (%@)";
 
-"IRC_CHANNEL_MODE_q" = "Owner";
-"IRC_CHANNEL_MODE_PLURAL_q" = "Owners";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "Owners";
+"IRC_CHANNEL_MODE_q" = "Owner"; // Untranslated
+"IRC_CHANNEL_MODE_PLURAL_q" = "Owners"; // Untranslated
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_q" = "Owners"; // Untranslated
 
-"IRC_CHANNEL_MODE_a" = "Protected";
-"IRC_CHANNEL_MODE_PLURAL_a" = "Protected";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Protected";
+"IRC_CHANNEL_MODE_a" = "Protected"; // Untranslated
+"IRC_CHANNEL_MODE_PLURAL_a" = "Protected"; // Untranslated
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_a" = "Protected"; // Untranslated
 
-"IRC_CHANNEL_MODE_o" = "Op";
-"IRC_CHANNEL_MODE_PLURAL_o" = "Ops";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "Operators";
+"IRC_CHANNEL_MODE_o" = "Op"; // Untranslated
+"IRC_CHANNEL_MODE_PLURAL_o" = "Ops"; // Untranslated
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_o" = "Operators"; // Untranslated
 
-"IRC_CHANNEL_MODE_h" = "Half-op";
-"IRC_CHANNEL_MODE_PLURAL_h" = "Half-ops";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "Half-Operators";
+"IRC_CHANNEL_MODE_h" = "Half-op"; // Untranslated
+"IRC_CHANNEL_MODE_PLURAL_h" = "Half-ops"; // Untranslated
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "Half-Operators"; // Untranslated
 
-"IRC_CHANNEL_MODE_v" = "Voice";
-"IRC_CHANNEL_MODE_PLURAL_v" = "Voiced";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Voiced";
+"IRC_CHANNEL_MODE_v" = "Voice"; // Untranslated
+"IRC_CHANNEL_MODE_PLURAL_v" = "Voiced"; // Untranslated
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "Voiced"; // Untranslated
 
 /* Notifications */
 "IRC_CHANNEL_INVITATION" = "%@ hat dich eingeladen %@ auf %@ zu betreten";
@@ -224,13 +224,13 @@
 "QUERY_STATUS_NICK_IGNORED_ACTION" = "Tippe, um diesen Nutzer nicht mehr zu ignorieren.";
 
 /* Accessibility label for nicks in channel button */
-"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "Channel Members";
+"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "Channel Members"; // Untranslated
 
 /* Accessibility label for whois user button */
-"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User";
+"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User"; // Untranslated
 
 /* Accessibility label for scroll to bottom button */
-"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "Scroll down to bottom of conversation";
+"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "Scroll down to bottom of conversation"; // Untranslated
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Linkvorschau aktivieren";
@@ -239,25 +239,25 @@
 "QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "Immer";
 
 /* Accessibility label for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message";
+"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message"; // Untranslated
 
 /* Accessibility hint for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options";
+"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options"; // Untranslated
 
 /* Message of alert when opening failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered"; // Untranslated
 
 /* Retry option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again"; // Untranslated
 
 /* Delete option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message"; // Untranslated
 
 /* Cancel option of alert for failed message retry options */
 "QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "Abbrechen";
 
-"QUERY_DETAIL_MESSAGE_COPY" = "Copy";
-"QUERY_DETAIL_MESSAGE_MORE" = "More";
+"QUERY_DETAIL_MESSAGE_COPY" = "Copy"; // Untranslated
+"QUERY_DETAIL_MESSAGE_MORE" = "More"; // Untranslated
 
 "QUERY_DETAIL_ADD_REACTION" = "Add Reaction"; // Untranslated
 "QUERY_DETAIL_REACTION_TITLE" = "Reactions"; // Untranslated
@@ -303,46 +303,46 @@
 "WHOIS_USER_SECTION" = "Benutzer";
 
 /* Whois Session Information Section */
-"WHOIS_SESSION_SECTION" = "Session Information";
+"WHOIS_SESSION_SECTION" = "Session Information"; // Untranslated
 
 /* Whois Server Information Section */
-"WHOIS_SERVER_SECTION" = "Server Information";
+"WHOIS_SERVER_SECTION" = "Server Information"; // Untranslated
 
 /* Whois User Realname */
-"WHOIS_USER_REALNAME" = "Realname";
+"WHOIS_USER_REALNAME" = "Realname"; // Untranslated
 
 /* Whois User Ident */
-"WHOIS_USER_IDENT" = "Ident";
+"WHOIS_USER_IDENT" = "Ident"; // Untranslated
 
 /* Whois User Hostname */
-"WHOIS_USER_HOSTNAME" = "Hostname";
+"WHOIS_USER_HOSTNAME" = "Hostname"; // Untranslated
 
 /* Whois User Is Network Operator */
-"WHOIS_USER_IS_NETWORK_OPERATOR" = "Network Operator";
+"WHOIS_USER_IS_NETWORK_OPERATOR" = "Network Operator"; // Untranslated
 
 /* Whois User Connection Status */
-"WHOIS_USER_CONNECTION_STATUS" = "Status";
+"WHOIS_USER_CONNECTION_STATUS" = "Status"; // Untranslated
 
 /* Whois User Connection Status (Connected) */
-"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Connected";
+"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Connected"; // Untranslated
 
 /* Whois User Connection Status (Disconnected) */
-"WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline";
+"WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline"; // Untranslated
 
 /* Whois Session Idle Time */
-"WHOIS_SESSION_IDLE_TIME" = "Idle";
+"WHOIS_SESSION_IDLE_TIME" = "Idle"; // Untranslated
 
 /* Whois Session Connected Time */
-"WHOIS_SESSION_CONNECTED_TIME" = "Connected";
+"WHOIS_SESSION_CONNECTED_TIME" = "Connected"; // Untranslated
 
 /* Whois Session Using TLS */
-"WHOIS_SESSION_USING_TLS" = "Using TLS";
+"WHOIS_SESSION_USING_TLS" = "Using TLS"; // Untranslated
 
 /* Whois Server Hostname */
-"WHOIS_SERVER_HOSTNAME" = "Server";
+"WHOIS_SERVER_HOSTNAME" = "Server"; // Untranslated
 
 /* Whois Server Information */
-"WHOIS_SERVER_INFO" = "Server Info";
+"WHOIS_SERVER_INFO" = "Server Info"; // Untranslated
 
 /* Media */
 "MEDIA_NOT_PLAYING" = "spielt gerade nichts ab";
@@ -368,17 +368,17 @@
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Erwähnungen/Hervorhebungen";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Niemals";
 
-"CHANNEL_DETAIL_TOPIC_SECTION" = "Topic";
-"CHANNEL_DETAIL_NO_TOPIC" = "No Topic";
+"CHANNEL_DETAIL_TOPIC_SECTION" = "Topic"; // Untranslated
+"CHANNEL_DETAIL_NO_TOPIC" = "No Topic"; // Untranslated
 "CHANNEL_DETAIL_TOPIC_EDIT" = "Edit"; // Untranslated
 
 "CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "Unread Count"; // Untranslated
 
 /* View/Edit Channel Modes */
-"CHANNEL_DETAIL_VIEW_MODES" = "Channel Modes";
+"CHANNEL_DETAIL_VIEW_MODES" = "Channel Modes"; // Untranslated
 
 /* Modes View (View/Edit) Title */
-"CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes";
+"CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes"; // Untranslated
 
 "CHANNEL_MODE_C" = "Disable color codes (+c)"; // Untranslated
 "CHANNEL_MODE_I" = "Invite only (+i)"; // Untranslated
