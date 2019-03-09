@@ -277,10 +277,6 @@
 "NICK_WHOIS" = "Whois";
 "WHOIS_CHANNELS_TITLE" = "Räume";
 
-/* Whois */
-"NICK_WHOIS" = "Whois";
-"WHOIS_CHANNELS_TITLE" = "Channels";
-
 /* Whois User Information Section */
 "WHOIS_USER_SECTION" = "Benutzer";
 

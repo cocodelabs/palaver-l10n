@@ -263,14 +263,12 @@
 "UPLOAD_IMAGE_UPLOADING" = "Nahrávání";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Nahrání obrázku";
-"UPLOAD_IMAGE_POLICY_BODY" = "Uploading images is done via a third-party service, %@. Tapping below will agree to the privacy policy.";
 "UPLOAD_IMAGE_POLICY_BODY" = "Nahrávání obrázků provozuje třetí strana, %@. Stisknutím níže souhlasíte s jejich zásadami ochrany osobních údajů.";
 "UPLOAD_IMAGE_POLICY_VIEW" = "Zobrazit zásady ochrany osobních údajů";
 "UPLOAD_IMAGE_POLICY_AGREE" = "Souhlasím";
 
 "UPLOAD_IMAGE_PREFERENCES_TITLE" = "Nahrané obrázky";
 
-"CLOUDAPP_VERIFY_FAILURE" = "Account could not be verified, please try again.";
 "CLOUDAPP_VERIFY_FAILURE" = "Účet se nepodařilo ověřit, zkuste to prosím znovu.";
 "CLOUDAPP_USERNAME" = "Email";
 "CLOUDAPP_PASSWORD" = "Heslo";
@@ -278,10 +276,6 @@
 /* Whois */
 "NICK_WHOIS" = "Whois";
 "WHOIS_CHANNELS_TITLE" = "Kanály";
-
-/* Whois */
-"NICK_WHOIS" = "Whois";
-"WHOIS_CHANNELS_TITLE" = "Channels";
 
 /* Whois User Information Section */
 "WHOIS_USER_SECTION" = "Uživatel";

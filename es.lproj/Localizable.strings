@@ -277,10 +277,6 @@
 "NICK_WHOIS" = "Whois";
 "WHOIS_CHANNELS_TITLE" = "Canales";
 
-/* Whois */
-"NICK_WHOIS" = "Whois";
-"WHOIS_CHANNELS_TITLE" = "Channels";
-
 /* Whois User Information Section */
 "WHOIS_USER_SECTION" = "Usuario";
 
@@ -348,6 +344,7 @@
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS" = "Notificaciones de Mensajes";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "Todos los mensajes";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Menciones o palabras resaltadas";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Never"; // Untranslated
 
 "CHANNEL_DETAIL_TOPIC_SECTION" = "Topic";
 "CHANNEL_DETAIL_NO_TOPIC" = "No Topic";
