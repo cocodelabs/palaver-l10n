@@ -391,10 +391,10 @@
 "CHANNEL_DETAIL_PART" = "Part Channel"; // Untranslated
 
 /* URL Actions */
-"URL_ACTION_OPEN" = "Open"; // Untranslated
-"URL_ACTION_READING_LIST" = "Add to Reading List"; // Untranslated
-"URL_ACTION_COPY" = "Copy"; // Untranslated
-"URL_ACTION_SHARE" = "Share..."; // Untranslated
+"URL_ACTION_OPEN" = "開く";
+"URL_ACTION_READING_LIST" = "リーディングリストに追加";
+"URL_ACTION_COPY" = "コピー";
+"URL_ACTION_SHARE" = "共有...";
 "READING_LIST_NOTE" = "Saved from Palaver"; // Untranslated
 
 /* Add Network */

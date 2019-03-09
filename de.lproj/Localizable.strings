@@ -391,10 +391,10 @@
 "CHANNEL_DETAIL_PART" = "Part Channel"; // Untranslated
 
 /* URL Actions */
-"URL_ACTION_OPEN" = "Open"; // Untranslated
-"URL_ACTION_READING_LIST" = "Add to Reading List"; // Untranslated
-"URL_ACTION_COPY" = "Copy"; // Untranslated
-"URL_ACTION_SHARE" = "Share..."; // Untranslated
+"URL_ACTION_OPEN" = "Öffnen";
+"URL_ACTION_READING_LIST" = "Zur Leseliste hinzufügen";
+"URL_ACTION_COPY" = "Kopieren";
+"URL_ACTION_SHARE" = "Teilen...";
 "READING_LIST_NOTE" = "Saved from Palaver"; // Untranslated
 
 /* Add Network */
