@@ -11,20 +11,25 @@
 "CANCEL" = "Cancelar";
 "CLOSE" = "Cerrar";
 "OK" = "OK";
+"YES" = "Yes"; // Untranslated
+"NO" = "No"; // Untranslated
+"UNKNOWN" = "Unknown"; // Untranslated
 
 "NICKNAME" = "Apodo";
 
 /* Body of notification when message previews are disabled */
-"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "Message";
+"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "Message"; // Untranslated
 
 /* Reply button title for message notification */
-"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reply";
+"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reply"; // Untranslated
 
 /* Title of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Failed to send message";
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Failed to send message"; // Untranslated
 
 /* Body of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open application to retry";
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open application to retry"; // Untranslated
+
+"NOTIFICATION_REPLY_FAILED" = "Failed to send message '%@'. Unknown or deleted IRC Network."; // Untranslated
 
 "QUERY_LIST_TITLE" = "Conversaciones";
 "QUERY_LIST_TITLE_UNREAD" = "Conversaciones (%@)";
@@ -32,19 +37,22 @@
 "QUERY_LIST_ADD_NETWORK_MESSAGE" = "¡Toque aquí para agregar tu primera red!";
 
 /* Accessibility label for connected network status */
-"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "connected";
+"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "connected"; // Untranslated
 
 /* Accessibility label for disconnected network status */
-"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "disconnected";
+"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "disconnected"; // Untranslated
 
 /* Accessibility label for connecting network status */
-"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "connecting";
+"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "connecting"; // Untranslated
 
 /* Accessibility Label for query */
-"QUERY_LIST_QUERY_LABEL" = "%@ (%@ unread)";
+"QUERY_LIST_QUERY_LABEL" = "%@ (%@ unread)"; // Untranslated
 
 /* Accessibility Label for query with unread mentions */
-"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ unread, with mentions)";
+"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ unread, with mentions)"; // Untranslated
+
+"QUERY_LIST_SEARCH" = "Search Messages"; // Untranslated
+"QUERY_LIST_MARK_AS_READ" = "Mark as read"; // Untranslated
 
 "NETWORK_ADD" = "Agregar Red";
 "CHANNEL_ADD" = "Unirse a un Canal";
@@ -97,12 +105,12 @@
 "NETWORK_EXPAND" = "Abrir";
 "NETWORK_CONNECT" = "Conectar";
 "NETWORK_DISCONNECT" = "Desconectar";
-"NETWORK_CHANGE_NICKNAME" = "Change Nickname";
-"NETWORK_CHANGE_NICKNAME_APPLY" = "Change";
-"NETWORK_CHANNEL_LIST" = "Channel List";
+"NETWORK_CHANGE_NICKNAME" = "Change Nickname"; // Untranslated
+"NETWORK_CHANGE_NICKNAME_APPLY" = "Change"; // Untranslated
+"NETWORK_CHANNEL_LIST" = "Channel List"; // Untranslated
 
 "NETWORK_ORDER" = "Orden";
-"NETWORK_REARRANGE" = "Sort Networks";
+"NETWORK_REARRANGE" = "Sort Networks"; // Untranslated
 
 "NETWORK_PASSWORD_INCORRECT" = "Clave incorrecta (%@)";
 
@@ -140,10 +148,10 @@
 "THEME_VARIANT_DARK" = "Oscuro";
 
 "GENERAL_AUTO_JOIN_CHANNELS" = "Auto-unirse a los canales";
-"GENERAL_AUTO_AWAY" = "Auto-away";
+"GENERAL_AUTO_AWAY" = "Auto-away"; // Untranslated
 
-"NOTIFICATIONS_TITLE" = "Notifications";
-"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Show Message Previews";
+"NOTIFICATIONS_TITLE" = "Notifications"; // Untranslated
+"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Show Message Previews"; // Untranslated
 
 "MENTIONS_TITLE" = "Menciones";
 "MENTIONS_ADD_TITLE" = "Añadir Palabra Resaltada";
@@ -216,13 +224,13 @@
 "QUERY_STATUS_NICK_IGNORED_ACTION" = "Toque aquí para dejar de ignorar este usuario.";
 
 /* Accessibility label for nicks in channel button */
-"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "Channel Members";
+"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "Channel Members"; // Untranslated
 
 /* Accessibility label for whois user button */
-"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User";
+"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User"; // Untranslated
 
 /* Accessibility label for scroll to bottom button */
-"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "Scroll down to bottom of conversation";
+"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "Scroll down to bottom of conversation"; // Untranslated
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "Habilitar Prevista de Enlaces";
@@ -231,25 +239,29 @@
 "QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "Todo el tiempo";
 
 /* Accessibility label for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message";
+"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message"; // Untranslated
 
 /* Accessibility hint for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options";
+"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options"; // Untranslated
 
 /* Message of alert when opening failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered"; // Untranslated
 
 /* Retry option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again"; // Untranslated
 
 /* Delete option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message";
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message"; // Untranslated
 
 /* Cancel option of alert for failed message retry options */
 "QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "Cancelar";
 
-"QUERY_DETAIL_MESSAGE_COPY" = "Copy";
-"QUERY_DETAIL_MESSAGE_MORE" = "More";
+"QUERY_DETAIL_MESSAGE_COPY" = "Copy"; // Untranslated
+"QUERY_DETAIL_MESSAGE_MORE" = "More"; // Untranslated
+
+"QUERY_DETAIL_ADD_REACTION" = "Add Reaction"; // Untranslated
+"QUERY_DETAIL_REACTION_TITLE" = "Reactions"; // Untranslated
+"QUERY_DETAIL_REACTION_TEMPLATE" = "%@ reacted with %@"; // Untranslated
 
 /* Input bar */
 
@@ -268,6 +280,16 @@
 "UPLOAD_IMAGE_POLICY_AGREE" = "Acordar";
 
 "UPLOAD_IMAGE_PREFERENCES_TITLE" = "Subidas de Imágenes";
+"UPLOAD_IMAGE_PREFERENCES_LOGIN" = "Login"; // Untranslated
+"UPLOAD_IMAGE_PREFERENCES_LOGOUT" = "Logout"; // Untranslated
+"UPLOAD_IMAGE_PREFERENCES_ACCOUNT" = "Account"; // Untranslated
+"UPLOAD_IMAGE_PREFERENCES_CHECKING" = "Checking account details"; // Untranslated
+
+"UPLOAD_IMAGE_ERROR_VIEW_SETTINGS" = "View Settings"; // Untranslated
+"UPLOAD_IMAGE_ERROR_ACCESS_NOT_PERMITTED" = "Access to photo library is not permitted. Enable access to photos in system settings."; // Untranslated
+"UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "Parental controls prevent access to photos."; // Untranslated
+"UPLOAD_IMAGE_ERROR_NO_IMAGE" = "Server did not return a string containing the image URL."; // Untranslated
+"UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Invalid Image."; // Untranslated
 
 "CLOUDAPP_VERIFY_FAILURE" = "La cuenta no pudo ser validada, por favor intente otra vez.";
 "CLOUDAPP_USERNAME" = "Email";
@@ -277,54 +299,50 @@
 "NICK_WHOIS" = "Whois";
 "WHOIS_CHANNELS_TITLE" = "Canales";
 
-/* Whois */
-"NICK_WHOIS" = "Whois";
-"WHOIS_CHANNELS_TITLE" = "Channels";
-
 /* Whois User Information Section */
 "WHOIS_USER_SECTION" = "Usuario";
 
 /* Whois Session Information Section */
-"WHOIS_SESSION_SECTION" = "Session Information";
+"WHOIS_SESSION_SECTION" = "Session Information"; // Untranslated
 
 /* Whois Server Information Section */
-"WHOIS_SERVER_SECTION" = "Server Information";
+"WHOIS_SERVER_SECTION" = "Server Information"; // Untranslated
 
 /* Whois User Realname */
-"WHOIS_USER_REALNAME" = "Realname";
+"WHOIS_USER_REALNAME" = "Realname"; // Untranslated
 
 /* Whois User Ident */
-"WHOIS_USER_IDENT" = "Ident";
+"WHOIS_USER_IDENT" = "Ident"; // Untranslated
 
 /* Whois User Hostname */
-"WHOIS_USER_HOSTNAME" = "Hostname";
+"WHOIS_USER_HOSTNAME" = "Hostname"; // Untranslated
 
 /* Whois User Is Network Operator */
-"WHOIS_USER_IS_NETWORK_OPERATOR" = "Network Operator";
+"WHOIS_USER_IS_NETWORK_OPERATOR" = "Network Operator"; // Untranslated
 
 /* Whois User Connection Status */
-"WHOIS_USER_CONNECTION_STATUS" = "Status";
+"WHOIS_USER_CONNECTION_STATUS" = "Status"; // Untranslated
 
 /* Whois User Connection Status (Connected) */
-"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Connected";
+"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Connected"; // Untranslated
 
 /* Whois User Connection Status (Disconnected) */
-"WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline";
+"WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline"; // Untranslated
 
 /* Whois Session Idle Time */
-"WHOIS_SESSION_IDLE_TIME" = "Idle";
+"WHOIS_SESSION_IDLE_TIME" = "Idle"; // Untranslated
 
 /* Whois Session Connected Time */
-"WHOIS_SESSION_CONNECTED_TIME" = "Connected";
+"WHOIS_SESSION_CONNECTED_TIME" = "Connected"; // Untranslated
 
 /* Whois Session Using TLS */
-"WHOIS_SESSION_USING_TLS" = "Using TLS";
+"WHOIS_SESSION_USING_TLS" = "Using TLS"; // Untranslated
 
 /* Whois Server Hostname */
 "WHOIS_SERVER_HOSTNAME" = "Servidor";
 
 /* Whois Server Information */
-"WHOIS_SERVER_INFO" = "Server Info";
+"WHOIS_SERVER_INFO" = "Server Info"; // Untranslated
 
 /* Media */
 "MEDIA_NOT_PLAYING" = "no esta reproduciendo nada";
@@ -345,15 +363,84 @@
 
 /* Channel Detail */
 "CHANNEL_DETAIL_TITLE" = "Configuración del Canal";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS" = "Notificaciones de Mensajes";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_SECTION" = "Notificaciones de Mensajes";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "Todos los mensajes";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "Menciones o palabras resaltadas";
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Never"; // Untranslated
 
-"CHANNEL_DETAIL_TOPIC_SECTION" = "Topic";
-"CHANNEL_DETAIL_NO_TOPIC" = "No Topic";
+"CHANNEL_DETAIL_TOPIC_SECTION" = "Topic"; // Untranslated
+"CHANNEL_DETAIL_NO_TOPIC" = "No Topic"; // Untranslated
+"CHANNEL_DETAIL_TOPIC_EDIT" = "Edit"; // Untranslated
+
+"CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "Unread Count"; // Untranslated
 
 /* View/Edit Channel Modes */
-"CHANNEL_DETAIL_VIEW_MODES" = "Channel Modes";
+"CHANNEL_DETAIL_VIEW_MODES" = "Channel Modes"; // Untranslated
 
 /* Modes View (View/Edit) Title */
-"CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes";
+"CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes"; // Untranslated
+
+"CHANNEL_MODE_C" = "Disable color codes (+c)"; // Untranslated
+"CHANNEL_MODE_I" = "Invite only (+i)"; // Untranslated
+"CHANNEL_MODE_M" = "Moderated (+m)"; // Untranslated
+"CHANNEL_MODE_P" = "Private (+p)"; // Untranslated
+"CHANNEL_MODE_S" = "Secret (+s)"; // Untranslated
+"CHANNEL_MODE_N" = "No external messages (+n)"; // Untranslated
+"CHANNEL_MODE_T" = "Only ops can set topic (+t)"; // Untranslated
+
+"CHANNEL_DETAIL_PART" = "Part Channel"; // Untranslated
+
+/* URL Actions */
+"URL_ACTION_OPEN" = "Abrir";
+"URL_ACTION_READING_LIST" = "Agregar a lecturas";
+"URL_ACTION_COPY" = "Copiar";
+"URL_ACTION_SHARE" = "Compartir...";
+"READING_LIST_NOTE" = "Saved from Palaver"; // Untranslated
+
+/* Add Network */
+"ADD_NETWORK_POPULAR" = "Popular Networks"; // Untranslated
+"ADD_NETWORK_CUSTOM" = "Custom Network"; // Untranslated
+"ADD_NETWORK_SELECT" = "Select Network"; // Untranslated
+
+/* Connection Details */
+"CONNECTION_DETAIL_TITLE" = "Connection Info"; // Untranslated
+"CONNECTION_DETAIL_CHAIN" = "Certificate Chain"; // Untranslated
+"CERTIFICATE_DETAIL_FINGERPRINTS" = "Fingerprints"; // Untranslated
+
+/* Key Commands */
+"KEY_COMMAND_PREVIOUS_QUERY" = "Previous Query"; // Untranslated
+"KEY_COMMAND_PREVIOUS_UNREAD_QUERY" = "Previous Unread Query"; // Untranslated
+"KEY_COMMAND_NEXT_QUERY" = "Next Query"; // Untranslated
+"KEY_COMMAND_NEXT_UNREAD_QUERY" = "Next Unread Query"; // Untranslated
+"KEY_COMMAND_CLOSE_QUERY" = "Close Query"; // Untranslated
+"KEY_COMMAND_PREVIOUS_MESSAGE" = "Previous Message"; // Untranslated
+"KEY_COMMAND_NEXT_MESSAGE" = "Next Message"; // Untranslated
+
+/* User Commands */
+"COMMAND_NOT_CONNECTED" = "You are not connected"; // Untranslated
+"COMMAND_NOT_CONNECTED_NICK" = "'%@' alias uses {nick} while we are not connected to a server"; // Untranslated
+"COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias uses {channel} while we are not in a channel query"; // Untranslated
+"COMMAND_NOT_JOINED" = "You are not joined"; // Untranslated
+
+"COMMAND_QUERY_INVALID" = "Not a query"; // Untranslated
+"COMMAND_QUERY_UNKNOWN" = "This query is not a channel or nick."; // Untranslated
+"COMMAND_QUERY_INVALID_TYPE" = "Incorrect query type"; // Untranslated
+"COMMAND_NETWORK_INVALID" = "Not a network query"; // Untranslated
+"COMMAND_NETWORK_NOT_FOUND" = "network '%@' not found"; // Untranslated
+"COMMAND_CHANNEL_INVALID" = "%@ is not a channel"; // Untranslated
+"COMMAND_CHANNEL_NOT_JOINED" = "%@ is not joined"; // Untranslated
+
+"COMMAND_RAW_NO_LINE" = "/raw was not given a line"; // Untranslated
+
+"COMMAND_ALIAS_DEFAULT_TITLE" = "Default Aliases:"; // Untranslated
+"COMMAND_ALIAS_TITLE" = "Aliases:"; // Untranslated
+"COMMAND_ALIAS_ALREADY_ADDED" = "Alias '%@' is already added"; // Untranslated
+"COMMAND_ALIAS_NOT_FOUND" = "Alias '%@' not found"; // Untranslated
+"COMMAND_ALIAS_REMOVE_ERROR" = "Cannot remove default alias '%@'"; // Untranslated
+"COMMAND_ALIAS_REMOVE" = "Alias '%@' removed"; // Untranslated
+
+"COMMAND_INVITE_MULTIPLE" = "Multiple channels provided to invite. Only one is allowed."; // Untranslated
+"COMMAND_MY_VERSION" = "/me is using {app} {appVersion} {appURL}"; // Untranslated
+"COMMAND_SYSINFO" = "/me is using {app} {appVersion} on an {platform} running {os} {osVersion}"; // Untranslated
+
+"COMMAND_UNKNOWN" = "Unknown Command: %@"; // Untranslated
