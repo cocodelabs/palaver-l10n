@@ -380,7 +380,7 @@
 /* Modes View (View/Edit) Title */
 "CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes";
 
-"CHANNEL_MODE_C" = "Disable color codes (+c)";
+"CHANNEL_MODE_C" = "Disabled color codes (+c)";
 "CHANNEL_MODE_I" = "Invite only (+i)";
 "CHANNEL_MODE_M" = "Moderated (+m)";
 "CHANNEL_MODE_P" = "Private (+p)";
