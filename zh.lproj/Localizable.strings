@@ -11,25 +11,25 @@
 "CANCEL" = "取消";
 "CLOSE" = "关闭";
 "OK" = "好";
-"YES" = "Yes"; // Untranslated
-"NO" = "No"; // Untranslated
-"UNKNOWN" = "Unknown"; // Untranslated
+"YES" = "是";
+"NO" = "否";
+"UNKNOWN" = "未知的";
 
 "NICKNAME" = "昵称";
 
 /* Body of notification when message previews are disabled */
-"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "Message"; // Untranslated
+"NOTIFICATION_MESSAGE_CATEGORY_PRIVATE_BODY" = "信息";
 
 /* Reply button title for message notification */
-"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "Reply"; // Untranslated
+"NOTIFICATION_MESSAGE_CATEGORY_REPLY_ACTION_TITLE" = "回复";
 
 /* Title of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "Failed to send message"; // Untranslated
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_TITLE" = "发送信息失败";
 
 /* Body of notification when sending a message from a notification failed */
-"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "Open application to retry"; // Untranslated
+"NOTIFICATION_MESSAGE_CATEGORY_FAILED_BODY" = "打开应用并重试";
 
-"NOTIFICATION_REPLY_FAILED" = "Failed to send message '%@'. Unknown or deleted IRC Network."; // Untranslated
+"NOTIFICATION_REPLY_FAILED" = "发送信息失败 '%@'. 未知的或已删除的IRC网络.";
 
 "QUERY_LIST_TITLE" = "聊天室";
 "QUERY_LIST_TITLE_UNREAD" = "聊天室(%@)";
@@ -37,22 +37,22 @@
 "QUERY_LIST_ADD_NETWORK_MESSAGE" = "点击这里添加你的第一个网络";
 
 /* Accessibility label for connected network status */
-"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "connected"; // Untranslated
+"QUERY_LIST_NETWORK_CONNECTED_STATUS" = "已连接";
 
 /* Accessibility label for disconnected network status */
-"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "disconnected"; // Untranslated
+"QUERY_LIST_NETWORK_DISCONNECTED_STATUS" = "未连接";
 
 /* Accessibility label for connecting network status */
-"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "connecting"; // Untranslated
+"QUERY_LIST_NETWORK_CONNECTING_STATUS" = "连接中";
 
 /* Accessibility Label for query */
-"QUERY_LIST_QUERY_LABEL" = "%@ (%@ unread)"; // Untranslated
+"QUERY_LIST_QUERY_LABEL" = "%@ (%@ 未读)";
 
 /* Accessibility Label for query with unread mentions */
-"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ unread, with mentions)"; // Untranslated
+"QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ 未读, 有提醒)";
 
-"QUERY_LIST_SEARCH" = "Search Messages"; // Untranslated
-"QUERY_LIST_MARK_AS_READ" = "Mark as read"; // Untranslated
+"QUERY_LIST_SEARCH" = "搜索信息";
+"QUERY_LIST_MARK_AS_READ" = "标记为已读";
 
 "NETWORK_ADD" = "添加网络";
 "CHANNEL_ADD" = "加入频道";
@@ -65,14 +65,14 @@
 "NICK_CHANNEL_KICK" = "踢出";
 "NICK_CHANNEL_BAN" = "禁止";
 "NICK_CHANNEL_OP" = "发送管理邀请";
-"NICK_CHANNEL_VOICE" = "給予發言權限";
+"NICK_CHANNEL_VOICE" = "给予发言权限";
 "NICK_CHANNEL_DEOP" = "去除管理邀请";
-"NICK_CHANNEL_DEVOICE" = "移除發言權限";
-"NICK_IGNORE" = "Ignore"; // Untranslated
-"NICK_UNIGNORE" = "Stop Ignoring"; // Untranslated
+"NICK_CHANNEL_DEVOICE" = "移除发言权限";
+"NICK_IGNORE" = "忽略";
+"NICK_UNIGNORE" = "停止忽略";
 
 "CHANNEL_ADD_CHANNEL_NAME" = "名字";
-"CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
+"CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#Palaver";
 
 "NETWORK_SERVER_SECTION" = "服务器";
 "NETWORK_AUTH_SECTION" = "认证"; 
@@ -87,7 +87,7 @@
 "NETWORK_PASSWORD" = "密码";
 "NETWORK_AUTOCONNECT" = "自动连接";
 "NETWORK_DELETE" = "删除网络";
-"NETWORK_IGNORED_NICKS" = "Ignored Nicknames"; // Untranslated
+"NETWORK_IGNORED_NICKS" = "已忽略的昵称";
 
 "NETWORK_AUTHENTICATION" = "认证";
 "NETWORK_AUTHENTICATION_USERNAME" = "用户名";
@@ -105,9 +105,9 @@
 "NETWORK_EXPAND" = "释放";
 "NETWORK_CONNECT" = "连接";
 "NETWORK_DISCONNECT" = "断开连接";
-"NETWORK_CHANGE_NICKNAME" = "Change Nickname"; // Untranslated
-"NETWORK_CHANGE_NICKNAME_APPLY" = "Change"; // Untranslated
-"NETWORK_CHANNEL_LIST" = "Channel List"; // Untranslated
+"NETWORK_CHANGE_NICKNAME" = "更改昵称";
+"NETWORK_CHANGE_NICKNAME_APPLY" = "更改";
+"NETWORK_CHANNEL_LIST" = "频道列表";
 
 "NETWORK_ORDER" = "安排";
 "NETWORK_REARRANGE" = "重安排";
@@ -134,7 +134,7 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "系统设置";
 
 "FONT_SIZE_TITLE" = "字体大小";
-"FONT_SIZE_USE_SYSTEM" = "Use System Settings"; // Untranslated
+"FONT_SIZE_USE_SYSTEM" = "使用系统设置";
 
 "STYLE_TITLE" = "主题";
 "STYLE_SHOW_TIMESTAMPS" = "显示时间戳";
@@ -150,8 +150,8 @@
 "GENERAL_AUTO_JOIN_CHANNELS" = "自动加入频道";
 "GENERAL_AUTO_AWAY" = "自动退出";
 
-"NOTIFICATIONS_TITLE" = "Notifications"; // Untranslated
-"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Show Message Previews"; // Untranslated
+"NOTIFICATIONS_TITLE" = "通知";
+"NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "显示信息预览";
 
 "MENTIONS_TITLE" = "提到";
 "MENTIONS_ADD_TITLE" = "添加关键字";
@@ -169,7 +169,7 @@
 /* IRC Events */
 
 "IRC_KICKED_EVENT" = "%@ 接触(踢除)%@(%@)";
-"IRC_INVITED_EVENT" = "%@ has invited %@"; // Untranslated
+"IRC_INVITED_EVENT" = "%@ 邀请了 %@";
 "IRC_USER_QUIT_EVENT" = "%@ 已经退出";
 "IRC_USER_PARTED_EVENT" = "%@ 已经离开 %@";
 "IRC_USER_JOINED_EVENT" = "%@ 已经加入 %@";
@@ -202,9 +202,9 @@
 "IRC_CHANNEL_MODE_PLURAL_h" = "副管理員";
 "IRC_CHANNEL_MODE_VERBOSE_PLURAL_h" = "副管理員";
 
-"IRC_CHANNEL_MODE_v" = "發言權限";
-"IRC_CHANNEL_MODE_PLURAL_v" = "發言權限";
-"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "發言權限";
+"IRC_CHANNEL_MODE_v" = "发言权限";
+"IRC_CHANNEL_MODE_PLURAL_v" = "发言权限";
+"IRC_CHANNEL_MODE_VERBOSE_PLURAL_v" = "发言权限";
 
 /* Notifications */
 "IRC_CHANNEL_INVITATION" = "您受邀加入 %2$@ ，邀請人是 %1$@";
@@ -220,17 +220,17 @@
 "QUERY_STATUS_CONNECTING" = "连接中";
 "QUERY_STATUS_NICK_OFFLINE" = "用户处于离线";
 
-"QUERY_STATUS_NICK_IGNORED" = "Nickname Ignored"; // Untranslated
-"QUERY_STATUS_NICK_IGNORED_ACTION" = "Tap here to stop ignoring this user."; // Untranslated
+"QUERY_STATUS_NICK_IGNORED" = "昵称被忽略";
+"QUERY_STATUS_NICK_IGNORED_ACTION" = "点击这里停止忽略该用户.";
 
 /* Accessibility label for nicks in channel button */
-"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "Channel Members"; // Untranslated
+"QUERY_DETAIL_CHANNEL_NICKS_BUTTON_LABEL" = "频道号";
 
 /* Accessibility label for whois user button */
-"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "Who is User"; // Untranslated
+"QUERY_DETAIL_WHOIS_BUTTON_LABEL" = "谁是用户";
 
 /* Accessibility label for scroll to bottom button */
-"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "Scroll down to bottom of conversation"; // Untranslated
+"QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "下滑到对话底部";
 
 /* Link Preview */
 "QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "启用网址预览";
@@ -239,29 +239,29 @@
 "QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "所有网址";
 
 /* Accessibility label for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message"; // Untranslated
+"QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "发送信息失败";
 
 /* Accessibility hint for the failed message retry button */
-"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "Retry Options"; // Untranslated
+"QUERY_DETAIL_FAILED_MESSAGE_HINT" = "重试选项";
 
 /* Message of alert when opening failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "Message was not delivered"; // Untranslated
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_MESSAGE" = "信息未发出";
 
 /* Retry option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "Try Again"; // Untranslated
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_RETRY" = "再试一次";
 
 /* Delete option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "Delete Message"; // Untranslated
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_DELETE" = "删除信息";
 
 /* Cancel option of alert for failed message retry options */
-"QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "Cancel"; // Untranslated
+"QUERY_DETAIL_FAILED_MESSAGE_ALERT_CANCEL" = "取消";
 
-"QUERY_DETAIL_MESSAGE_COPY" = "Copy"; // Untranslated
-"QUERY_DETAIL_MESSAGE_MORE" = "More"; // Untranslated
+"QUERY_DETAIL_MESSAGE_COPY" = "复制";
+"QUERY_DETAIL_MESSAGE_MORE" = "更多";
 
-"QUERY_DETAIL_ADD_REACTION" = "Add Reaction"; // Untranslated
-"QUERY_DETAIL_REACTION_TITLE" = "Reactions"; // Untranslated
-"QUERY_DETAIL_REACTION_TEMPLATE" = "%@ reacted with %@"; // Untranslated
+"QUERY_DETAIL_ADD_REACTION" = "添加反馈";
+"QUERY_DETAIL_REACTION_TITLE" = "反馈";
+"QUERY_DETAIL_REACTION_TEMPLATE" = "%@ 反馈给 %@";
 
 /* Input bar */
 
@@ -271,7 +271,7 @@
 
 "UPLOAD_IMAGE_CAMERA" = "拍照";
 "UPLOAD_IMAGE_LIBRARY" = "选择已有照片";
-"UPLOAD_IMAGE_UPLOAD" = "Upload Photo"; // Untranslated
+"UPLOAD_IMAGE_UPLOAD" = "上传照片";
 "UPLOAD_IMAGE_UPLOADING" = "上传 ";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "图片上传";
@@ -280,16 +280,16 @@
 "UPLOAD_IMAGE_POLICY_AGREE" = "同意";
 
 "UPLOAD_IMAGE_PREFERENCES_TITLE" = "图片上传";
-"UPLOAD_IMAGE_PREFERENCES_LOGIN" = "Login"; // Untranslated
-"UPLOAD_IMAGE_PREFERENCES_LOGOUT" = "Logout"; // Untranslated
-"UPLOAD_IMAGE_PREFERENCES_ACCOUNT" = "Account"; // Untranslated
-"UPLOAD_IMAGE_PREFERENCES_CHECKING" = "Checking account details"; // Untranslated
+"UPLOAD_IMAGE_PREFERENCES_LOGIN" = "登陆";
+"UPLOAD_IMAGE_PREFERENCES_LOGOUT" = "登出";
+"UPLOAD_IMAGE_PREFERENCES_ACCOUNT" = "账户";
+"UPLOAD_IMAGE_PREFERENCES_CHECKING" = "查询账户详细信息";
 
-"UPLOAD_IMAGE_ERROR_VIEW_SETTINGS" = "View Settings"; // Untranslated
-"UPLOAD_IMAGE_ERROR_ACCESS_NOT_PERMITTED" = "Access to photo library is not permitted. Enable access to photos in system settings."; // Untranslated
-"UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "Parental controls prevent access to photos."; // Untranslated
-"UPLOAD_IMAGE_ERROR_NO_IMAGE" = "Server did not return a string containing the image URL."; // Untranslated
-"UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Invalid Image."; // Untranslated
+"UPLOAD_IMAGE_ERROR_VIEW_SETTINGS" = "设置视图";
+"UPLOAD_IMAGE_ERROR_ACCESS_NOT_PERMITTED" = "访问照片库不被允许. 在系统设置中开启照片访问.";
+"UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "家长控制阻止照片访问.";
+"UPLOAD_IMAGE_ERROR_NO_IMAGE" = "服务器未返回包含照片链接的字符串.";
+"UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "无效图片.";
 
 "CLOUDAPP_VERIFY_FAILURE" = "账号无法识别，请再次尝试";
 "CLOUDAPP_USERNAME" = "电子邮箱";
@@ -300,49 +300,49 @@
 "WHOIS_CHANNELS_TITLE" = "频道";
 
 /* Whois User Information Section */
-"WHOIS_USER_SECTION" = "User Information"; // Untranslated
+"WHOIS_USER_SECTION" = "用户信息";
 
 /* Whois Session Information Section */
-"WHOIS_SESSION_SECTION" = "Session Information"; // Untranslated
+"WHOIS_SESSION_SECTION" = "会话信息";
 
 /* Whois Server Information Section */
-"WHOIS_SERVER_SECTION" = "Server Information"; // Untranslated
+"WHOIS_SERVER_SECTION" = "服务器信息";
 
 /* Whois User Realname */
-"WHOIS_USER_REALNAME" = "Realname"; // Untranslated
+"WHOIS_USER_REALNAME" = "实名";
 
 /* Whois User Ident */
-"WHOIS_USER_IDENT" = "Ident"; // Untranslated
+"WHOIS_USER_IDENT" = "身份";
 
 /* Whois User Hostname */
-"WHOIS_USER_HOSTNAME" = "Hostname"; // Untranslated
+"WHOIS_USER_HOSTNAME" = "主机名";
 
 /* Whois User Is Network Operator */
-"WHOIS_USER_IS_NETWORK_OPERATOR" = "Network Operator"; // Untranslated
+"WHOIS_USER_IS_NETWORK_OPERATOR" = "网络运营商";
 
 /* Whois User Connection Status */
-"WHOIS_USER_CONNECTION_STATUS" = "Status"; // Untranslated
+"WHOIS_USER_CONNECTION_STATUS" = "状态";
 
 /* Whois User Connection Status (Connected) */
-"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Connected"; // Untranslated
+"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "已连接";
 
 /* Whois User Connection Status (Disconnected) */
-"WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline"; // Untranslated
+"WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "下线";
 
 /* Whois Session Idle Time */
-"WHOIS_SESSION_IDLE_TIME" = "Idle"; // Untranslated
+"WHOIS_SESSION_IDLE_TIME" = "独立";
 
 /* Whois Session Connected Time */
-"WHOIS_SESSION_CONNECTED_TIME" = "Connected"; // Untranslated
+"WHOIS_SESSION_CONNECTED_TIME" = "已连接";
 
 /* Whois Session Using TLS */
-"WHOIS_SESSION_USING_TLS" = "Using TLS"; // Untranslated
+"WHOIS_SESSION_USING_TLS" = "使用TLS";
 
 /* Whois Server Hostname */
-"WHOIS_SERVER_HOSTNAME" = "Server"; // Untranslated
+"WHOIS_SERVER_HOSTNAME" = "服务器";
 
 /* Whois Server Information */
-"WHOIS_SERVER_INFO" = "Server Info"; // Untranslated
+"WHOIS_SERVER_INFO" = "服务器信息";
 
 /* Media */
 "MEDIA_NOT_PLAYING" = "没有在播放任何媒体";
@@ -366,81 +366,81 @@
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_SECTION" = "件通知";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_ALL" = "任何消息";
 "CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_MENTIONS" = "提及或亮点";
-"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "Never"; // Untranslated
+"CHANNEL_DETAIL_MESSAGE_NOTIFICATIONS_NEVER" = "从未";
 
-"CHANNEL_DETAIL_TOPIC_SECTION" = "Topic"; // Untranslated
-"CHANNEL_DETAIL_NO_TOPIC" = "No Topic"; // Untranslated
-"CHANNEL_DETAIL_TOPIC_EDIT" = "Edit"; // Untranslated
+"CHANNEL_DETAIL_TOPIC_SECTION" = "主题";
+"CHANNEL_DETAIL_NO_TOPIC" = "无主题";
+"CHANNEL_DETAIL_TOPIC_EDIT" = "编辑";
 
-"CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "Unread Count"; // Untranslated
+"CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "未读数";
 
 /* View/Edit Channel Modes */
-"CHANNEL_DETAIL_VIEW_MODES" = "Channel Modes"; // Untranslated
+"CHANNEL_DETAIL_VIEW_MODES" = "频道状态";
 
 /* Modes View (View/Edit) Title */
-"CHANNEL_DETAIL_MODES_TITLE" = "Channel Modes"; // Untranslated
+"CHANNEL_DETAIL_MODES_TITLE" = "频道状态";
 
-"CHANNEL_MODE_C" = "Disable color codes (+c)"; // Untranslated
-"CHANNEL_MODE_I" = "Invite only (+i)"; // Untranslated
-"CHANNEL_MODE_M" = "Moderated (+m)"; // Untranslated
-"CHANNEL_MODE_P" = "Private (+p)"; // Untranslated
-"CHANNEL_MODE_S" = "Secret (+s)"; // Untranslated
-"CHANNEL_MODE_N" = "No external messages (+n)"; // Untranslated
-"CHANNEL_MODE_T" = "Only ops can set topic (+t)"; // Untranslated
+"CHANNEL_MODE_C" = "关闭颜色码 (+c)";
+"CHANNEL_MODE_I" = "仅邀请 (+i)";
+"CHANNEL_MODE_M" = "减弱的 (+m)";
+"CHANNEL_MODE_P" = "私人的 (+p)";
+"CHANNEL_MODE_S" = "秘密的 (+s)";
+"CHANNEL_MODE_N" = "无外部消息 (+n)";
+"CHANNEL_MODE_T" = "只有ops能设置主题 (+t)";
 
-"CHANNEL_DETAIL_PART" = "Part Channel"; // Untranslated
+"CHANNEL_DETAIL_PART" = "部分频道";
 
 /* URL Actions */
-"URL_ACTION_OPEN" = "Open"; // Untranslated
-"URL_ACTION_READING_LIST" = "Add to Reading List"; // Untranslated
-"URL_ACTION_COPY" = "Copy"; // Untranslated
-"URL_ACTION_SHARE" = "Share..."; // Untranslated
-"READING_LIST_NOTE" = "Saved from Palaver"; // Untranslated
+"URL_ACTION_OPEN" = "打开";
+"URL_ACTION_READING_LIST" = "加入阅读列表";
+"URL_ACTION_COPY" = "复制";
+"URL_ACTION_SHARE" = "分享...";
+"READING_LIST_NOTE" = "从Palaver保存";
 
 /* Add Network */
-"ADD_NETWORK_POPULAR" = "Popular Networks"; // Untranslated
-"ADD_NETWORK_CUSTOM" = "Custom Network"; // Untranslated
-"ADD_NETWORK_SELECT" = "Select Network"; // Untranslated
+"ADD_NETWORK_POPULAR" = "热门网络";
+"ADD_NETWORK_CUSTOM" = "客户网络";
+"ADD_NETWORK_SELECT" = "选择网络";
 
 /* Connection Details */
-"CONNECTION_DETAIL_TITLE" = "Connection Info"; // Untranslated
-"CONNECTION_DETAIL_CHAIN" = "Certificates"; // Untranslated
-"CERTIFICATE_DETAIL_FINGERPRINTS" = "Fingerprints"; // Untranslated
+"CONNECTION_DETAIL_TITLE" = "连接信息";
+"CONNECTION_DETAIL_CHAIN" = "认证";
+"CERTIFICATE_DETAIL_FINGERPRINTS" = "指纹";
 
 /* Key Commands */
-"KEY_COMMAND_PREVIOUS_QUERY" = "Previous Query"; // Untranslated
-"KEY_COMMAND_PREVIOUS_UNREAD_QUERY" = "Previous Unread Query"; // Untranslated
-"KEY_COMMAND_NEXT_QUERY" = "Next Query"; // Untranslated
-"KEY_COMMAND_NEXT_UNREAD_QUERY" = "Next Unread Query"; // Untranslated
-"KEY_COMMAND_CLOSE_QUERY" = "Close Query"; // Untranslated
-"KEY_COMMAND_PREVIOUS_MESSAGE" = "Previous Message"; // Untranslated
-"KEY_COMMAND_NEXT_MESSAGE" = "Next Message"; // Untranslated
+"KEY_COMMAND_PREVIOUS_QUERY" = "以前的查询";
+"KEY_COMMAND_PREVIOUS_UNREAD_QUERY" = "以前的未读查询";
+"KEY_COMMAND_NEXT_QUERY" = "下一个查询";
+"KEY_COMMAND_NEXT_UNREAD_QUERY" = "下一个未读查询";
+"KEY_COMMAND_CLOSE_QUERY" = "关闭查询";
+"KEY_COMMAND_PREVIOUS_MESSAGE" = "以前的信息";
+"KEY_COMMAND_NEXT_MESSAGE" = "下一个信息";
 
 /* User Commands */
-"COMMAND_NOT_CONNECTED" = "You are not connected"; // Untranslated
-"COMMAND_NOT_CONNECTED_NICK" = "'%@' alias uses {nick} while we are not connected to a server"; // Untranslated
-"COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias uses {channel} while we are not in a channel query"; // Untranslated
-"COMMAND_NOT_JOINED" = "You are not joined"; // Untranslated
+"COMMAND_NOT_CONNECTED" = "你未连接";
+"COMMAND_NOT_CONNECTED_NICK" = "'%@' 使用别名 {nick} 当未连接到服务器";
+"COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' 使用别名 {channel} 当不在频道查询中";
+"COMMAND_NOT_JOINED" = "你未加入";
 
-"COMMAND_QUERY_INVALID" = "Not a query"; // Untranslated
-"COMMAND_QUERY_UNKNOWN" = "This query is not a channel or nick."; // Untranslated
-"COMMAND_QUERY_INVALID_TYPE" = "Incorrect query type"; // Untranslated
-"COMMAND_NETWORK_INVALID" = "Not a network query"; // Untranslated
-"COMMAND_NETWORK_NOT_FOUND" = "network '%@' not found"; // Untranslated
-"COMMAND_CHANNEL_INVALID" = "%@ is not a channel"; // Untranslated
-"COMMAND_CHANNEL_NOT_JOINED" = "%@ is not joined"; // Untranslated
+"COMMAND_QUERY_INVALID" = "非查询";
+"COMMAND_QUERY_UNKNOWN" = "该查询非频道或昵称.";
+"COMMAND_QUERY_INVALID_TYPE" = "错误的查询类别";
+"COMMAND_NETWORK_INVALID" = "非网络查询";
+"COMMAND_NETWORK_NOT_FOUND" = "网络 '%@' 未找到";
+"COMMAND_CHANNEL_INVALID" = "%@ 不是一个频道";
+"COMMAND_CHANNEL_NOT_JOINED" = "%@ 未加入";
 
-"COMMAND_RAW_NO_LINE" = "/raw was not given a line"; // Untranslated
+"COMMAND_RAW_NO_LINE" = "/raw was not given a line";
 
-"COMMAND_ALIAS_DEFAULT_TITLE" = "Default Aliases:"; // Untranslated
-"COMMAND_ALIAS_TITLE" = "Aliases:"; // Untranslated
-"COMMAND_ALIAS_ALREADY_ADDED" = "Alias '%@' is already added"; // Untranslated
-"COMMAND_ALIAS_NOT_FOUND" = "Alias '%@' not found"; // Untranslated
-"COMMAND_ALIAS_REMOVE_ERROR" = "Cannot remove default alias '%@'"; // Untranslated
-"COMMAND_ALIAS_REMOVE" = "Alias '%@' removed"; // Untranslated
+"COMMAND_ALIAS_DEFAULT_TITLE" = "默认别名:";
+"COMMAND_ALIAS_TITLE" = "别名:";
+"COMMAND_ALIAS_ALREADY_ADDED" = "别名 '%@' 已加入";
+"COMMAND_ALIAS_NOT_FOUND" = "别名 '%@' 未找到";
+"COMMAND_ALIAS_REMOVE_ERROR" = "无法移除默认别名 '%@'";
+"COMMAND_ALIAS_REMOVE" = "别名 '%@' 已移除";
 
-"COMMAND_INVITE_MULTIPLE" = "Multiple channels provided to invite. Only one is allowed."; // Untranslated
-"COMMAND_MY_VERSION" = "/me is using {app} {appVersion} {appURL}"; // Untranslated
-"COMMAND_SYSINFO" = "/me is using {app} {appVersion} on an {platform} running {os} {osVersion}"; // Untranslated
+"COMMAND_INVITE_MULTIPLE" = "多个频道可邀请. 仅一个被允许.";
+"COMMAND_MY_VERSION" = "/me 正在使用 {app} {appVersion} {appURL}";
+"COMMAND_SYSINFO" = "/me 正在使用 {app} {appVersion} 运行在 {platform} 平台和 {os} {osVersion} 系统";
 
-"COMMAND_UNKNOWN" = "Unknown Command: %@"; // Untranslated
+"COMMAND_UNKNOWN" = "未知命令: %@";
