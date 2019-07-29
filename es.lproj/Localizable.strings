@@ -416,6 +416,7 @@
 "KEY_COMMAND_CLOSE_QUERY" = "Cerrar consulta";
 "KEY_COMMAND_PREVIOUS_MESSAGE" = "Mensaje anterior";
 "KEY_COMMAND_NEXT_MESSAGE" = "Próximo mensaje";
+"KEY_COMMAND_CLEAR_QUERY" = "Clear Query"; // Untranslated
 
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "No estás conectado";

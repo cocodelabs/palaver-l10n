@@ -415,6 +415,7 @@
 "KEY_COMMAND_CLOSE_QUERY" = "Sluit query";
 "KEY_COMMAND_PREVIOUS_MESSAGE" = "Vorig bericht";
 "KEY_COMMAND_NEXT_MESSAGE" = "Volgend bericht";
+"KEY_COMMAND_CLEAR_QUERY" = "Query berichten wissen";
 
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "Je bent niet verbonden";
