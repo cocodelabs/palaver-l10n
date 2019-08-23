@@ -311,6 +311,9 @@
 /* Whois User Realname */
 "WHOIS_USER_REALNAME" = "Realname";
 
+/* Whois User Email Address */
+"WHOIS_USER_EMAIL_ADDRESS" = "E-mail Address";
+
 /* Whois User Ident */
 "WHOIS_USER_IDENT" = "Ident";
 
