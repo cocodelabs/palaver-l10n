@@ -449,6 +449,6 @@
 
 "COMMAND_INVITE_MULTIPLE" = "Uitnodiging voor meerdere kanalen is niet mogelijk, slechts één is toegestaan.";
 "COMMAND_MY_VERSION" = "/me gebruikt {app} {app.version} {app.url}";
-"COMMAND_SYSINFO" = "/me gebruikt {app} {app.version} op een {platform} met {os} {os.version}";
+"COMMAND_SYSINFO" = "/me gebruikt {app} {app.version} op een {device} met {os} {os.version}, {device.processorCount} CPU cores, {device.systemMemory} RAM en een batterijpercentage van {device.batteryPercentage}";
 
 "COMMAND_UNKNOWN" = "Onbekend Commando: %@, gebruik /raw om commando's direct naar de server te sturen";
