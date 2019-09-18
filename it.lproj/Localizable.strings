@@ -449,6 +449,6 @@
 
 "COMMAND_INVITE_MULTIPLE" = "Più canali data per l’invito. Solo un canale consentito.";
 "COMMAND_MY_VERSION" = "/me sta usando {app} {app.version} {app.url}";
-"COMMAND_SYSINFO" = "/me sta usando {app} {app.version} su un {platform} su {os} {os.version}";
+"COMMAND_SYSINFO" = "/me sta usando {app} {app.version} su un {device} su {os} {os.version}"; // Needs updating
 
 "COMMAND_UNKNOWN" = "Comando sconosciuto: %@, use /raw to send commands directly to the server"; // Needs updating

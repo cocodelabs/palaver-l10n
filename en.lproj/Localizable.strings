@@ -449,6 +449,6 @@
 
 "COMMAND_INVITE_MULTIPLE" = "Multiple channels provided to invite. Only one is allowed.";
 "COMMAND_MY_VERSION" = "/me is using {app} {app.version} {app.url}";
-"COMMAND_SYSINFO" = "/me is using {app} {app.version} on an {platform} running {os} {os.version}";
+"COMMAND_SYSINFO" = "/me is using {app} {app.version} on an {device} running {os} {os.version} with {device.processorCount} CPU cores, {device.systemMemory} RAM and {device.batteryPercentage} battery life remaining";
 
 "COMMAND_UNKNOWN" = "Unknown Command: %@, use /raw to send commands directly to the server";
