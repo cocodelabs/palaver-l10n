@@ -448,4 +448,4 @@
 "COMMAND_MY_VERSION" = "/me está utilizando {app} {appVersion} {appURL}";
 "COMMAND_SYSINFO" = "/me está utilizando {app} {appVersion} en {platform} ejecutando {os} {osVersion}";
 
-"COMMAND_UNKNOWN" = "Comando desconocido: %@";
+"COMMAND_UNKNOWN" = "Comando desconocido: %@, use /raw to send commands directly to the server"; // Needs updating

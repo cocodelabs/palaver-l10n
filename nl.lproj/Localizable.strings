@@ -447,4 +447,4 @@
 "COMMAND_MY_VERSION" = "/me gebruikt {app} {appVersion} {appURL}";
 "COMMAND_SYSINFO" = "/me gebruikt {app} {appVersion} op een {platform} met {os} {osVersion}";
 
-"COMMAND_UNKNOWN" = "Onbekend Commando: %@";
+"COMMAND_UNKNOWN" = "Onbekend Commando: %@, gebruik /raw om commando's direct naar de server te sturen";

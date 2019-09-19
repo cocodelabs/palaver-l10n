@@ -447,4 +447,4 @@
 "COMMAND_MY_VERSION" = "/me is using {app} {appVersion} {appURL}";
 "COMMAND_SYSINFO" = "/me is using {app} {appVersion} on an {platform} running {os} {osVersion}";
 
-"COMMAND_UNKNOWN" = "Unknown Command: %@";
+"COMMAND_UNKNOWN" = "Unknown Command: %@, use /raw to send commands directly to the server";
