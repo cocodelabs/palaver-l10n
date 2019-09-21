@@ -132,6 +132,7 @@
 "PREFERENCES_GENERAL_SECTION" = "Obecné";
 "PREFERENCES_REALNAME" = "Pravé jméno";
 "PREFERENCES_SYSTEM_SETTINGS" = "System Settings"; // Untranslated
+"PREFERENCES_FOOTER" = "More advanced configuration is available through /commands. Learn more at https://palaverapp.com/guides"; // Untranslated
 
 "FONT_SIZE_TITLE" = "Velikost textu";
 "FONT_SIZE_USE_SYSTEM" = "Use System Settings"; // Untranslated

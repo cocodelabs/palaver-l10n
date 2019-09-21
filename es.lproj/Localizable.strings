@@ -133,6 +133,7 @@
 "PREFERENCES_GENERAL_SECTION" = "General";
 "PREFERENCES_REALNAME" = "Nombre real";
 "PREFERENCES_SYSTEM_SETTINGS" = "Configuración del Sistema";
+"PREFERENCES_FOOTER" = "More advanced configuration is available through /commands. Learn more at https://palaverapp.com/guides"; // Untranslated
 
 "FONT_SIZE_TITLE" = "Tamaño de letra";
 "FONT_SIZE_USE_SYSTEM" = "Usar Configuración del Sistema";
