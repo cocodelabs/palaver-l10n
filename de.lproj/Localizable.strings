@@ -445,7 +445,7 @@
 "COMMAND_ALIAS_REMOVE" = "Alias '%@' removed"; // Untranslated
 
 "COMMAND_INVITE_MULTIPLE" = "Multiple channels provided to invite. Only one is allowed."; // Untranslated
-"COMMAND_MY_VERSION" = "/me is using {app} {appVersion} {appURL}"; // Untranslated
-"COMMAND_SYSINFO" = "/me is using {app} {appVersion} on an {platform} running {os} {osVersion}"; // Untranslated
+"COMMAND_MY_VERSION" = "/me is using {app} {app.version} {app.url}"; // Untranslated
+"COMMAND_SYSINFO" = "/me is using {app} {app.version} on an {platform} running {os} {os.version}"; // Untranslated
 
 "COMMAND_UNKNOWN" = "Unknown Command: %@, use /raw to send commands directly to the server"; // Untranslated

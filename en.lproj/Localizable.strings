@@ -445,7 +445,7 @@
 "COMMAND_ALIAS_REMOVE" = "Alias '%@' removed";
 
 "COMMAND_INVITE_MULTIPLE" = "Multiple channels provided to invite. Only one is allowed.";
-"COMMAND_MY_VERSION" = "/me is using {app} {appVersion} {appURL}";
-"COMMAND_SYSINFO" = "/me is using {app} {appVersion} on an {platform} running {os} {osVersion}";
+"COMMAND_MY_VERSION" = "/me is using {app} {app.version} {app.url}";
+"COMMAND_SYSINFO" = "/me is using {app} {app.version} on an {platform} running {os} {os.version}";
 
 "COMMAND_UNKNOWN" = "Unknown Command: %@, use /raw to send commands directly to the server";
