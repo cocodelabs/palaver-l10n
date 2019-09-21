@@ -354,6 +354,7 @@
 "MEDIA_PLAYING_TITLE_ALBUM" = "je %@ %@ od %@";
 "MEDIA_PLAYING_TITLE" = "je %@ %@";
 "MEDIA_PLAYING_ERROR" = "Nepodařilo se najít informace o skladbě.";
+"MEDIA_PLAYING_ERROR_ACCESS_NOT_PERMITTED" = "Access to media library is not permitted. Enable access to 'Media & Apple Music' in system settings under Palaver."; // Untranslated
 
 "MEDIA_VERB_AUDIO" = "poslouchá";
 "MEDIA_VERB_VIDEO" = "sleduje";

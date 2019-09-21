@@ -354,6 +354,7 @@
 "MEDIA_PLAYING_TITLE_ALBUM" = "%@ %@ van het album %@";
 "MEDIA_PLAYING_TITLE" = "%@ %@";
 "MEDIA_PLAYING_ERROR" = "Kon media informatie niet vinden.";
+"MEDIA_PLAYING_ERROR_ACCESS_NOT_PERMITTED" = "Access to media library is not permitted. Enable access to 'Media & Apple Music' in system settings under Palaver."; // Untranslated
 
 "MEDIA_VERB_AUDIO" = "luistert naar";
 "MEDIA_VERB_VIDEO" = "kijkt naar";

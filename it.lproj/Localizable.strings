@@ -354,6 +354,7 @@
 "MEDIA_PLAYING_TITLE_ALBUM" = "è %@ %@ da %@";
 "MEDIA_PLAYING_TITLE" = "è %@ %@";
 "MEDIA_PLAYING_ERROR" = "Non riesco a trovare il contenuto.";
+"MEDIA_PLAYING_ERROR_ACCESS_NOT_PERMITTED" = "Access to media library is not permitted. Enable access to 'Media & Apple Music' in system settings under Palaver."; // Untranslated
 
 "MEDIA_VERB_AUDIO" = "stai sentento";
 "MEDIA_VERB_VIDEO" = "stai guardando";
