@@ -61,15 +61,17 @@
 "NICK_ADD_TITLE" = "Odeslat zprávu Uživateli";
 "ADD_NICK_SECTION_TITLE" = "Uživatel";
 
-"NICK_SEND_MESSAGE" = "Odeslat zprávu";
-"NICK_CHANNEL_KICK" = "Vykopnout";
-"NICK_CHANNEL_BAN" = "Zablokovat";
-"NICK_CHANNEL_OP" = "Dát Op";
-"NICK_CHANNEL_VOICE" = "Dát slovo";
-"NICK_CHANNEL_DEOP" = "Vzít Op";
-"NICK_CHANNEL_DEVOICE" = "Vzít slovo";
-"NICK_IGNORE" = "Ignore";
-"NICK_UNIGNORE" = "Stop Ignoring";
+"NICK_DETAIL_SEND_MESSAGE" = "Odeslat zprávu";
+"NICK_DETAIL_PERFORM_WHOIS" = "Whois";
+"NICK_DETAIL_PERFORM_CHANNEL_KICK" = "Vykopnout";
+"NICK_DETAIL_PERFORM_CHANNEL_BAN" = "Zablokovat";
+"NICK_DETAIL_PERFORM_CHANNEL_OP" = "Dát Op";
+"NICK_DETAIL_PERFORM_CHANNEL_VOICE" = "Dát slovo";
+"NICK_DETAIL_PERFORM_CHANNEL_DEOP" = "Vzít Op";
+"NICK_DETAIL_PERFORM_CHANNEL_DEVOICE" = "Vzít slovo";
+"NICK_DETAIL_IGNORE" = "Ignore";
+"NICK_DETAIL_UNIGNORE" = "Stop Ignoring";
+"NICK_DETAIL_CLOSE" = "Zrušit";
 
 "CHANNEL_ADD_CHANNEL_NAME" = "Jméno";
 "CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
@@ -297,7 +299,6 @@
 "CLOUDAPP_PASSWORD" = "Heslo";
 
 /* Whois */
-"NICK_WHOIS" = "Whois";
 "WHOIS_CHANNELS_TITLE" = "Kanály";
 
 /* Whois User Information Section */

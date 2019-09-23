@@ -61,15 +61,17 @@
 "NICK_ADD_TITLE" = "Message User";
 "ADD_NICK_SECTION_TITLE" = "User";
 
-"NICK_SEND_MESSAGE" = "Send Message";
-"NICK_CHANNEL_KICK" = "Kick";
-"NICK_CHANNEL_BAN" = "Ban";
-"NICK_CHANNEL_OP" = "Give Op";
-"NICK_CHANNEL_VOICE" = "Give Voice";
-"NICK_CHANNEL_DEOP" = "Take Op";
-"NICK_CHANNEL_DEVOICE" = "Take Voice";
-"NICK_IGNORE" = "Ignore";
-"NICK_UNIGNORE" = "Stop Ignoring";
+"NICK_DETAIL_SEND_MESSAGE" = "Send Message";
+"NICK_DETAIL_PERFORM_WHOIS" = "Whois";
+"NICK_DETAIL_PERFORM_CHANNEL_KICK" = "Kick";
+"NICK_DETAIL_PERFORM_CHANNEL_BAN" = "Ban";
+"NICK_DETAIL_PERFORM_CHANNEL_OP" = "Give Op";
+"NICK_DETAIL_PERFORM_CHANNEL_VOICE" = "Give Voice";
+"NICK_DETAIL_PERFORM_CHANNEL_DEOP" = "Take Op";
+"NICK_DETAIL_PERFORM_CHANNEL_DEVOICE" = "Take Voice";
+"NICK_DETAIL_IGNORE" = "Ignore";
+"NICK_DETAIL_UNIGNORE" = "Stop Ignoring";
+"NICK_DETAIL_CLOSE" = "Cancel";
 
 "CHANNEL_ADD_CHANNEL_NAME" = "Name";
 "CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
@@ -297,7 +299,6 @@
 "CLOUDAPP_PASSWORD" = "Password";
 
 /* Whois */
-"NICK_WHOIS" = "Whois";
 "WHOIS_CHANNELS_TITLE" = "Channels";
 
 /* Whois User Information Section */

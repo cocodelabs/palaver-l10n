@@ -61,15 +61,17 @@
 "NICK_ADD_TITLE" = "ユーザーへメッセージ";
 "ADD_NICK_SECTION_TITLE" = "ユーザー";
 
-"NICK_SEND_MESSAGE" = "メッセージを送信";
-"NICK_CHANNEL_KICK" = "Kick";
-"NICK_CHANNEL_BAN" = "Ban";
-"NICK_CHANNEL_OP" = "指定したOp権を付与";
-"NICK_CHANNEL_VOICE" = "指定したVoice権を付与";
-"NICK_CHANNEL_DEOP" = "Opを剥奪";
-"NICK_CHANNEL_DEVOICE" = "Voiceを剥奪";
-"NICK_IGNORE" = "軽視";
-"NICK_UNIGNORE" = "Stop Ignoring";
+"NICK_DETAIL_SEND_MESSAGE" = "メッセージを送信";
+"NICK_DETAIL_PERFORM_WHOIS" = "Whois";
+"NICK_DETAIL_PERFORM_CHANNEL_KICK" = "Kick";
+"NICK_DETAIL_PERFORM_CHANNEL_BAN" = "Ban";
+"NICK_DETAIL_PERFORM_CHANNEL_OP" = "指定したOp権を付与";
+"NICK_DETAIL_PERFORM_CHANNEL_VOICE" = "指定したVoice権を付与";
+"NICK_DETAIL_PERFORM_CHANNEL_DEOP" = "Opを剥奪";
+"NICK_DETAIL_PERFORM_CHANNEL_DEVOICE" = "Voiceを剥奪";
+"NICK_DETAIL_IGNORE" = "軽視";
+"NICK_DETAIL_UNIGNORE" = "Stop Ignoring";
+"NICK_DETAIL_CLOSE" = "キャンセル";
 
 "CHANNEL_ADD_CHANNEL_NAME" = "名";
 "CHANNEL_ADD_PLACEHOLDER_CHANNEL" = "#palaver";
@@ -297,7 +299,6 @@
 "CLOUDAPP_PASSWORD" = "パスワード";
 
 /* Whois */
-"NICK_WHOIS" = "Whois";
 "WHOIS_CHANNELS_TITLE" = "チャンネル";
 
 /* Whois User Information Section */
