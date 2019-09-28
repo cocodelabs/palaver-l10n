@@ -147,6 +147,7 @@
 "THEME_TITLE" = "Theme"; // Untranslated
 "THEME_VARIANT_TITLE" = "Variant (Light/Dark)"; // Untranslated
 "THEME_VARIANT_AUTOMATICALLY" = "Switch Automatically"; // Untranslated
+"THEME_VARIANT_SYSTEM" = "Use System Appearance"; // Untranslated
 "THEME_VARIANT_LIGHT" = "Light"; // Untranslated
 "THEME_VARIANT_DARK" = "Dark"; // Untranslated
 

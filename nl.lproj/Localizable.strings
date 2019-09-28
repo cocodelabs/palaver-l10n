@@ -147,6 +147,7 @@
 "THEME_TITLE" = "Thema";
 "THEME_VARIANT_TITLE" = "Variant (licht/donker)";
 "THEME_VARIANT_AUTOMATICALLY" = "Verander automatisch";
+"THEME_VARIANT_SYSTEM" = "Gebruik systeem weergave";
 "THEME_VARIANT_LIGHT" = "Licht";
 "THEME_VARIANT_DARK" = "Donker";
 
