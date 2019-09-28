@@ -147,6 +147,7 @@
 "THEME_TITLE" = "Tema";
 "THEME_VARIANT_TITLE" = "Variante (Light/Dark)";
 "THEME_VARIANT_AUTOMATICALLY" = "Cambia Automaticamente";
+"THEME_VARIANT_SYSTEM" = "Use System Appearance"; // Untranslated
 "THEME_VARIANT_LIGHT" = "Light";
 "THEME_VARIANT_DARK" = "Dark";
 

@@ -147,6 +147,7 @@
 "THEME_TITLE" = "テーマ";
 "THEME_VARIANT_TITLE" = "変異形 (淡色/暗色)";
 "THEME_VARIANT_AUTOMATICALLY" = "ひとりでに転向";
+"THEME_VARIANT_SYSTEM" = "Use System Appearance"; // Untranslated
 "THEME_VARIANT_LIGHT" = "淡色";
 "THEME_VARIANT_DARK" = "暗色";
 
