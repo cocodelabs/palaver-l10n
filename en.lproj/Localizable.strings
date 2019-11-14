@@ -423,6 +423,7 @@
 "KEY_COMMAND_PREVIOUS_MESSAGE" = "Previous Message";
 "KEY_COMMAND_NEXT_MESSAGE" = "Next Message";
 "KEY_COMMAND_CLEAR_QUERY" = "Clear Query";
+"KEY_COMMAND_OPEN_PREFERENCES" = "Preferences";
 
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "You are not connected";
