@@ -277,6 +277,7 @@
 "UPLOAD_IMAGE_LIBRARY" = "Photo Library";
 "UPLOAD_IMAGE_UPLOAD" = "Upload Photo";
 "UPLOAD_IMAGE_UPLOADING" = "Uploading";
+"UPLOAD_IMAGE_CONTENT_LENGTH_ERROR" = "Image is %@. Continue?";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Image Upload";
 "UPLOAD_IMAGE_POLICY_BODY" = "Uploading images is done via a third-party service, %@. Tapping below will agree to the privacy policy.";

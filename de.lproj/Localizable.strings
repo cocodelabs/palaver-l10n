@@ -277,6 +277,7 @@
 "UPLOAD_IMAGE_LIBRARY" = "Fotobibliothek";
 "UPLOAD_IMAGE_UPLOAD" = "Foto hochladen";
 "UPLOAD_IMAGE_UPLOADING" = "Hochladen…";
+"UPLOAD_IMAGE_CONTENT_LENGTH_ERROR" = "Image is %@. Continue?"; // Untranslated
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Bild hochladen";
 "UPLOAD_IMAGE_POLICY_BODY" = "Das Hochladen von Bildern wird durch %@, einen Drittanbieter-Service, realisiert. Durch tippen auf Akzeptieren stimmen Sie dessen Datenschutzbestimmungen zu.";
