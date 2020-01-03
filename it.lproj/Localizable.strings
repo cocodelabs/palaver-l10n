@@ -277,6 +277,7 @@
 "UPLOAD_IMAGE_LIBRARY" = "Galleria Immagini";
 "UPLOAD_IMAGE_UPLOAD" = "Carica una Foto";
 "UPLOAD_IMAGE_UPLOADING" = "Caricamento";
+"UPLOAD_IMAGE_CONTENT_LENGTH_ERROR" = "Image is %@. Continue?"; // Untranslated
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Caricamento Foto";
 "UPLOAD_IMAGE_POLICY_BODY" = "Il caricamento delle immagini è gestito da un servizio di terzi, %@. Cliccando in basso dai il tuo consenso alla norma sulla privacy";

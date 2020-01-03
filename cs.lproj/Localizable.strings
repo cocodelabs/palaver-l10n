@@ -277,6 +277,7 @@
 "UPLOAD_IMAGE_LIBRARY" = "Photo Library";
 "UPLOAD_IMAGE_UPLOAD" = "Upload Photo";
 "UPLOAD_IMAGE_UPLOADING" = "Nahrávání";
+"UPLOAD_IMAGE_CONTENT_LENGTH_ERROR" = "Image is %@. Continue?"; // Untranslated
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Nahrání obrázku";
 "UPLOAD_IMAGE_POLICY_BODY" = "Nahrávání obrázků provozuje třetí strana, %@. Stisknutím níže souhlasíte s jejich zásadami ochrany osobních údajů.";

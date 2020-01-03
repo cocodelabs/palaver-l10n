@@ -277,6 +277,7 @@
 "UPLOAD_IMAGE_LIBRARY" = "Fotobibliotheek";
 "UPLOAD_IMAGE_UPLOAD" = "Upload foto";
 "UPLOAD_IMAGE_UPLOADING" = "Uploaden";
+"UPLOAD_IMAGE_CONTENT_LENGTH_ERROR" = "Foto is %@. Doorgaan?";
 
 "UPLOAD_IMAGE_POLICY_TITLE" = "Afbeelding Uploaden";
 "UPLOAD_IMAGE_POLICY_BODY" = "Uploaden gebeurd via een externe service, %@. Tik hieronder om het privacybeleid te accepteren.";
