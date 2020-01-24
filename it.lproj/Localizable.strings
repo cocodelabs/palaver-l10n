@@ -180,8 +180,9 @@
 "IRC_NICK_CHANGE_EVENT" = "%@ è ora conosciuto come %@";
 
 "IRC_MODE_EVENT" = "%@ ha impostato %@";
-"IRC_TOPIC_CHANGE_EVENT" = "%@ ha cambiato topic come %@";
-"IRC_TOPIC_EVENT" = "Il Topic è %@";
+"IRC_TOPIC_CHANGE_EVENT" = "%@ ha cambiato topic come \"%@\"";
+"IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ has unset the topic"; // Untranslated
+"IRC_TOPIC_EVENT" = "Il Topic è \"%@\"";
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@ non è online";
 
@@ -379,6 +380,7 @@
 "CHANNEL_DETAIL_TOPIC_SECTION" = "Topic";
 "CHANNEL_DETAIL_NO_TOPIC" = "No Topic";
 "CHANNEL_DETAIL_TOPIC_EDIT" = "Modifica"; 
+"CHANNEL_DETAIL_TOPIC_SET" = "Set Topic"; // Untranslated
 
 "CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "Conteggio non letto";
 
