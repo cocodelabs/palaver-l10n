@@ -181,6 +181,7 @@
 
 "IRC_MODE_EVENT" = "%@ stelt modus %@ in";
 "IRC_TOPIC_CHANGE_EVENT" = "%@ heeft het onderwerp veranderd naar %@";
+"IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ heeft het onderwerp verwijderd";
 "IRC_TOPIC_EVENT" = "Het onderwerp is %@";
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@ is niet online";
@@ -379,6 +380,7 @@
 "CHANNEL_DETAIL_TOPIC_SECTION" = "Onderwerp";
 "CHANNEL_DETAIL_NO_TOPIC" = "Geen onderwerp";
 "CHANNEL_DETAIL_TOPIC_EDIT" = "Aanpassen";
+"CHANNEL_DETAIL_TOPIC_SET" = "Onderwerp instellen";
 
 "CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "Aantal ongelezen";
 

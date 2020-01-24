@@ -181,6 +181,7 @@
 
 "IRC_MODE_EVENT" = "%@ setzt Modus %@";
 "IRC_TOPIC_CHANGE_EVENT" = "%@ hat das Thema zu %@ geändert";
+"IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ has unset the topic"; // Untranslated
 "IRC_TOPIC_EVENT" = "Thema ist %@";
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@ ist nicht online";
@@ -379,6 +380,7 @@
 "CHANNEL_DETAIL_TOPIC_SECTION" = "Topic"; // Untranslated
 "CHANNEL_DETAIL_NO_TOPIC" = "No Topic"; // Untranslated
 "CHANNEL_DETAIL_TOPIC_EDIT" = "Edit"; // Untranslated
+"CHANNEL_DETAIL_TOPIC_SET" = "Set Topic"; // Untranslated
 
 "CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "Unread Count"; // Untranslated
 
