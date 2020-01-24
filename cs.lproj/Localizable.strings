@@ -180,9 +180,9 @@
 "IRC_NICK_CHANGE_EVENT" = "%@ je odteď %@";
 
 "IRC_MODE_EVENT" = "%@ přepnul na stav %@";
-"IRC_TOPIC_CHANGE_EVENT" = "%@ změnil téma na %@";
+"IRC_TOPIC_CHANGE_EVENT" = "%@ změnil téma na \"%@\"";
 "IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ has unset the topic"; // Untranslated
-"IRC_TOPIC_EVENT" = "Téma je %@";
+"IRC_TOPIC_EVENT" = "Téma je \"%@\"";
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@ není připojen";
 

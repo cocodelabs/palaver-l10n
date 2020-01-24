@@ -180,9 +180,9 @@
 "IRC_NICK_CHANGE_EVENT" = "%@ heet vanaf nu %@";
 
 "IRC_MODE_EVENT" = "%@ stelt modus %@ in";
-"IRC_TOPIC_CHANGE_EVENT" = "%@ heeft het onderwerp veranderd naar %@";
+"IRC_TOPIC_CHANGE_EVENT" = "%@ heeft het onderwerp veranderd naar \"%@\"";
 "IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ heeft het onderwerp verwijderd";
-"IRC_TOPIC_EVENT" = "Het onderwerp is %@";
+"IRC_TOPIC_EVENT" = "Het onderwerp is \"%@\"";
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@ is niet online";
 

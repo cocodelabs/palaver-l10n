@@ -181,9 +181,9 @@
 "IRC_NICK_CHANGE_EVENT" = "%@ ahora es %@";
 
 "IRC_MODE_EVENT" = "%@ establece modo %@";
-"IRC_TOPIC_CHANGE_EVENT" = "%@ ha cambiado el tema a %@";
+"IRC_TOPIC_CHANGE_EVENT" = "%@ ha cambiado el tema a \"%@\"";
 "IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ has unset the topic"; // Untranslated
-"IRC_TOPIC_EVENT" = "El tema es %@";
+"IRC_TOPIC_EVENT" = "El tema es \"%@\"";
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@ no está conectado.";
 
