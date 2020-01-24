@@ -181,6 +181,7 @@
 
 "IRC_MODE_EVENT" = "%@がユーザモードを%@に両替しました";
 "IRC_TOPIC_CHANGE_EVENT" = "%@が%@のトピックを変更しました";
+"IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ has unset the topic"; // Untranslated
 "IRC_TOPIC_EVENT" = "Topicが%@";
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@がオンラインしません";
@@ -379,6 +380,7 @@
 "CHANNEL_DETAIL_TOPIC_SECTION" = "Topic"; // Untranslated
 "CHANNEL_DETAIL_NO_TOPIC" = "No Topic"; // Untranslated
 "CHANNEL_DETAIL_TOPIC_EDIT" = "Edit"; // Untranslated
+"CHANNEL_DETAIL_TOPIC_SET" = "Set Topic"; // Untranslated
 
 "CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "Unread Count"; // Untranslated
 
