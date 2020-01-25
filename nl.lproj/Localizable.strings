@@ -183,6 +183,7 @@
 "IRC_TOPIC_CHANGE_EVENT" = "%@ heeft het onderwerp veranderd naar \"%@\"";
 "IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ heeft het onderwerp verwijderd";
 "IRC_TOPIC_EVENT" = "Het onderwerp is \"%@\"";
+"IRC_TOPIC_EVENT_UNSET" = "Topic is unset"; // Untranslated
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@ is niet online";
 

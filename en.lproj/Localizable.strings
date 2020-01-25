@@ -183,6 +183,7 @@
 "IRC_TOPIC_CHANGE_EVENT" = "%@ has changed the topic to \"%@\"";
 "IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ has unset the topic";
 "IRC_TOPIC_EVENT" = "Topic is \"%@\"";
+"IRC_TOPIC_EVENT_UNSET" = "Topic is unset";
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@ is not online";
 
