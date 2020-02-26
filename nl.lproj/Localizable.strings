@@ -134,7 +134,7 @@
 "PREFERENCES_GENERAL_SECTION" = "Algemeen";
 "PREFERENCES_REALNAME" = "Echte naam";
 "PREFERENCES_SYSTEM_SETTINGS" = "Systeem instellingen";
-"PREFERENCES_FOOTER" = "More advanced configuration is available through /commands. Learn more at https://palaverapp.com/guides"; // Untranslated
+"PREFERENCES_FOOTER" = "Meer geavanceerde instellingen zijn mogelijk met het /\U2060set commando. Meer informatie is te vinden op https://palaverapp.com/guides";
 
 "FONT_SIZE_TITLE" = "Lettergrootte";
 "FONT_SIZE_USE_SYSTEM" = "Gebruik systeem instellingen";

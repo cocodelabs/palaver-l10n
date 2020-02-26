@@ -134,7 +134,7 @@
 "PREFERENCES_GENERAL_SECTION" = "General";
 "PREFERENCES_REALNAME" = "Real name";
 "PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
-"PREFERENCES_FOOTER" = "More advanced configuration is available through /commands. Learn more at https://palaverapp.com/guides";
+"PREFERENCES_FOOTER" = "More advanced configuration is available through /\U2060set commands. Learn more at https://palaverapp.com/guides";
 
 "FONT_SIZE_TITLE" = "Font size";
 "FONT_SIZE_USE_SYSTEM" = "Use System Settings";

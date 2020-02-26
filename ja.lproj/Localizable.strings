@@ -134,7 +134,7 @@
 "PREFERENCES_GENERAL_SECTION" = "一般";
 "PREFERENCES_REALNAME" = "本名";
 "PREFERENCES_SYSTEM_SETTINGS" = "設定のアップ";
-"PREFERENCES_FOOTER" = "More advanced configuration is available through /commands. Learn more at https://palaverapp.com/guides"; // Untranslated
+"PREFERENCES_FOOTER" = "More advanced configuration is available through /\U2060set commands. Learn more at https://palaverapp.com/guides"; // Untranslated
 
 "FONT_SIZE_TITLE" = "フォントサイズ";
 "FONT_SIZE_USE_SYSTEM" = "システム設定を使";
