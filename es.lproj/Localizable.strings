@@ -137,6 +137,9 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "Configuración del Sistema";
 "PREFERENCES_FOOTER" = "More advanced configuration is available through /\U2060set commands. Learn more at https://palaverapp.com/guides"; // Untranslated
 
+"FONT_TITLE" = "Tipos de letra";
+"FONT_FACE_TITLE" = "Tipo de letra";
+"FONT_FACE_USE_SYSTEM" = "Usar Configuración del Sistema";
 "FONT_SIZE_TITLE" = "Tamaño de letra";
 "FONT_SIZE_USE_SYSTEM" = "Usar Configuración del Sistema";
 

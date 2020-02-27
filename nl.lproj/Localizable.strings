@@ -136,6 +136,9 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "Systeem instellingen";
 "PREFERENCES_FOOTER" = "Meer geavanceerde instellingen zijn mogelijk met het /\U2060set commando. Meer informatie is te vinden op https://palaverapp.com/guides";
 
+"FONT_TITLE" = "Tekstopmaak";
+"FONT_FACE_TITLE" = "Lettertype";
+"FONT_FACE_USE_SYSTEM" = "Gebruik systeem instellingen";
 "FONT_SIZE_TITLE" = "Lettergrootte";
 "FONT_SIZE_USE_SYSTEM" = "Gebruik systeem instellingen";
 

@@ -136,6 +136,9 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "System Settings"; // Untranslated
 "PREFERENCES_FOOTER" = "More advanced configuration is available through /\U2060set commands. Learn more at https://palaverapp.com/guides"; // Untranslated
 
+"FONT_TITLE" = "Písma";
+"FONT_FACE_TITLE" = "Písmo";
+"FONT_FACE_USE_SYSTEM" = "Use System Settings"; // Untranslated
 "FONT_SIZE_TITLE" = "Velikost textu";
 "FONT_SIZE_USE_SYSTEM" = "Use System Settings"; // Untranslated
 

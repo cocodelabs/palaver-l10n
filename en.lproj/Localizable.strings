@@ -136,6 +136,9 @@
 "PREFERENCES_SYSTEM_SETTINGS" = "System Settings";
 "PREFERENCES_FOOTER" = "More advanced configuration is available through /\U2060set commands. Learn more at https://palaverapp.com/guides";
 
+"FONT_TITLE" = "Font";
+"FONT_FACE_TITLE" = "Font face";
+"FONT_FACE_USE_SYSTEM" = "Use System Settings";
 "FONT_SIZE_TITLE" = "Font size";
 "FONT_SIZE_USE_SYSTEM" = "Use System Settings";
 
