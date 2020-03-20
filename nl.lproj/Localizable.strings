@@ -155,7 +155,7 @@
 "THEME_VARIANT_DARK" = "Donker";
 
 "GENERAL_AUTO_JOIN_CHANNELS" = "Verbind automatisch met kanalen";
-"GENERAL_AUTO_AWAY" = "Automatische weg status";
+"GENERAL_AUTO_AWAY" = "Automatische afwezig";
 
 "NOTIFICATIONS_TITLE" = "Notificaties";
 "NOTIFICATIONS_SHOW_MESSAGE_PREVIEW" = "Toon bericht in notificatie";
@@ -336,10 +336,13 @@
 "WHOIS_USER_CONNECTION_STATUS" = "Status";
 
 /* Whois User Connection Status (Connected) */
-"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Verbonden";
+"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Online";
 
 /* Whois User Connection Status (Disconnected) */
 "WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline";
+
+/* Whois User Connection Status (Away) */
+"WHOIS_USER_CONNECTION_STATUS_AWAY" = "Afwezig";
 
 /* Whois Session Idle Time */
 "WHOIS_SESSION_IDLE_TIME" = "Niet aanwezig";

@@ -336,10 +336,13 @@
 "WHOIS_USER_CONNECTION_STATUS" = "Status";
 
 /* Whois User Connection Status (Connected) */
-"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Connected";
+"WHOIS_USER_CONNECTION_STATUS_CONNECTED" = "Online";
 
 /* Whois User Connection Status (Disconnected) */
 "WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "Offline";
+
+/* Whois User Connection Status (Away) */
+"WHOIS_USER_CONNECTION_STATUS_AWAY" = "Away";
 
 /* Whois Session Idle Time */
 "WHOIS_SESSION_IDLE_TIME" = "Idle";
