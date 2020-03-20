@@ -341,6 +341,9 @@
 /* Whois User Connection Status (Disconnected) */
 "WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "非直結";
 
+/* Whois User Connection Status (Away) */
+"WHOIS_USER_CONNECTION_STATUS_AWAY" = "Away"; // Untranslated
+
 /* Whois Session Idle Time */
 "WHOIS_SESSION_IDLE_TIME" = "アイドル時間";
 
