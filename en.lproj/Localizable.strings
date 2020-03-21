@@ -435,6 +435,12 @@
 "KEY_COMMAND_CLEAR_QUERY" = "Clear Query";
 "KEY_COMMAND_OPEN_PREFERENCES" = "Preferences";
 
+/* Jump to Network Query */
+"KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query";
+
+/* Jump to Query */
+"KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Query (1-9)";
+
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "You are not connected";
 "COMMAND_NOT_CONNECTED_NICK" = "'%@' alias uses {nick} while we are not connected to a server";
