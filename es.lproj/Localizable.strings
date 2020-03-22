@@ -437,10 +437,10 @@
 "KEY_COMMAND_OPEN_PREFERENCES" = "Preferences"; // Untranslated
 
 /* Jump to Network Query */
-"KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query";
+"KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query"; // Untranslated
 
 /* Jump to Query */
-"KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Query (1-9)";
+"KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Query (1-9)"; // Untranslated
 
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "No estás conectado";
