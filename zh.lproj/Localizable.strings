@@ -134,13 +134,13 @@
 "PREFERENCES_GENERAL_SECTION" = "通用的";
 "PREFERENCES_REALNAME" = "真实姓名";
 "PREFERENCES_SYSTEM_SETTINGS" = "系统设置";
-"PREFERENCES_FOOTER" = "More advanced configuration is available through /\U2060set commands. Learn more at https://palaverapp.com/guides"; // Untranslated
+"PREFERENCES_FOOTER" = "可通过/\U2060set命令进入高级设置，更多信息请登录https://palaverapp.com/guides";
 
-"FONT_TITLE" = "Font"; // Untranslated
-"FONT_FACE_TITLE" = "Font face"; // Untranslated
-"FONT_FACE_USE_SYSTEM" = "使用系统设置";
+"FONT_TITLE" = "字体设计";
+"FONT_FACE_TITLE" = "字体";
+"FONT_FACE_USE_SYSTEM" = "跟随系统设置";
 "FONT_SIZE_TITLE" = "字体大小";
-"FONT_SIZE_USE_SYSTEM" = "使用系统设置";
+"FONT_SIZE_USE_SYSTEM" = "跟随系统设置";
 
 "STYLE_TITLE" = "主题";
 "STYLE_SHOW_TIMESTAMPS" = "显示时间戳";
@@ -150,7 +150,7 @@
 "THEME_TITLE" = "主题";
 "THEME_VARIANT_TITLE" = "亮度(亮／暗)";
 "THEME_VARIANT_AUTOMATICALLY" = "自动调节";
-"THEME_VARIANT_SYSTEM" = "Use System Appearance"; // Untranslated
+"THEME_VARIANT_SYSTEM" = "跟随系统设置";
 "THEME_VARIANT_LIGHT" = "亮";
 "THEME_VARIANT_DARK" = "暗";
 
@@ -170,7 +170,7 @@
 "ABOUT_VERSION" = "版本";
 "ABOUT_SITE" = "网站";
 "ABOUT_EMAIL" = "反馈";
-"ABOUT_IRC" = "IRC"; // Untranslated
+"ABOUT_IRC" = "IRC";
 "ABOUT_ACKNOWLEDGEMENTS" = "承认";
 
 /* IRC Events */
@@ -321,7 +321,7 @@
 "WHOIS_USER_REALNAME" = "实名";
 
 /* Whois User Email Address */
-"WHOIS_USER_EMAIL_ADDRESS" = "E-mail Address"; // Untranslated
+"WHOIS_USER_EMAIL_ADDRESS" = "电子邮件地址";
 
 /* Whois User Ident */
 "WHOIS_USER_IDENT" = "身份";
@@ -342,7 +342,7 @@
 "WHOIS_USER_CONNECTION_STATUS_DISCONNECTED" = "下线";
 
 /* Whois User Connection Status (Away) */
-"WHOIS_USER_CONNECTION_STATUS_AWAY" = "Away"; // Untranslated
+"WHOIS_USER_CONNECTION_STATUS_AWAY" = "远";
 
 /* Whois Session Idle Time */
 "WHOIS_SESSION_IDLE_TIME" = "独立";
@@ -366,7 +366,7 @@
 "MEDIA_PLAYING_TITLE_ALBUM" = "是 %@ 来自 %@";
 "MEDIA_PLAYING_TITLE" = "是 %@";
 "MEDIA_PLAYING_ERROR" = "无法找到媒体信息";
-"MEDIA_PLAYING_ERROR_ACCESS_NOT_PERMITTED" = "Access to media library is not permitted. Enable access to 'Media & Apple Music' in system settings under Palaver."; // Untranslated
+"MEDIA_PLAYING_ERROR_ACCESS_NOT_PERMITTED" = "没有媒体库的访问权限，请在Palaver设置中打开媒体库的访问权限。";
 
 "MEDIA_VERB_AUDIO" = "听";
 "MEDIA_VERB_VIDEO" = "观看";
@@ -387,7 +387,7 @@
 "CHANNEL_DETAIL_TOPIC_SECTION" = "主题";
 "CHANNEL_DETAIL_NO_TOPIC" = "无主题";
 "CHANNEL_DETAIL_TOPIC_EDIT" = "编辑";
-"CHANNEL_DETAIL_TOPIC_SET" = "Set Topic"; // Untranslated
+"CHANNEL_DETAIL_TOPIC_SET" = "设置频道主题";
 
 "CHANNEL_DETAIL_UNREAD_COUNT_SECTION" = "未读数";
 
@@ -425,15 +425,15 @@
 "CERTIFICATE_DETAIL_FINGERPRINTS" = "指纹";
 
 /* Key Commands */
-"KEY_COMMAND_PREVIOUS_QUERY" = "以前的查询";
-"KEY_COMMAND_PREVIOUS_UNREAD_QUERY" = "以前的未读查询";
-"KEY_COMMAND_NEXT_QUERY" = "下一个查询";
-"KEY_COMMAND_NEXT_UNREAD_QUERY" = "下一个未读查询";
-"KEY_COMMAND_CLOSE_QUERY" = "关闭查询";
+"KEY_COMMAND_PREVIOUS_QUERY" = "以前的私聊";
+"KEY_COMMAND_PREVIOUS_UNREAD_QUERY" = "以前未读的私聊";
+"KEY_COMMAND_NEXT_QUERY" = "下一个私聊信息";
+"KEY_COMMAND_NEXT_UNREAD_QUERY" = "下一个未读的私聊";
+"KEY_COMMAND_CLOSE_QUERY" = "关闭私聊";
 "KEY_COMMAND_PREVIOUS_MESSAGE" = "以前的信息";
 "KEY_COMMAND_NEXT_MESSAGE" = "下一个信息";
-"KEY_COMMAND_CLEAR_QUERY" = "Clear Query"; // Untranslated
-"KEY_COMMAND_OPEN_PREFERENCES" = "Preferences"; // Untranslated
+"KEY_COMMAND_CLEAR_QUERY" = "清除私聊信息";
+"KEY_COMMAND_OPEN_PREFERENCES" = "设置";
 
 /* Jump to Network Query */
 "KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query"; // Untranslated
@@ -466,6 +466,8 @@
 
 "COMMAND_INVITE_MULTIPLE" = "多个频道可邀请. 仅一个被允许.";
 "COMMAND_MY_VERSION" = "/me 正在使用 {app} {app.version} {app.url}";
+
+// ENGLISH: /me is using {app} {app.version} on an {device} running {os} {os.version} with {device.processorCount} CPU cores, {device.systemMemory} RAM and {device.batteryPercentage} battery life remaining
 "COMMAND_SYSINFO" = "/me 正在使用 {app} {app.version} 运行在 {device} 平台和 {os} {os.version} 系统"; // Needs updating
 
-"COMMAND_UNKNOWN" = "未知命令: %@, use /raw to send commands directly to the server"; // Needs updating
+"COMMAND_UNKNOWN" = "未知命令: %@, 使用 /raw 命令将命令直接发送至服务器";

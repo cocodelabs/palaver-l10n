@@ -19,7 +19,7 @@ Spanish     | `es` | [@henriwatson](https://github.com/henriwatson) and Humberto
 Czech       | `cs` | [@czechboy0](https://github.com/czechboy0)
 Japanese    | `ja` | [@kattrali](https://github.com/kattrali)
 Italian     | `it` | Alberto Corvó
-Chinese     | `zh` | Ji Qi, looking for mainainer!
+Chinese     | `zh` | Ji Qi, [@qingmuhy](https://github.com/qingmuhy)
 
 ## License
 
