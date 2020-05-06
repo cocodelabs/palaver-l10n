@@ -442,6 +442,13 @@
 /* Jump to Query */
 "KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Query (1-9)"; // Untranslated
 
+"QUERY_SWITCHER_COMMAND" = "Open quickly"; // Untranslated
+"QUERY_SWITCHER_PLACEHOLDER" = "Jump to..."; // Untranslated
+"QUERY_SWITCHER_CLOSE" = "Close"; // Untranslated
+"QUERY_SWITCHER_SELECT" = "Select"; // Untranslated
+"QUERY_SWITCHER_UP" = "Up"; // Untranslated
+"QUERY_SWITCHER_DOWN" = "Down"; // Untranslated
+
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "Non sei connesso";
 "COMMAND_NOT_CONNECTED_NICK" = "'%@' alias usa {nick} mentre non sei connesso al server";
