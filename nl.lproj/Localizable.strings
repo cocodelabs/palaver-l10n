@@ -442,6 +442,13 @@
 /* Jump to Query */
 "KEY_COMMAND_JUMP_TO_QUERY" = "Ga naar query (1-9)";
 
+"QUERY_SWITCHER_COMMAND" = "Open snel";
+"QUERY_SWITCHER_PLACEHOLDER" = "Ga naar...";
+"QUERY_SWITCHER_CLOSE" = "Sluiten";
+"QUERY_SWITCHER_SELECT" = "Selecteer";
+"QUERY_SWITCHER_UP" = "Omhoog";
+"QUERY_SWITCHER_DOWN" = "Omlaag";
+
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "Je bent niet verbonden";
 "COMMAND_NOT_CONNECTED_NICK" = "'%@' alias gebruikt {nick} maar we zijn niet verbonden met een server";
