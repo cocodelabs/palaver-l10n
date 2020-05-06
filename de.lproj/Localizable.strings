@@ -458,7 +458,7 @@
 
 "COMMAND_RAW_NO_LINE" = "/raw was not given a line"; // Untranslated
 
-"COMMAND_ALIAS_DEFAULT_TITLE" = "Standard Aliases:"; // Untranslated
+"COMMAND_ALIAS_DEFAULT_TITLE" = "Standard Aliases:";
 "COMMAND_ALIAS_TITLE" = "Aliases:"; // Untranslated
 "COMMAND_ALIAS_ALREADY_ADDED" = "Alias '%@' is already added"; // Untranslated
 "COMMAND_ALIAS_NOT_FOUND" = "Alias '%@' not found"; // Untranslated
