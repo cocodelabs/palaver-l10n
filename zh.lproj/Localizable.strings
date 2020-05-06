@@ -416,9 +416,10 @@
 "READING_LIST_NOTE" = "从Palaver保存";
 
 /* Add Network */
-"ADD_NETWORK_POPULAR" = "热门网络";
-"ADD_NETWORK_CUSTOM" = "客户网络";
-"ADD_NETWORK_SELECT" = "选择网络";
+"NETWORK_ADD" = "添加网络";
+"NETWORK_ADD_POPULAR" = "热门网络";
+"NETWORK_ADD_CUSTOM" = "客户网络";
+"NETWORK_ADD_SELECT" = "选择网络";
 
 /* Connection Details */
 "CONNECTION_DETAIL_TITLE" = "连接信息";

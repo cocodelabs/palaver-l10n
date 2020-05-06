@@ -416,9 +416,10 @@
 "READING_LIST_NOTE" = "Opgeslagen vanuit Palaver";
 
 /* Add Network */
-"ADD_NETWORK_POPULAR" = "Populaire Netwerken";
-"ADD_NETWORK_CUSTOM" = "Voeg eigen netwerk toe";
-"ADD_NETWORK_SELECT" = "Selecteer Netwerk";
+"NETWORK_ADD_TITLE" = "Netwerk toevoegen";
+"NETWORK_ADD_POPULAR" = "Populaire Netwerken";
+"NETWORK_ADD_CUSTOM" = "Voeg eigen netwerk toe";
+"NETWORK_ADD_SELECT" = "Selecteer Netwerk";
 
 /* Connection Details */
 "CONNECTION_DETAIL_TITLE" = "Connectie Info";

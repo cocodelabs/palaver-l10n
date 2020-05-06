@@ -416,9 +416,10 @@
 "READING_LIST_NOTE" = "Saved from Palaver"; // Untranslated
 
 /* Add Network */
-"ADD_NETWORK_POPULAR" = "Popular Networks"; // Untranslated
-"ADD_NETWORK_CUSTOM" = "Custom Network"; // Untranslated
-"ADD_NETWORK_SELECT" = "Select Network"; // Untranslated
+"NETWORK_ADD_TITLE" = "Přidat síť";
+"NETWORK_ADD_POPULAR" = "Popular Networks"; // Untranslated
+"NETWORK_ADD_CUSTOM" = "Custom Network"; // Untranslated
+"NETWORK_ADD_SELECT" = "Select Network"; // Untranslated
 
 /* Connection Details */
 "CONNECTION_DETAIL_TITLE" = "Connection Info"; // Untranslated
