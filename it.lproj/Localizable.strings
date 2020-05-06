@@ -416,9 +416,10 @@
 "READING_LIST_NOTE" = "Salvato da Palaver";
 
 /* Add Network */
-"ADD_NETWORK_POPULAR" = "Reti popolari";
-"ADD_NETWORK_CUSTOM" = "Personalizza Rete";
-"ADD_NETWORK_SELECT" = "Seleziona Rete";
+"NETWORK_ADD_TITLE" = "Aggiungi Rete";
+"NETWORK_ADD_POPULAR" = "Reti popolari";
+"NETWORK_ADD_CUSTOM" = "Personalizza Rete";
+"NETWORK_ADD_SELECT" = "Seleziona Rete";
 
 /* Connection Details */
 "CONNECTION_DETAIL_TITLE" = "Informazioni Connessione";
