@@ -176,12 +176,15 @@
 
 /* IRC Events */
 
-"IRC_KICKED_EVENT" = "%@ vykopl %@ (%@)";
-"IRC_INVITED_EVENT" = "%@ has invited %@";
-"IRC_USER_QUIT_EVENT" = "%@ ukončil";
-"IRC_USER_PARTED_EVENT" = "%@ odešel %@";
-"IRC_USER_JOINED_EVENT" = "%@ přišel %@";
+"IRC_KICKED_EVENT" = "%@ vykopl %@";
+"IRC_INVITED_EVENT" = "%@ has invited %@";  // Untranslated
+"IRC_QUIT_EVENT" = "%@ ukončil";
+"IRC_PARTED_EVENT" = "%@ odešel %@";
+"IRC_JOINED_EVENT" = "%@ přišel %@";
 "IRC_NICK_CHANGE_EVENT" = "%@ je odteď %@";
+"IRC_KICKED_EVENT_REASON" = "%@ vykopl %@ (%@)";
+"IRC_QUIT_EVENT_REASON" = "%@ ukončil (%@)";
+"IRC_PARTED_EVENT_REASON" = "%@ odešel %@ (%@)";
 
 "IRC_MODE_EVENT" = "%@ přepnul na stav %@";
 "IRC_TOPIC_CHANGE_EVENT" = "%@ změnil téma na \"%@\"";

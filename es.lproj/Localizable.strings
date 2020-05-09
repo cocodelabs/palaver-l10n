@@ -177,12 +177,15 @@
 
 /* IRC Events */
 
-"IRC_KICKED_EVENT" = "%@ sacó a %@ (%@)";
+"IRC_KICKED_EVENT" = "%@ sacó a %@";
 "IRC_INVITED_EVENT" = "%@ ha invitado a %@";
-"IRC_USER_QUIT_EVENT" = "%@ se ha desconectado";
-"IRC_USER_PARTED_EVENT" = "%@ ha salido de %@";
-"IRC_USER_JOINED_EVENT" = "%@ se ha unido a %@";
+"IRC_QUIT_EVENT"  = "%@ se ha desconectado";
+"IRC_PARTED_EVENT" = "%@ ha salido de %@";
+"IRC_JOINED_EVENT" = "%@ se ha unido a %@";
 "IRC_NICK_CHANGE_EVENT" = "%@ ahora es %@";
+"IRC_KICKED_EVENT_REASON" = "%@ sacó a %@ (%@)";
+"IRC_QUIT_EVENT_REASON" = "%@ se ha desconectado (%@)";
+"IRC_PARTED_EVENT_REASON" = "%@ ha salido de %@ (%@)";
 
 "IRC_MODE_EVENT" = "%@ establece modo %@";
 "IRC_TOPIC_CHANGE_EVENT" = "%@ ha cambiado el tema a \"%@\"";
