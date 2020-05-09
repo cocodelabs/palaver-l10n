@@ -176,12 +176,15 @@
 
 /* IRC Events */
 
-"IRC_KICKED_EVENT" = "%@ heeft %@ gekicked (%@)";
+"IRC_KICKED_EVENT" = "%@ heeft %@ verwijderd";
 "IRC_INVITED_EVENT" = "%@ heeft %@ uitgenodigd";
-"IRC_USER_PARTED_EVENT" = "%@ heeft %@ verlaten";
-"IRC_USER_QUIT_EVENT" = "%@ heeft IRC afgesloten";
-"IRC_USER_JOINED_EVENT" = "%@ komt %@ binnen";
+"IRC_QUIT_EVENT"  = "%@ heeft %@ verlaten";
+"IRC_PARTED_EVENT" = "%@ heeft de server verlaten";
+"IRC_JOINED_EVENT" = "%@ komt %@ binnen";
 "IRC_NICK_CHANGE_EVENT" = "%@ heet vanaf nu %@";
+"IRC_KICKED_EVENT_REASON" = "%@ heeft %@ verwijderd (%@)";
+"IRC_QUIT_EVENT_REASON" = "%@ heeft de server verlaten (%@)";
+"IRC_PARTED_EVENT_REASON" = "%@ heeft %@ verlaten (%@)";
 
 "IRC_MODE_EVENT" = "%@ stelt modus %@ in";
 "IRC_TOPIC_CHANGE_EVENT" = "%@ heeft het onderwerp veranderd naar \"%@\"";

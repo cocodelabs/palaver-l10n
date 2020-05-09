@@ -176,12 +176,15 @@
 
 /* IRC Events */
 
-"IRC_KICKED_EVENT" = "%@が%@（%@）がkick";
-"IRC_INVITED_EVENT" = "%@ has invited %@";
-"IRC_USER_QUIT_EVENT" = "%@が終了";
-"IRC_USER_PARTED_EVENT" = "%@が%@から退出";
-"IRC_USER_JOINED_EVENT" = "%@が%@に参加";
+"IRC_KICKED_EVENT" = "%@が%@がkick";
+"IRC_INVITED_EVENT" = "%@ has invited %@"; // Untranslated
+"IRC_QUIT_EVENT"  = "%@が終了";
+"IRC_PARTED_EVENT" = "%@が%@から退出";
+"IRC_JOINED_EVENT" = "%@が%@に参加";
 "IRC_NICK_CHANGE_EVENT" = "%@のニックネームが変更され%@になりました";
+"IRC_KICKED_EVENT_REASON" = "%@が%@（%@）がkick";
+"IRC_QUIT_EVENT_REASON" = "%@が終了 (%@)";
+"IRC_PARTED_EVENT_REASON" = "%@が%@から退出 (%@)";
 
 "IRC_MODE_EVENT" = "%@がユーザモードを%@に両替しました";
 "IRC_TOPIC_CHANGE_EVENT" = "%@が%@のトピックを変更しました";
