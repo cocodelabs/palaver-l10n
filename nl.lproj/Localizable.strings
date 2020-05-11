@@ -187,7 +187,7 @@
 "IRC_TOPIC_CHANGE_EVENT" = "%@ heeft het onderwerp veranderd naar \"%@\"";
 "IRC_TOPIC_CHANGE_EVENT_UNSET" = "%@ heeft het onderwerp verwijderd";
 "IRC_TOPIC_EVENT" = "Het onderwerp is \"%@\"";
-"IRC_TOPIC_EVENT_UNSET" = "Topic is unset"; // Untranslated
+"IRC_TOPIC_EVENT_UNSET" = "Dit kanaal heeft geen onderwerp";
 
 "IRC_USER_NOT_ONLINE_EVENT" = "%@ is niet online";
 
@@ -367,7 +367,7 @@
 "MEDIA_PLAYING_TITLE_ALBUM" = "%@ %@ van het album %@";
 "MEDIA_PLAYING_TITLE" = "%@ %@";
 "MEDIA_PLAYING_ERROR" = "Kon media informatie niet vinden.";
-"MEDIA_PLAYING_ERROR_ACCESS_NOT_PERMITTED" = "Access to media library is not permitted. Enable access to 'Media & Apple Music' in system settings under Palaver."; // Untranslated
+"MEDIA_PLAYING_ERROR_ACCESS_NOT_PERMITTED" = "Toegang tot mediabibliotheek is niet toegestaan. Ga naar de systeeminstellingen onder Palaver en schakel toegang tot 'Media en Apple Music' in.";
 
 "MEDIA_VERB_AUDIO" = "luistert naar";
 "MEDIA_VERB_VIDEO" = "kijkt naar";
@@ -434,7 +434,7 @@
 "KEY_COMMAND_PREVIOUS_MESSAGE" = "Vorig bericht";
 "KEY_COMMAND_NEXT_MESSAGE" = "Volgend bericht";
 "KEY_COMMAND_CLEAR_QUERY" = "Query berichten wissen";
-"KEY_COMMAND_OPEN_PREFERENCES" = "Preferences"; // Untranslated
+"KEY_COMMAND_OPEN_PREFERENCES" = "Instellingen";
 
 /* Jump to Network Query */
 "KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Ga naar netwerk query";
