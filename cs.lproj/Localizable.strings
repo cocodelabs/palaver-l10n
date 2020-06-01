@@ -282,6 +282,19 @@
 "INPUT_MESSAGE_PLACEHOLDER" = "Zpráva";
 "INPUT_SEND_BUTTON_LABEL" = "Odeslat zprávu";
 
+"INPUT_COLOR_RED" = "Červené";
+"INPUT_COLOR_ORANGE" = "Orange"; // Untranslated
+"INPUT_COLOR_YELLOW" = "Yellow"; // Untranslated
+"INPUT_COLOR_GREEN" = "Zelený";
+"INPUT_COLOR_BLUE" = "Modrý";
+"INPUT_COLOR_PURPLE" = "Nachový";
+"INPUT_COLOR_BROWN" = "Hnědý";
+"INPUT_COLOR_BLACK" = "Black"; // Untranslated
+"INPUT_COLOR_WHITE" = "Bílý";
+"INPUT_COLOR_RESET" = "Reset"; // Untranslated
+"INPUT_FOREGROUND_COLOR" = "Text color"; // Untranslated
+"INPUT_BACKGROUND_COLOR" = "Background color"; // Untranslated
+
 "UPLOAD_IMAGE_CAMERA" = "Vyfotit";
 "UPLOAD_IMAGE_LIBRARY" = "Photo Library";
 "UPLOAD_IMAGE_UPLOAD" = "Upload Photo";

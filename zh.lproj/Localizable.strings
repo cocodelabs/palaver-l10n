@@ -282,6 +282,19 @@
 "INPUT_MESSAGE_PLACEHOLDER" = "信息";
 "INPUT_SEND_BUTTON_LABEL" = "发送信息";
 
+"INPUT_COLOR_RED" = "Red"; // Untranslated
+"INPUT_COLOR_ORANGE" = "Orange"; // Untranslated
+"INPUT_COLOR_YELLOW" = "Yellow"; // Untranslated
+"INPUT_COLOR_GREEN" = "Green"; // Untranslated
+"INPUT_COLOR_BLUE" = "Blue"; // Untranslated
+"INPUT_COLOR_PURPLE" = "Purple"; // Untranslated
+"INPUT_COLOR_BROWN" = "Brown"; // Untranslated
+"INPUT_COLOR_BLACK" = "Black"; // Untranslated
+"INPUT_COLOR_WHITE" = "White"; // Untranslated
+"INPUT_COLOR_RESET" = "Reset"; // Untranslated
+"INPUT_FOREGROUND_COLOR" = "Text color"; // Untranslated
+"INPUT_BACKGROUND_COLOR" = "Background color"; // Untranslated
+
 "UPLOAD_IMAGE_CAMERA" = "拍照";
 "UPLOAD_IMAGE_LIBRARY" = "选择已有照片";
 "UPLOAD_IMAGE_UPLOAD" = "上传照片";

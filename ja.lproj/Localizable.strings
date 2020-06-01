@@ -282,6 +282,19 @@
 "INPUT_MESSAGE_PLACEHOLDER" = "メッセージ";
 "INPUT_SEND_BUTTON_LABEL" = "メッセージを送信";
 
+"INPUT_COLOR_RED" = "赤";
+"INPUT_COLOR_ORANGE" = "オレンジ";
+"INPUT_COLOR_YELLOW" = "黄";
+"INPUT_COLOR_GREEN" = "緑";
+"INPUT_COLOR_BLUE" = "青";
+"INPUT_COLOR_PURPLE" = "紫";
+"INPUT_COLOR_BROWN" = "褐色";
+"INPUT_COLOR_BLACK" = "黒";
+"INPUT_COLOR_WHITE" = "白";
+"INPUT_COLOR_RESET" = "Reset"; // Untranslated
+"INPUT_FOREGROUND_COLOR" = "Text color"; // Untranslated
+"INPUT_BACKGROUND_COLOR" = "Background color"; // Untranslated
+
 "UPLOAD_IMAGE_CAMERA" = "写真またを撮る";
 "UPLOAD_IMAGE_LIBRARY" = "フォトライブラリー";
 "UPLOAD_IMAGE_UPLOAD" = "画像のアップロード";
