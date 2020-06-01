@@ -282,6 +282,19 @@
 "INPUT_MESSAGE_PLACEHOLDER" = "Messaggio";
 "INPUT_SEND_BUTTON_LABEL" = "Invia Messaggio";
 
+"INPUT_COLOR_RED" = "Rosso";
+"INPUT_COLOR_ORANGE" = "Arancio";
+"INPUT_COLOR_YELLOW" = "Giallo";
+"INPUT_COLOR_GREEN" = "Verde";
+"INPUT_COLOR_BLUE" = "Blu";
+"INPUT_COLOR_PURPLE" = "Viola";
+"INPUT_COLOR_BROWN" = "Marrone";
+"INPUT_COLOR_BLACK" = "Nero";
+"INPUT_COLOR_WHITE" = "Bianco";
+"INPUT_COLOR_RESET" = "Reset"; // Untranslated
+"INPUT_FOREGROUND_COLOR" = "Text color"; // Untranslated
+"INPUT_BACKGROUND_COLOR" = "Background color"; // Untranslated
+
 "UPLOAD_IMAGE_CAMERA" = "Scatta Foto";
 "UPLOAD_IMAGE_LIBRARY" = "Galleria Immagini";
 "UPLOAD_IMAGE_UPLOAD" = "Carica una Foto";

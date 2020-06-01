@@ -282,6 +282,19 @@
 "INPUT_MESSAGE_PLACEHOLDER" = "Nachricht";
 "INPUT_SEND_BUTTON_TITLE_LABEL" = "Senden";
 
+"INPUT_COLOR_RED" = "Rot";
+"INPUT_COLOR_ORANGE" = "Orange";
+"INPUT_COLOR_YELLOW" = "Gelb";
+"INPUT_COLOR_GREEN" = "Grün";
+"INPUT_COLOR_BLUE" = "Blau";
+"INPUT_COLOR_PURPLE" = "Violett";
+"INPUT_COLOR_BROWN" = "Braun";
+"INPUT_COLOR_BLACK" = "Schwarz";
+"INPUT_COLOR_WHITE" = "Weiß";
+"INPUT_COLOR_RESET" = "Reset"; // Untranslated
+"INPUT_FOREGROUND_COLOR" = "Textfarbe";
+"INPUT_BACKGROUND_COLOR" = "Hintergrundfarbe";
+
 "UPLOAD_IMAGE_CAMERA" = "Foto aufnehmen";
 "UPLOAD_IMAGE_LIBRARY" = "Fotobibliothek";
 "UPLOAD_IMAGE_UPLOAD" = "Foto hochladen";

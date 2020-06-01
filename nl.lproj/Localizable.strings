@@ -282,6 +282,19 @@
 "INPUT_MESSAGE_PLACEHOLDER" = "Bericht";
 "INPUT_SEND_BUTTON_TITLE_LABEL" = "Stuur";
 
+"INPUT_COLOR_RED" = "Rood"; 
+"INPUT_COLOR_ORANGE" = "Oranje"; 
+"INPUT_COLOR_YELLOW" = "Geel"; 
+"INPUT_COLOR_GREEN" = "Groen"; 
+"INPUT_COLOR_BLUE" = "Blauw"; 
+"INPUT_COLOR_PURPLE" = "Paars"; 
+"INPUT_COLOR_BROWN" = "Bruin"; 
+"INPUT_COLOR_BLACK" = "Zwart"; 
+"INPUT_COLOR_WHITE" = "Wit"; 
+"INPUT_COLOR_RESET" = "Verwijder"; 
+"INPUT_FOREGROUND_COLOR" = "Tekstkleur"; 
+"INPUT_BACKGROUND_COLOR" = "Achtergrondkleur";
+
 "UPLOAD_IMAGE_CAMERA" = "Maak foto";
 "UPLOAD_IMAGE_LIBRARY" = "Fotobibliotheek";
 "UPLOAD_IMAGE_UPLOAD" = "Upload foto";
