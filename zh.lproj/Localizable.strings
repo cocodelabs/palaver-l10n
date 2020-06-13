@@ -45,10 +45,10 @@
 /* Accessibility label for connecting network status */
 "QUERY_LIST_NETWORK_CONNECTING_STATUS" = "连接中";
 
-/* Accessibility Label for query */
+/* Accessibility Label for chat */
 "QUERY_LIST_QUERY_LABEL" = "%@ (%@ 未读)";
 
-/* Accessibility Label for query with unread mentions */
+/* Accessibility Label for chat with unread mentions */
 "QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ 未读, 有提醒)";
 
 "QUERY_LIST_SEARCH" = "搜索信息";
@@ -223,7 +223,7 @@
 "IRC_CHANNEL_INVITATION" = "您受邀加入 %2$@ ，邀請人是 %1$@";
 "IRC_CHANNEL_KICKED" = "您被踢出了 %2$@ ，踢您的人是 %1$@";
 
-/* Query Status */
+/* Chat Status */
 "QUERY_STATUS_DISCONNECTED" = "断开连接的";
 "QUERY_STATUS_DISCONNECTED_ACTION" = "点击以连接";
 
@@ -453,11 +453,11 @@
 "KEY_COMMAND_CLEAR_QUERY" = "清除私聊信息";
 "KEY_COMMAND_OPEN_PREFERENCES" = "设置";
 
-/* Jump to Network Query */
-"KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query"; // Untranslated
+/* Jump to Network Console */
+"KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Console"; // Untranslated
 
-/* Jump to Query */
-"KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Query (1-9)"; // Untranslated
+/* Jump to Chat */
+"KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Chat (1-9)"; // Untranslated
 
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "你未连接";
@@ -465,9 +465,9 @@
 "COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' 使用别名 {channel} 当不在频道查询中";
 "COMMAND_NOT_JOINED" = "你未加入";
 
-"COMMAND_QUERY_INVALID" = "非查询";
-"COMMAND_QUERY_UNKNOWN" = "该查询非频道或昵称.";
-"COMMAND_QUERY_INVALID_TYPE" = "错误的查询类别";
+"COMMAND_QUERY_INVALID" = "非私聊";
+"COMMAND_QUERY_UNKNOWN" = "该私聊非频道或昵称.";
+"COMMAND_QUERY_INVALID_TYPE" = "错误的私聊类别";
 "COMMAND_NETWORK_INVALID" = "非网络查询";
 "COMMAND_NETWORK_NOT_FOUND" = "网络 '%@' 未找到";
 "COMMAND_CHANNEL_INVALID" = "%@ 不是一个频道";
