@@ -453,6 +453,10 @@
 "KEY_COMMAND_CLEAR_QUERY" = "Clear Query"; // Untranslated
 "KEY_COMMAND_OPEN_PREFERENCES" = "Preferences"; // Untranslated
 
+/* Gesture Commands */
+"GESTURE_COMMAND_PREVIOUS_QUERY" = "Previous Query"; // Untranslated
+"GESTURE_COMMAND_NEXT_QUERY" = "Next Query"; // Untranslated
+
 /* Jump to Network Query */
 "KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query"; // Untranslated
 

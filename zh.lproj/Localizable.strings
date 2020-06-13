@@ -453,6 +453,10 @@
 "KEY_COMMAND_CLEAR_QUERY" = "清除私聊信息";
 "KEY_COMMAND_OPEN_PREFERENCES" = "设置";
 
+/* Gesture Commands */
+"GESTURE_COMMAND_PREVIOUS_QUERY" = "以前的私聊";
+"GESTURE_COMMAND_NEXT_QUERY" = "下一个私聊信息";
+
 /* Jump to Network Query */
 "KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query"; // Untranslated
 

@@ -453,6 +453,10 @@
 "KEY_COMMAND_CLEAR_QUERY" = "Query berichten wissen";
 "KEY_COMMAND_OPEN_PREFERENCES" = "Instellingen";
 
+/* Gesture Commands */
+"GESTURE_COMMAND_PREVIOUS_QUERY" = "Vorige query";
+"GESTURE_COMMAND_NEXT_QUERY" = "Volgende query";
+
 /* Jump to Network Query */
 "KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Ga naar netwerk query";
 

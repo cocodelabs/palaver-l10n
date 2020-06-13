@@ -453,6 +453,10 @@
 "KEY_COMMAND_CLEAR_QUERY" = "Clear Query";
 "KEY_COMMAND_OPEN_PREFERENCES" = "Preferences";
 
+/* Gesture Commands */
+"GESTURE_COMMAND_PREVIOUS_QUERY" = "Previous Query";
+"GESTURE_COMMAND_NEXT_QUERY" = "Next Query";
+
 /* Jump to Network Query */
 "KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query";
 
