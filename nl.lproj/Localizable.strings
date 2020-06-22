@@ -452,6 +452,8 @@
 "KEY_COMMAND_NEXT_MESSAGE" = "Volgend bericht";
 "KEY_COMMAND_CLEAR_QUERY" = "Query berichten wissen";
 "KEY_COMMAND_OPEN_PREFERENCES" = "Instellingen";
+"KEY_COMMAND_HIDE_CHAT_LIST" = "Verberg gesprekken lijst";
+"KEY_COMMAND_SHOW_CHAT_LIST" = "Toon gesprekken lijst";
 
 /* Gesture Commands */
 "GESTURE_COMMAND_PREVIOUS_QUERY" = "Vorige query";

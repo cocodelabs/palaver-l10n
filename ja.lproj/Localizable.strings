@@ -452,6 +452,8 @@
 "KEY_COMMAND_NEXT_MESSAGE" = "Next Message"; // Untranslated
 "KEY_COMMAND_CLEAR_QUERY" = "Clear Query"; // Untranslated
 "KEY_COMMAND_OPEN_PREFERENCES" = "Preferences"; // Untranslated
+"KEY_COMMAND_HIDE_CHAT_LIST" = "Hide Chat List"; // Untranslated
+"KEY_COMMAND_SHOW_CHAT_LIST" = "Show Chat List"; // Untranslated
 
 /* Gesture Commands */
 "GESTURE_COMMAND_PREVIOUS_QUERY" = "Previous Query"; // Untranslated
