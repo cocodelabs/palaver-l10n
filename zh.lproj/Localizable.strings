@@ -452,6 +452,8 @@
 "KEY_COMMAND_NEXT_MESSAGE" = "下一个信息";
 "KEY_COMMAND_CLEAR_QUERY" = "清除私聊信息";
 "KEY_COMMAND_OPEN_PREFERENCES" = "设置";
+"KEY_COMMAND_HIDE_CHAT_LIST" = "Hide Chat List"; // Untranslated
+"KEY_COMMAND_SHOW_CHAT_LIST" = "Show Chat List"; // Untranslated
 
 /* Gesture Commands */
 "GESTURE_COMMAND_PREVIOUS_QUERY" = "以前的私聊";
