@@ -426,7 +426,7 @@
 "CHANNEL_MODE_e_VIEW" = "View exception list (e)"; // Untranslated
 "CHANNEL_MODE_I_VIEW" = "View invite list (I)"; // Untranslated
 "CHANNEL_MODE_LIST_VIEW" = "View %@ list"; // Untranslated
-"CHANNEL_MODE_LIST_VIEW_EMPTY" = "List empty" // Untranslated
+"CHANNEL_MODE_LIST_VIEW_EMPTY" = "List empty"; // Untranslated
 
 "CHANNEL_DETAIL_PART" = "部分频道";
 

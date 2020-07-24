@@ -426,7 +426,7 @@
 "CHANNEL_MODE_e_VIEW" = "Bekijk uitzonderingslijst (e)";
 "CHANNEL_MODE_I_VIEW" = "Bekijk uitnodigingslijst (I)"; 
 "CHANNEL_MODE_LIST_VIEW" = "Bekijk %@ lijst"; 
-"CHANNEL_MODE_LIST_VIEW_EMPTY" = "Deze lijst is leeg"
+"CHANNEL_MODE_LIST_VIEW_EMPTY" = "Deze lijst is leeg";
 
 "CHANNEL_DETAIL_PART" = "Verlaat Kanaal";
 
