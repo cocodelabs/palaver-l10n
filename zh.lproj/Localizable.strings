@@ -317,6 +317,7 @@
 "UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "家长控制阻止照片访问.";
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "服务器未返回包含照片链接的字符串.";
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "无效图片.";
+"UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
 "CLOUDAPP_VERIFY_FAILURE" = "账号无法识别，请再次尝试";
 "CLOUDAPP_USERNAME" = "电子邮箱";

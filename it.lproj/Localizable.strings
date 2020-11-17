@@ -317,6 +317,7 @@
 "UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "Parental control nega l’accesso alle foto.";
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "Il server non ritorna una stringa contenente l’URL dell’immagine";
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Immagine non valida.";
+"UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
 "CLOUDAPP_VERIFY_FAILURE" = "Profilo non può essere verificato, perfavore riprovare";
 "CLOUDAPP_USERNAME" = "Email";

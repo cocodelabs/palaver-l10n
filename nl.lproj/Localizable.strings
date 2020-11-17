@@ -317,6 +317,7 @@
 "UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "Parental controls verhindert toegang tot foto's.";
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "Geen afbeeldings-URL ontvangen van de server.";
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Ongeldige afbeelding.";
+"UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
 "CLOUDAPP_VERIFY_FAILURE" = "Account kon niet worden geverifieerd, probeer het later opnieuw.";
 "CLOUDAPP_USERNAME" = "E-mail";

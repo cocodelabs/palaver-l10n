@@ -317,6 +317,7 @@
 "UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "Kindersicherung verhindert Zugriff auf Fotos.";
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "Die Serverantwort enhält nicht die Bild-URL.";
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Ungültiges Foto.";
+"UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
 "CLOUDAPP_VERIFY_FAILURE" = "Login fehlgeschlagen, bitte erneut versuchen.";
 "CLOUDAPP_USERNAME" = "E-Mail";
