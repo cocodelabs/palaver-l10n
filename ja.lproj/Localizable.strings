@@ -317,6 +317,7 @@
 "UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "Parental controls prevent access to photos."; // Untranslated
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "Server did not return a string containing the image URL."; // Untranslated
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Invalid Image."; // Untranslated
+"UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
 "CLOUDAPP_VERIFY_FAILURE" = "アカウントが糺しません。再試行してください。";
 "CLOUDAPP_USERNAME" = "電子メール";

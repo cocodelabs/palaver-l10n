@@ -318,6 +318,7 @@
 "UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "El control parental impide acceder a las fotos.";
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "El servidor no respondió con la URL de la imagen.";
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Imagen inválida.";
+"UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
 "CLOUDAPP_VERIFY_FAILURE" = "La cuenta no pudo ser validada, por favor inténtalo otra vez.";
 "CLOUDAPP_USERNAME" = "Email";
