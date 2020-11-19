@@ -319,9 +319,10 @@
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Ongeldige afbeelding.";
 "UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
-"CLOUDAPP_VERIFY_FAILURE" = "Account kon niet worden geverifieerd, probeer het later opnieuw.";
-"CLOUDAPP_USERNAME" = "E-mail";
-"CLOUDAPP_PASSWORD" = "Wachtwoord";
+"CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
+"CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp heeft helaas besloten om te stoppen met het ondersteunen van uploads via externe applicaties zoals Palaver. Daarom is het niet meer mogelijk om foto's naar CloudApp te uploaden via Palaver.";
+"CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "Verander naar %@";
+"CLOUDAPP_MIGRATION_ABORT" = "Annuleren";
 
 /* Whois */
 "WHOIS_CHANNELS_TITLE" = "Kanalen";

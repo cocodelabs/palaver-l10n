@@ -319,9 +319,10 @@
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Invalid Image."; // Untranslated
 "UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
-"CLOUDAPP_VERIFY_FAILURE" = "アカウントが糺しません。再試行してください。";
-"CLOUDAPP_USERNAME" = "電子メール";
-"CLOUDAPP_PASSWORD" = "パスワード";
+"CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
+"CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudAppのアップロードはサードパーティーのアプリ対して絶えた。為に、PalaverからCloudAppにアップロードするは効かない。";
+"CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "%@を使う";
+"CLOUDAPP_MIGRATION_ABORT" = "キャンセル";
 
 /* Whois */
 "WHOIS_CHANNELS_TITLE" = "チャンネル";

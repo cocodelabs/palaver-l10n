@@ -319,9 +319,10 @@
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Invalid Image.";
 "UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";
 
-"CLOUDAPP_VERIFY_FAILURE" = "Account could not be verified, please try again.";
-"CLOUDAPP_USERNAME" = "Email";
-"CLOUDAPP_PASSWORD" = "Password";
+"CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
+"CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp have decided to discontinue support for third-party integrations and thus it is no longer possible to upload an image to CloudApp in Palaver";
+"CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "Use %@ instead";
+"CLOUDAPP_MIGRATION_ABORT" = "Cancel";
 
 /* Whois */
 "WHOIS_CHANNELS_TITLE" = "Channels";

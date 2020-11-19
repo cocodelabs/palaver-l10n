@@ -319,9 +319,10 @@
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Invalid Image."; // Untranslated
 "UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
-"CLOUDAPP_VERIFY_FAILURE" = "Účet se nepodařilo ověřit, zkuste to prosím znovu.";
-"CLOUDAPP_USERNAME" = "Email";
-"CLOUDAPP_PASSWORD" = "Heslo";
+"CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
+"CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp have decided to discontinue support for third-party integrations and thus it is no longer possible to upload an image to CloudApp in Palaver";  // Untranslated
+"CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "Use %@ instead";  // Untranslated
+"CLOUDAPP_MIGRATION_ABORT" = "Zrušit";
 
 /* Whois */
 "WHOIS_CHANNELS_TITLE" = "Kanály";

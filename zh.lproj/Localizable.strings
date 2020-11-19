@@ -319,9 +319,10 @@
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "无效图片.";
 "UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
 
-"CLOUDAPP_VERIFY_FAILURE" = "账号无法识别，请再次尝试";
-"CLOUDAPP_USERNAME" = "电子邮箱";
-"CLOUDAPP_PASSWORD" = "密码";
+"CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
+"CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp have decided to discontinue support for third-party integrations and thus it is no longer possible to upload an image to CloudApp in Palaver";  // Untranslated
+"CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "Use %@ instead";  // Untranslated
+"CLOUDAPP_MIGRATION_ABORT" = "取消";
 
 /* Whois */
 "WHOIS_CHANNELS_TITLE" = "频道";
