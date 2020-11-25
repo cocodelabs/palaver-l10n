@@ -179,7 +179,7 @@
 /* IRC Events */
 
 "IRC_USER_KICKED_EVENT" = "%@ 接触(踢除)%@";
-"IRC_INVITED_EVENT" = "%@ 邀请了 %@";
+"IRC_INVITED_EVENT" = "%@ has invited %@ to %@";  // Untranslated
 "IRC_USER_QUIT_EVENT" = "%@ 已经退出";
 "IRC_USER_PARTED_EVENT" = "%@ 已经离开 %@";
 "IRC_USER_JOINED_EVENT" = "%@ 已经加入 %@";

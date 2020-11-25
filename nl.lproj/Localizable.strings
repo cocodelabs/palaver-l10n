@@ -179,7 +179,7 @@
 /* IRC Events */
 
 "IRC_KICKED_EVENT" = "%@ heeft %@ verwijderd";
-"IRC_INVITED_EVENT" = "%@ heeft %@ uitgenodigd";
+"IRC_INVITED_EVENT" = "%@ heeft %@ uitgenodigd voor %@";
 "IRC_QUIT_EVENT"  = "%@ heeft %@ verlaten";
 "IRC_PARTED_EVENT" = "%@ heeft de server verlaten";
 "IRC_JOINED_EVENT" = "%@ komt %@ binnen";

@@ -180,7 +180,7 @@
 /* IRC Events */
 
 "IRC_KICKED_EVENT" = "%@ sacó a %@";
-"IRC_INVITED_EVENT" = "%@ ha invitado a %@";
+"IRC_INVITED_EVENT" = "%@ ha invitado %@ a %@";
 "IRC_QUIT_EVENT"  = "%@ se ha desconectado";
 "IRC_PARTED_EVENT" = "%@ ha salido de %@";
 "IRC_JOINED_EVENT" = "%@ se ha unido a %@";
