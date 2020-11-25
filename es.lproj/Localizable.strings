@@ -118,9 +118,11 @@
 
 "NETWORK_PASSWORD_INCORRECT" = "Contraseña incorrecta (%@)";
 
-"TLS_TRUST_CERTIFICATE" = "Confiar";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Certificado no fiable";
 "TLS_UNTRUSTED_CERTIFICATE_BODY" = "El servidor cuenta con un certificado TLS no fiable.";
+"TLS_UNTRUSTED_CERTIFICATE_VIEW_CERTIFICATES" = "Review Certificate"; // Untranslated
+"TLS_UNTRUSTED_CERTIFICATE_TRUST" = "Confiar";
+"TLS_UNTRUSTED_CERTIFICATE_DISABLE_VERIFICATION" = "Disable Verification"; // Untranslated
 
 "CHANNEL_TITLE" = "Canal";
 "CHANNEL_JOIN" = "Unirte";

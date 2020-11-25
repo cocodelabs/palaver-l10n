@@ -117,9 +117,11 @@
 
 "NETWORK_PASSWORD_INCORRECT" = "Password non corretta (%@)";
 
-"TLS_TRUST_CERTIFICATE" = "Fidati";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Certificato non affidabile";
 "TLS_UNTRUSTED_CERTIFICATE_BODY" = "Il server a cui stai provando di connerti ha un certificate TLS non affidabile";
+"TLS_UNTRUSTED_CERTIFICATE_VIEW_CERTIFICATES" = "Review Certificate"; // Untranslated
+"TLS_UNTRUSTED_CERTIFICATE_TRUST" = "Fidati";
+"TLS_UNTRUSTED_CERTIFICATE_DISABLE_VERIFICATION" = "Disable Verification"; // Untranslated
 
 "CHANNEL_TITLE" = "Canale";
 "CHANNEL_JOIN" = "Iscriviti";

@@ -117,9 +117,11 @@
 
 "NETWORK_PASSWORD_INCORRECT" = "Wachtwoord onjuist (%@)";
 
-"TLS_TRUST_CERTIFICATE" = "Vertrouwen";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Onbetrouwbaar certificaat";
 "TLS_UNTRUSTED_CERTIFICATE_BODY" = "De server waarmee je probeert te verbinden heeft een onbetrouwbaar TLS certificaat.";
+"TLS_UNTRUSTED_CERTIFICATE_VIEW_CERTIFICATES" = "Certificaten controleren";
+"TLS_UNTRUSTED_CERTIFICATE_TRUST" = "Vertrouwen";
+"TLS_UNTRUSTED_CERTIFICATE_DISABLE_VERIFICATION" = "Verificatie uitschakelen";
 
 "CHANNEL_TITLE" = "Kanaal";
 "CHANNEL_JOIN" = "Betreden";

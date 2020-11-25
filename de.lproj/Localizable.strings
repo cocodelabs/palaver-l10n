@@ -117,9 +117,11 @@
 
 "NETWORK_PASSWORD_INCORRECT" = "Falsches Passwort (%@)";
 
-"TLS_TRUST_CERTIFICATE" = "Vertrauen";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Nicht vertrauenswürdiges Zertifikat";
 "TLS_UNTRUSTED_CERTIFICATE_BODY" = "Der Server verwendet ein nicht vertrauenswürdiges TLS Zertifikat";
+"TLS_UNTRUSTED_CERTIFICATE_VIEW_CERTIFICATES" = "Review Certificate"; // Untranslated
+"TLS_UNTRUSTED_CERTIFICATE_TRUST" = "Vertrauen";
+"TLS_UNTRUSTED_CERTIFICATE_DISABLE_VERIFICATION" = "Disable Verification"; // Untranslated
 
 "CHANNEL_TITLE" = "Raum";
 "CHANNEL_JOIN" = "Betreten";

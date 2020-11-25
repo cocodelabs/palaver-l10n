@@ -117,9 +117,11 @@
 
 "NETWORK_PASSWORD_INCORRECT" = "Password incorrect (%@)";
 
-"TLS_TRUST_CERTIFICATE" = "Trust";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "Untrusted Certificate";
 "TLS_UNTRUSTED_CERTIFICATE_BODY" = "The server that you are connecting to has an untrusted TLS certificate.";
+"TLS_UNTRUSTED_CERTIFICATE_VIEW_CERTIFICATES" = "Review Certificate";
+"TLS_UNTRUSTED_CERTIFICATE_TRUST" = "Trust";
+"TLS_UNTRUSTED_CERTIFICATE_DISABLE_VERIFICATION" = "Disable Verification";
 
 "CHANNEL_TITLE" = "Channel";
 "CHANNEL_JOIN" = "Join";

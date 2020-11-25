@@ -117,9 +117,11 @@
 
 "NETWORK_PASSWORD_INCORRECT" = "パスワードが正しくありません (%@)";
 
-"TLS_TRUST_CERTIFICATE" = "信頼";
 "TLS_UNTRUSTED_CERTIFICATE_TITLE" = "明書は信頼できません";
 "TLS_UNTRUSTED_CERTIFICATE_BODY" = "サーバTLS証明書は信頼できません。";
+"TLS_UNTRUSTED_CERTIFICATE_VIEW_CERTIFICATES" = "Review Certificate"; // Untranslated
+"TLS_UNTRUSTED_CERTIFICATE_TRUST" = "信頼";
+"TLS_UNTRUSTED_CERTIFICATE_DISABLE_VERIFICATION" = "Disable Verification"; // Untranslated
 
 "CHANNEL_TITLE" = "チャンネル";
 "CHANNEL_JOIN" = "入る";
