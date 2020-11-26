@@ -374,6 +374,9 @@
 /* Whois Session Using TLS */
 "WHOIS_SESSION_USING_TLS" = "Using TLS";
 
+/* Whois Session IP Address */
+"WHOIS_SESSION_IP_ADDRESS" = "IP Address";
+
 /* Whois Server Hostname */
 "WHOIS_SERVER_HOSTNAME" = "Server";
 
