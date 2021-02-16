@@ -45,10 +45,10 @@
 /* Accessibility label for connecting network status */
 "QUERY_LIST_NETWORK_CONNECTING_STATUS" = "verbinden";
 
-/* Accessibility Label for query */
+/* Accessibility Label for chat */
 "QUERY_LIST_QUERY_LABEL" = "%@ (%@ ongelezen)";
 
-/* Accessibility Label for query with unread mentions */
+/* Accessibility Label for chat with unread mentions */
 "QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ ongelezen, met mentions)";
 
 "QUERY_LIST_SEARCH" = "Zoek berichten";

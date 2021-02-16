@@ -46,10 +46,10 @@
 /* Accessibility label for connecting network status */
 "QUERY_LIST_NETWORK_CONNECTING_STATUS" = "conectando";
 
-/* Accessibility Label for query */
+/* Accessibility Label for chat */
 "QUERY_LIST_QUERY_LABEL" = "%@ (%@ no leído(s))";
 
-/* Accessibility Label for query with unread mentions */
+/* Accessibility Label for chat with unread mentions */
 "QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ no leído(s), con menciones)";
 
 "QUERY_LIST_SEARCH" = "Buscar Mensajes";
@@ -226,7 +226,7 @@
 "IRC_CHANNEL_INVITATION" = "%@ te ha invitado a %@ en %@";
 "IRC_CHANNEL_KICKED" = "%@ te ha sacado de %@ en %@";
 
-/* Query Status */
+/* Chat Status */
 "QUERY_STATUS_DISCONNECTED" = "Desconectado";
 "QUERY_STATUS_DISCONNECTED_ACTION" = "Toca para conectar";
 
@@ -457,14 +457,14 @@
 "CERTIFICATE_DETAIL_FINGERPRINTS" = "Rastro";
 
 /* Key Commands */
-"KEY_COMMAND_PREVIOUS_QUERY" = "Consulta anterior";
-"KEY_COMMAND_PREVIOUS_UNREAD_QUERY" = "Consulta anterior sin leer";
-"KEY_COMMAND_NEXT_QUERY" = "Próxima consulta";
-"KEY_COMMAND_NEXT_UNREAD_QUERY" = "Próxima consulta sin leer";
-"KEY_COMMAND_CLOSE_QUERY" = "Cerrar consulta";
+"KEY_COMMAND_PREVIOUS_QUERY" = "Chat anterior";
+"KEY_COMMAND_PREVIOUS_UNREAD_QUERY" = "Chat no leído anterior";
+"KEY_COMMAND_NEXT_QUERY" = "Próxima chat";
+"KEY_COMMAND_NEXT_UNREAD_QUERY" = "Próxima chat no leído";
+"KEY_COMMAND_CLOSE_QUERY" = "Cerrar chat";
 "KEY_COMMAND_PREVIOUS_MESSAGE" = "Mensaje anterior";
 "KEY_COMMAND_NEXT_MESSAGE" = "Próximo mensaje";
-"KEY_COMMAND_CLEAR_QUERY" = "Clear Query"; // Untranslated
+"KEY_COMMAND_CLEAR_QUERY" = "Clear Chat"; // Untranslated
 "KEY_COMMAND_OPEN_PREFERENCES" = "Preferences"; // Untranslated
 "KEY_COMMAND_HIDE_CHAT_LIST" = "Hide Chat List"; // Untranslated
 "KEY_COMMAND_SHOW_CHAT_LIST" = "Show Chat List"; // Untranslated
@@ -473,11 +473,11 @@
 "GESTURE_COMMAND_PREVIOUS_QUERY" = "Consulta anterior";
 "GESTURE_COMMAND_NEXT_QUERY" = "Próxima consulta";
 
-/* Jump to Network Query */
-"KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query"; // Untranslated
+/* Jump to Network Console */
+"KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Console"; // Untranslated
 
-/* Jump to Query */
-"KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Query (1-9)"; // Untranslated
+/* Jump to Chat */
+"KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Chat (1-9)"; // Untranslated
 
 "QUERY_SWITCHER_COMMAND" = "Open quickly"; // Untranslated
 "QUERY_SWITCHER_PLACEHOLDER" = "Jump to..."; // Untranslated
@@ -489,13 +489,13 @@
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "No estás conectado";
 "COMMAND_NOT_CONNECTED_NICK" = "'%@' alias utiliza {nick} mientras no estamos conectados al servidor.";
-"COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias utiliza {channel} mientras no estamos en una consulta de canal";
+"COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias utiliza {channel} mientras no estamos en un canal";
 "COMMAND_NOT_JOINED" = "No te has unido";
 
-"COMMAND_QUERY_INVALID" = "No es una consulta válida";
-"COMMAND_QUERY_UNKNOWN" = "Esta consulta no es un canal o apodo.";
-"COMMAND_QUERY_INVALID_TYPE" = "Tipo de consulta incorrecto";
-"COMMAND_NETWORK_INVALID" = "No es una consulta de red";
+"COMMAND_QUERY_INVALID" = "No es una chat válida";
+"COMMAND_QUERY_UNKNOWN" = "Esta chat no es un canal o apodo.";
+"COMMAND_QUERY_INVALID_TYPE" = "Tipo de chat incorrecto";
+"COMMAND_NETWORK_INVALID" = "No es una chat de red";
 "COMMAND_NETWORK_NOT_FOUND" = "red '%@' no encontrada";
 "COMMAND_CHANNEL_INVALID" = "%@ no es un canal";
 "COMMAND_CHANNEL_NOT_JOINED" = "%@ no se ha unido";

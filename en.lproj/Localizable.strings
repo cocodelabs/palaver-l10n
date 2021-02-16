@@ -45,10 +45,10 @@
 /* Accessibility label for connecting network status */
 "QUERY_LIST_NETWORK_CONNECTING_STATUS" = "connecting";
 
-/* Accessibility Label for query */
+/* Accessibility Label for chat */
 "QUERY_LIST_QUERY_LABEL" = "%@ (%@ unread)";
 
-/* Accessibility Label for query with unread mentions */
+/* Accessibility Label for chat with unread mentions */
 "QUERY_LIST_QUERY_UNREAD_MENTIONS_LABEL" = "%@ (%@ unread, with mentions)";
 
 "QUERY_LIST_SEARCH" = "Search Messages";
@@ -225,7 +225,7 @@
 "IRC_CHANNEL_INVITATION" = "%@ has invited you to join %@ on %@";
 "IRC_CHANNEL_KICKED" = "%@ has kicked you from %@ on %@";
 
-/* Query Status */
+/* Chat Status */
 "QUERY_STATUS_DISCONNECTED" = "Disconnected";
 "QUERY_STATUS_DISCONNECTED_ACTION" = "Tap to connect";
 
@@ -456,14 +456,14 @@
 "CERTIFICATE_DETAIL_FINGERPRINTS" = "Fingerprints";
 
 /* Key Commands */
-"KEY_COMMAND_PREVIOUS_QUERY" = "Previous Query";
-"KEY_COMMAND_PREVIOUS_UNREAD_QUERY" = "Previous Unread Query";
-"KEY_COMMAND_NEXT_QUERY" = "Next Query";
-"KEY_COMMAND_NEXT_UNREAD_QUERY" = "Next Unread Query";
-"KEY_COMMAND_CLOSE_QUERY" = "Close Query";
+"KEY_COMMAND_PREVIOUS_QUERY" = "Previous Chat";
+"KEY_COMMAND_PREVIOUS_UNREAD_QUERY" = "Previous Unread Chat";
+"KEY_COMMAND_NEXT_QUERY" = "Next Chat";
+"KEY_COMMAND_NEXT_UNREAD_QUERY" = "Next Unread Chat";
+"KEY_COMMAND_CLOSE_QUERY" = "Close Chat";
 "KEY_COMMAND_PREVIOUS_MESSAGE" = "Previous Message";
 "KEY_COMMAND_NEXT_MESSAGE" = "Next Message";
-"KEY_COMMAND_CLEAR_QUERY" = "Clear Query";
+"KEY_COMMAND_CLEAR_QUERY" = "Clear Chat";
 "KEY_COMMAND_OPEN_PREFERENCES" = "Preferences";
 "KEY_COMMAND_HIDE_CHAT_LIST" = "Hide Chat List";
 "KEY_COMMAND_SHOW_CHAT_LIST" = "Show Chat List";
@@ -472,11 +472,11 @@
 "GESTURE_COMMAND_PREVIOUS_QUERY" = "Previous Query";
 "GESTURE_COMMAND_NEXT_QUERY" = "Next Query";
 
-/* Jump to Network Query */
-"KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Query";
+/* Jump to Network Console */
+"KEY_COMMAND_JUMP_TO_NETWORK_QUERY" = "Jump to Network Console";
 
-/* Jump to Query */
-"KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Query (1-9)";
+/* Jump to Chat */
+"KEY_COMMAND_JUMP_TO_QUERY" = "Jump to Chat (1-9)";
 
 "QUERY_SWITCHER_COMMAND" = "Open quickly";
 "QUERY_SWITCHER_PLACEHOLDER" = "Jump to...";
@@ -488,13 +488,13 @@
 /* User Commands */
 "COMMAND_NOT_CONNECTED" = "You are not connected";
 "COMMAND_NOT_CONNECTED_NICK" = "'%@' alias uses {nick} while we are not connected to a server";
-"COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias uses {channel} while we are not in a channel query";
+"COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias uses {channel} while we are not in a channel";
 "COMMAND_NOT_JOINED" = "You are not joined";
 
-"COMMAND_QUERY_INVALID" = "Not a query";
-"COMMAND_QUERY_UNKNOWN" = "This query is not a channel or nick.";
-"COMMAND_QUERY_INVALID_TYPE" = "Incorrect query type";
-"COMMAND_NETWORK_INVALID" = "Not a network query";
+"COMMAND_QUERY_INVALID" = "Not in a chat";
+"COMMAND_QUERY_UNKNOWN" = "This chat is not a channel or nick.";
+"COMMAND_QUERY_INVALID_TYPE" = "Incorrect chat type";
+"COMMAND_NETWORK_INVALID" = "Not in a network console";
 "COMMAND_NETWORK_NOT_FOUND" = "network '%@' not found";
 "COMMAND_CHANNEL_INVALID" = "%@ is not a channel";
 "COMMAND_CHANNEL_NOT_JOINED" = "%@ is not joined";
