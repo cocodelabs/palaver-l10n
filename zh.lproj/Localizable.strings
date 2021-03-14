@@ -319,7 +319,11 @@
 "UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "家长控制阻止照片访问.";
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "服务器未返回包含照片链接的字符串.";
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "无效图片.";
+
+"UPLOAD_IMAGE_ERROR_TITLE" = "Upload Failed";  // Untranslated
 "UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
+"UPLOAD_IMAGE_ERROR_RETRY" = "Try Again";  // Untranslated
+"UPLOAD_IMAGE_ERROR_ABORT" = "取消";
 
 "CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
 "CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp have decided to discontinue support for third-party integrations and thus it is no longer possible to upload an image to CloudApp in Palaver";  // Untranslated

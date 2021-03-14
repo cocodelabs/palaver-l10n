@@ -319,7 +319,11 @@
 "UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "Parental controls verhindert toegang tot foto's.";
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "Geen afbeeldings-URL ontvangen van de server.";
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Ongeldige afbeelding.";
+
+"UPLOAD_IMAGE_ERROR_TITLE" = "Upload Failed";  // Untranslated
 "UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
+"UPLOAD_IMAGE_ERROR_RETRY" = "Try Again";  // Untranslated
+"UPLOAD_IMAGE_ERROR_ABORT" = "Annuleren";
 
 "CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
 "CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp heeft helaas besloten om te stoppen met het ondersteunen van uploads via externe applicaties zoals Palaver. Daarom is het niet meer mogelijk om foto's naar CloudApp te uploaden via Palaver.";

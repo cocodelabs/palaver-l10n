@@ -319,7 +319,11 @@
 "UPLOAD_IMAGE_ERROR_PARENTAL_CONTROL" = "Parental control nega l’accesso alle foto.";
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "Il server non ritorna una stringa contenente l’URL dell’immagine";
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Immagine non valida.";
+
+"UPLOAD_IMAGE_ERROR_TITLE" = "Upload Failed";  // Untranslated
 "UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
+"UPLOAD_IMAGE_ERROR_RETRY" = "Try Again";  // Untranslated
+"UPLOAD_IMAGE_ERROR_ABORT" = "Annulla";
 
 "CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
 "CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp have decided to discontinue support for third-party integrations and thus it is no longer possible to upload an image to CloudApp in Palaver";  // Untranslated
