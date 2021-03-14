@@ -454,6 +454,7 @@
 "CONNECTION_DETAIL_TITLE" = "Connection Info"; // Untranslated
 "CONNECTION_DETAIL_CHAIN" = "Certificate Chain"; // Untranslated
 "CERTIFICATE_DETAIL_FINGERPRINTS" = "Fingerprints"; // Untranslated
+"CERTIFICATE_DETAIL_SERIAL_NUMBER" = "Serial Number"; // Unstranslated
 
 /* Key Commands */
 "KEY_COMMAND_PREVIOUS_QUERY" = "Previous Query"; // Untranslated

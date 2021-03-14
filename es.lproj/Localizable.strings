@@ -455,6 +455,7 @@
 "CONNECTION_DETAIL_TITLE" = "Información de conexión";
 "CONNECTION_DETAIL_CHAIN" = "Cadena de certificados";
 "CERTIFICATE_DETAIL_FINGERPRINTS" = "Rastro";
+"CERTIFICATE_DETAIL_SERIAL_NUMBER" = "Serial Number"; // Unstranslated
 
 /* Key Commands */
 "KEY_COMMAND_PREVIOUS_QUERY" = "Consulta anterior";

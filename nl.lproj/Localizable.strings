@@ -454,6 +454,7 @@
 "CONNECTION_DETAIL_TITLE" = "Connectie Info";
 "CONNECTION_DETAIL_CHAIN" = "Certificaten";
 "CERTIFICATE_DETAIL_FINGERPRINTS" = "Vingerafdrukken";
+"CERTIFICATE_DETAIL_SERIAL_NUMBER" = "Serienummer";
 
 /* Key Commands */
 "KEY_COMMAND_PREVIOUS_QUERY" = "Vorige query"; 

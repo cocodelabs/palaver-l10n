@@ -454,6 +454,7 @@
 "CONNECTION_DETAIL_TITLE" = "Verbindungsinformationen";
 "CONNECTION_DETAIL_CHAIN" = "Zertifikat-Kette";
 "CERTIFICATE_DETAIL_FINGERPRINTS" = "Fingerabdrücke";
+"CERTIFICATE_DETAIL_SERIAL_NUMBER" = "Serial Number"; // Unstranslated
 
 /* Key Commands */
 "KEY_COMMAND_PREVIOUS_QUERY" = "Previous Query"; // Untranslated
