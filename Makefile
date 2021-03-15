@@ -1,4 +1,4 @@
-LOCALIZATIONS := en nl de es cs ja it zh
+LOCALIZATIONS := en nl de es cs ja zh
 
 all: $(LOCALIZATIONS)
 
