@@ -278,6 +278,8 @@
 "QUERY_DETAIL_REACTION_TITLE" = "Reacties";
 "QUERY_DETAIL_REACTION_TEMPLATE" = "%@ reageerde met %@";
 
+"QUERY_DETAIL_UNREAD_INDICATOR" = "Ongelezen berichten";
+
 /* Input bar */
 
 "INPUT_UPLOAD_IMAGE_LABEL" = "Stuur een afbeelding";

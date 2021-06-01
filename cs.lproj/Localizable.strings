@@ -278,6 +278,8 @@
 "QUERY_DETAIL_REACTION_TITLE" = "Reactions"; // Untranslated
 "QUERY_DETAIL_REACTION_TEMPLATE" = "%@ reacted with %@"; // Untranslated
 
+"QUERY_DETAIL_UNREAD_INDICATOR" = "Nepřečtené zprávy";
+
 /* Input bar */
 
 "INPUT_UPLOAD_IMAGE_LABEL" = "Odeslat obrázek";

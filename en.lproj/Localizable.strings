@@ -278,6 +278,8 @@
 "QUERY_DETAIL_REACTION_TITLE" = "Reactions";
 "QUERY_DETAIL_REACTION_TEMPLATE" = "%@ reacted with %@";
 
+"QUERY_DETAIL_UNREAD_INDICATOR" = "Unread Messages";
+
 /* Input bar */
 
 "INPUT_UPLOAD_IMAGE_LABEL" = "Send an Image";

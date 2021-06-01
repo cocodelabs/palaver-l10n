@@ -247,6 +247,12 @@
 /* Accessibility label for scroll to bottom button */
 "QUERY_DETAIL_SCROLL_BOTTOM_BUTTON_LABEL" = "会話の切りでスクロールダウン";
 
+/* Link Preview */
+"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "URLプレビューをイネーブル";
+"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "URLプレビューをディスエーブル";
+"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "このURL";
+"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "すべてのURL";
+
 /* Accessibility label for the failed message retry button */
 "QUERY_DETAIL_FAILED_MESSAGE_LABEL" = "Failed to send message"; // Untranslated
 
@@ -272,11 +278,7 @@
 "QUERY_DETAIL_REACTION_TITLE" = "Reactions"; // Untranslated
 "QUERY_DETAIL_REACTION_TEMPLATE" = "%@ reacted with %@"; // Untranslated
 
-/* Link Preview */
-"QUERY_DETAIL_LINK_PREVIEW_ENABLE" = "URLプレビューをイネーブル";
-"QUERY_DETAIL_LINK_PREVIEW_DISABLE" = "URLプレビューをディスエーブル";
-"QUERY_DETAIL_LINK_PREVIEW_ONLY_LINK" = "このURL";
-"QUERY_DETAIL_LINK_PREVIEW_ALL_LINKS" = "すべてのURL";
+"QUERY_DETAIL_UNREAD_INDICATOR" = "未読メッセージ";
 
 /* Input bar */
 
