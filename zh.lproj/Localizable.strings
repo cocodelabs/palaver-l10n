@@ -491,7 +491,6 @@
 "COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' 使用别名 {channel} 当不在频道查询中";
 "COMMAND_NOT_JOINED" = "你未加入";
 
-"COMMAND_QUERY_INVALID" = "非查询";
 "COMMAND_QUERY_UNKNOWN" = "该查询非频道或昵称.";
 "COMMAND_QUERY_INVALID_TYPE" = "错误的查询类别";
 "COMMAND_NETWORK_INVALID" = "非网络查询";

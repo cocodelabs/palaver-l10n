@@ -498,7 +498,6 @@
 "COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias gebruikt {channel} maar we zijn niet in een kanaal";
 "COMMAND_NOT_JOINED" = "Je bevind je niet in een kanaal";
 
-"COMMAND_QUERY_INVALID" = "Ongeldige query"; 
 "COMMAND_QUERY_UNKNOWN" = "De query is geen kanaal of nickname.";
 "COMMAND_QUERY_INVALID_TYPE" = "Incorrect type query";
 "COMMAND_NETWORK_INVALID" = "Geen query voor een netwerk";

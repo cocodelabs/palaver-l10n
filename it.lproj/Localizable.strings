@@ -498,7 +498,6 @@
 "COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias usa {channel} mentre non sei connesso al canale";
 "COMMAND_NOT_JOINED" = "Non sei iscritto";
 
-"COMMAND_QUERY_INVALID" = "Non è una query";
 "COMMAND_QUERY_UNKNOWN" = "This query non è un canale o nick.";
 "COMMAND_QUERY_INVALID_TYPE" = "Query type non corretto";
 "COMMAND_NETWORK_INVALID" = "Non è una query di rete corretta";

@@ -499,7 +499,6 @@
 "COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias utiliza {channel} mientras no estamos en una consulta de canal";
 "COMMAND_NOT_JOINED" = "No te has unido";
 
-"COMMAND_QUERY_INVALID" = "No es una consulta válida";
 "COMMAND_QUERY_UNKNOWN" = "Esta consulta no es un canal o apodo.";
 "COMMAND_QUERY_INVALID_TYPE" = "Tipo de consulta incorrecto";
 "COMMAND_NETWORK_INVALID" = "No es una consulta de red";

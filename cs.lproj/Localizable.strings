@@ -497,7 +497,6 @@
 "COMMAND_NOT_CONNECTED_CHANNEL" = "'%@' alias uses {channel} while we are not in a channel query"; // Untranslated
 "COMMAND_NOT_JOINED" = "You are not joined"; // Untranslated
 
-"COMMAND_QUERY_INVALID" = "Not a query"; // Untranslated
 "COMMAND_QUERY_UNKNOWN" = "This query is not a channel or nick."; // Untranslated
 "COMMAND_QUERY_INVALID_TYPE" = "Incorrect query type"; // Untranslated
 "COMMAND_NETWORK_INVALID" = "Not a network query"; // Untranslated
