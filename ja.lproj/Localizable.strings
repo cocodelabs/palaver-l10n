@@ -313,7 +313,7 @@
 "UPLOAD_IMAGE_PREFERENCES_TITLE" = "画像のアップロード";
 "UPLOAD_IMAGE_PREFERENCES_LOGIN" = "Login"; // Untranslated
 "UPLOAD_IMAGE_PREFERENCES_LOGOUT" = "Logout"; // Untranslated
-"UPLOAD_IMAGE_PREFERENCES_ACCOUNT" = "Account"; // Untranslated
+"UPLOAD_IMAGE_PREFERENCES_ACCOUNT" = "垢";
 "UPLOAD_IMAGE_PREFERENCES_CHECKING" = "Checking account details"; // Untranslated
 
 "UPLOAD_IMAGE_ERROR_VIEW_SETTINGS" = "View Settings"; // Untranslated
@@ -355,6 +355,12 @@
 
 /* Whois User Hostname */
 "WHOIS_USER_HOSTNAME" = "ホスト名";
+
+/* Whois User Account */
+"WHOIS_USER_ACCOUNT" = "垢";
+
+/* Whois User Bot */
+"WHOIS_USER_BOT" = "ボット";
 
 /* Whois User Is Network Operator */
 "WHOIS_USER_IS_NETWORK_OPERATOR" = "ネットワークのOp";

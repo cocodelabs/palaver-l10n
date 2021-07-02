@@ -356,6 +356,12 @@
 /* Whois User Hostname */
 "WHOIS_USER_HOSTNAME" = "主机名";
 
+/* Whois User Account */
+"WHOIS_USER_ACCOUNT" = "Account"; // Untranslated
+
+/* Whois User Bot */
+"WHOIS_USER_BOT" = "Bot"; // Untranslated
+
 /* Whois User Is Network Operator */
 "WHOIS_USER_IS_NETWORK_OPERATOR" = "网络运营商";
 
