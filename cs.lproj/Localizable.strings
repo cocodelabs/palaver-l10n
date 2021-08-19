@@ -359,6 +359,9 @@
 /* Whois User Account */
 "WHOIS_USER_ACCOUNT" = "Account"; // Untranslated
 
+/* Whois User Modes */
+"WHOIS_USER_MODES" = "Modes"; // Untranslated
+
 /* Whois User Bot */
 "WHOIS_USER_BOT" = "Bot"; // Untranslated
 
