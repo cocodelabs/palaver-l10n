@@ -324,8 +324,13 @@
 
 "UPLOAD_IMAGE_ERROR_TITLE" = "Upload Failed";  // Untranslated
 "UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
-"UPLOAD_IMAGE_ERROR_RETRY" = "Try Again";  // Untranslated
+"UPLOAD_IMAGE_ERROR_RETRY" = "Probeer opnieuw";
 "UPLOAD_IMAGE_ERROR_ABORT" = "Annuleren";
+
+"UPLOAD_IMAGE_AUTH_ERROR_TITLE" = "Onbevoegd";
+"UPLOAD_IMAGE_AUTH_ERROR_BEARER_MESSAGE" = "De server vereist autorisatie. Voer een Bearer-token in om door te gaan.";
+"UPLOAD_IMAGE_AUTH_ERROR_BASIC_MESSAGE" = "De server vereist autorisatie. Voer een gebruikersnaam en wachtwoord in om door te gaan.";
+"UPLOAD_IMAGE_AUTH_ERROR_AUTHORIZE" = "Probeer opnieuw";
 
 "CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
 "CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp heeft helaas besloten om te stoppen met het ondersteunen van uploads via externe applicaties zoals Palaver. Daarom is het niet meer mogelijk om foto's naar CloudApp te uploaden via Palaver.";
