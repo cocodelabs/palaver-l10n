@@ -327,6 +327,11 @@
 "UPLOAD_IMAGE_ERROR_RETRY" = "Try Again";  // Untranslated
 "UPLOAD_IMAGE_ERROR_ABORT" = "キャンセル";
 
+"UPLOAD_IMAGE_AUTH_ERROR_TITLE" = "Unauthorized";  // Untranslated
+"UPLOAD_IMAGE_AUTH_ERROR_BEARER_MESSAGE" = "The server requires authorization. Enter a Bearer token to continue.";  // Untranslated
+"UPLOAD_IMAGE_AUTH_ERROR_BASIC_MESSAGE" = "The server requires authorization. Enter a username and password to continue.";  // Untranslated
+"UPLOAD_IMAGE_AUTH_ERROR_AUTHORIZE" = "Authorize";  // Untranslated
+
 "CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
 "CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudAppのアップロードはサードパーティーのアプリ対して絶えた。為に、PalaverからCloudAppにアップロードするは効かない。";
 "CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "%@を使う";
