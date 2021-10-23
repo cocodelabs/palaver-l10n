@@ -149,6 +149,11 @@
 "STYLE_SHOW_TIMESTAMPS" = "Show timestamps";
 "STYLE_SHOW_JOIN_PART" = "Show join/part";
 "STYLE_PREVIEW_LINKS" = "Show link previews";
+"STYLE_UNREAD_SEPARATOR_TITLE" = "Unread separator";
+"STYLE_UNREAD_SEPARATOR_FULL" = "Full";
+"STYLE_UNREAD_SEPARATOR_SUBTLE" = "Subtle";
+"STYLE_UNREAD_SEPARATOR_NONE" = "None";
+"STYLE_UNREAD_SEPARATOR_DESCRIPTION" = "Show an indication of messages received since the last time you closed a chat";
 
 "THEME_TITLE" = "Theme";
 "THEME_VARIANT_TITLE" = "Variant (Light/Dark)";

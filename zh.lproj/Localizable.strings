@@ -149,6 +149,11 @@
 "STYLE_SHOW_TIMESTAMPS" = "显示时间戳";
 "STYLE_SHOW_JOIN_PART" = "显示连接/分离";
 "STYLE_PREVIEW_LINKS" = "显示网址预览";
+"STYLE_UNREAD_SEPARATOR_TITLE" = "Unread separator"; // Untranslated
+"STYLE_UNREAD_SEPARATOR_FULL" = "Full"; // Untranslated
+"STYLE_UNREAD_SEPARATOR_SUBTLE" = "Subtle"; // Untranslated
+"STYLE_UNREAD_SEPARATOR_NONE" = "None"; // Untranslated
+"STYLE_UNREAD_SEPARATOR_DESCRIPTION" = "Show an indication of messages received since the last time you closed a chat"; // Untranslated
 
 "THEME_TITLE" = "主题";
 "THEME_VARIANT_TITLE" = "亮度(亮／暗)";

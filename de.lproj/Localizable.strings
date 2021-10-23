@@ -149,6 +149,11 @@
 "STYLE_SHOW_TIMESTAMPS" = "Zeitstempel anzeigen";
 "STYLE_SHOW_JOIN_PART" = "Betreten/Verlassen anzeigen";
 "STYLE_PREVIEW_LINKS" = "Linkvorschau anzeigen";
+"STYLE_UNREAD_SEPARATOR_TITLE" = "Unread separator"; // Untranslated
+"STYLE_UNREAD_SEPARATOR_FULL" = "Full"; // Untranslated
+"STYLE_UNREAD_SEPARATOR_SUBTLE" = "Subtle"; // Untranslated
+"STYLE_UNREAD_SEPARATOR_NONE" = "None"; // Untranslated
+"STYLE_UNREAD_SEPARATOR_DESCRIPTION" = "Show an indication of messages received since the last time you closed a chat"; // Untranslated
 
 "THEME_TITLE" = "Design";
 "THEME_VARIANT_TITLE" = "Variante (Hell/Dunkel)";

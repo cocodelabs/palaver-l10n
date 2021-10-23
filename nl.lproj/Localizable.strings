@@ -149,6 +149,11 @@
 "STYLE_SHOW_TIMESTAMPS" = "Geef tijdstempel weer";
 "STYLE_SHOW_JOIN_PART" = "Weergeef betreden/verlaten";
 "STYLE_PREVIEW_LINKS" = "Toon link voorbeeld";
+"STYLE_UNREAD_SEPARATOR_TITLE" = "Ongelezen indicatie";
+"STYLE_UNREAD_SEPARATOR_FULL" = "Volledig";
+"STYLE_UNREAD_SEPARATOR_SUBTLE" = "Subtiel";
+"STYLE_UNREAD_SEPARATOR_NONE" = "Geen";
+"STYLE_UNREAD_SEPARATOR_DESCRIPTION" = "Toon een indicatie voor berichten die zijn ontvangen sinds de laatste keer dat je een chat hebt gesloten.";
 
 "THEME_TITLE" = "Thema";
 "THEME_VARIANT_TITLE" = "Variant (licht/donker)";
@@ -486,8 +491,8 @@
 "KEY_COMMAND_NEXT_MESSAGE" = "Volgend bericht";
 "KEY_COMMAND_CLEAR_QUERY" = "Query berichten wissen";
 "KEY_COMMAND_OPEN_PREFERENCES" = "Instellingen";
-"KEY_COMMAND_HIDE_CHAT_LIST" = "Verberg gesprekken lijst";
-"KEY_COMMAND_SHOW_CHAT_LIST" = "Toon gesprekken lijst";
+"KEY_COMMAND_HIDE_CHAT_LIST" = "Verberg chat lijst";
+"KEY_COMMAND_SHOW_CHAT_LIST" = "Toon chat lijst";
 
 /* Gesture Commands */
 "GESTURE_COMMAND_PREVIOUS_QUERY" = "Vorige query";
