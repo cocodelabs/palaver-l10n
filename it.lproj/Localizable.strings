@@ -342,6 +342,10 @@
 "CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "Use %@ instead";  // Untranslated
 "CLOUDAPP_MIGRATION_ABORT" = "Annulla";
 
+"NEXTCLOUD_URL" = "URL";  // Untranslated
+"NEXTCLOUD_USERNAME" = "Username";  // Untranslated
+"NEXTCLOUD_PASSWORD" = "Password";  // Untranslated
+
 /* Whois */
 "WHOIS_CHANNELS_TITLE" = "Canali";
 

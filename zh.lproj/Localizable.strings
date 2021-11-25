@@ -342,6 +342,10 @@
 "CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "Use %@ instead";  // Untranslated
 "CLOUDAPP_MIGRATION_ABORT" = "取消";
 
+"NEXTCLOUD_URL" = "链接";
+"NEXTCLOUD_USERNAME" = "用户名";
+"NEXTCLOUD_PASSWORD" = "密码";
+
 /* Whois */
 "WHOIS_CHANNELS_TITLE" = "频道";
 
