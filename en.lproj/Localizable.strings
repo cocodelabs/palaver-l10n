@@ -54,6 +54,19 @@
 "QUERY_LIST_SEARCH" = "Search Messages";
 "QUERY_LIST_MARK_AS_READ" = "Mark as read";
 
+"SEARCH_SUGGESTION_FROM" = "From nick";
+"SEARCH_SUGGESTION_FROM_EXAMPLE" = "Ex: from:john";
+"SEARCH_SUGGESTION_IN" = "In a channel";
+"SEARCH_SUGGESTION_IN_EXAMPLE" = "Ex: in:#palaver";
+"SEARCH_SUGGESTION_UNREAD" = "Unread";
+"SEARCH_SUGGESTION_UNREAD_EXAMPLE" = "is:unread";
+"SEARCH_SUGGESTION_MENTION" = "Highlighted";
+"SEARCH_SUGGESTION_MENTION_EXAMPLE" = "is:mention";
+"SEARCH_SUGGESTION_BEFORE" = "Sent before date";
+"SEARCH_SUGGESTION_BEFORE_EXAMPLE" = "Ex: before:today";
+"SEARCH_SUGGESTION_AFTER" = "Sent after date";
+"SEARCH_SUGGESTION_AFTER_EXAMPLE" = "Ex: after:%d-1-1";
+
 "NETWORK_ADD" = "Add Network";
 "CHANNEL_ADD" = "Join Channel";
 "NICK_ADD" = "Message a User";
