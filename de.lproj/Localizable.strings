@@ -313,7 +313,7 @@
 "INPUT_COLOR_BROWN" = "Braun";
 "INPUT_COLOR_BLACK" = "Schwarz";
 "INPUT_COLOR_WHITE" = "Weiß";
-"INPUT_COLOR_RESET" = "Reset"; // Untranslated
+"INPUT_COLOR_RESET" = "Zurücksetzen";
 "INPUT_FOREGROUND_COLOR" = "Textfarbe";
 "INPUT_BACKGROUND_COLOR" = "Hintergrundfarbe";
 
@@ -329,8 +329,8 @@
 "UPLOAD_IMAGE_POLICY_AGREE" = "Akzeptieren";
 
 "UPLOAD_IMAGE_PREFERENCES_TITLE" = "Foto-Uploads";
-"UPLOAD_IMAGE_PREFERENCES_LOGIN" = "Login"; // Untranslated
-"UPLOAD_IMAGE_PREFERENCES_LOGOUT" = "Logout"; // Untranslated
+"UPLOAD_IMAGE_PREFERENCES_LOGIN" = "Anmelden";
+"UPLOAD_IMAGE_PREFERENCES_LOGOUT" = "Abmelden";
 "UPLOAD_IMAGE_PREFERENCES_ACCOUNT" = "Account"; // Untranslated
 "UPLOAD_IMAGE_PREFERENCES_CHECKING" = "Checking account details";
 
@@ -340,19 +340,19 @@
 "UPLOAD_IMAGE_ERROR_NO_IMAGE" = "Die Serverantwort enhält nicht die Bild-URL.";
 "UPLOAD_IMAGE_ERROR_INVALID_IMAGE" = "Ungültiges Foto.";
 
-"UPLOAD_IMAGE_ERROR_TITLE" = "Upload Failed";  // Untranslated
-"UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ returned error with status code %@.";  // Untranslated
-"UPLOAD_IMAGE_ERROR_RETRY" = "Try Again";  // Untranslated
+"UPLOAD_IMAGE_ERROR_TITLE" = "Hochladen fehlgeschlagen";
+"UPLOAD_IMAGE_ERROR_SERVER_RESPONSE" = "Server %@ hat einen Fehler mit Status Code %@ zurückgegeben.";
+"UPLOAD_IMAGE_ERROR_RETRY" = "Erneut versuchen";
 "UPLOAD_IMAGE_ERROR_ABORT" = "Abbrechen";
 
-"UPLOAD_IMAGE_AUTH_ERROR_TITLE" = "Unauthorized";  // Untranslated
-"UPLOAD_IMAGE_AUTH_ERROR_BEARER_MESSAGE" = "The server requires authorization. Enter a Bearer token to continue.";  // Untranslated
-"UPLOAD_IMAGE_AUTH_ERROR_BASIC_MESSAGE" = "The server requires authorization. Enter a username and password to continue.";  // Untranslated
-"UPLOAD_IMAGE_AUTH_ERROR_AUTHORIZE" = "Authorize";  // Untranslated
+"UPLOAD_IMAGE_AUTH_ERROR_TITLE" = "Nicht autorisiert";
+"UPLOAD_IMAGE_AUTH_ERROR_BEARER_MESSAGE" = "Der Server erfordert Authentifizierung. Geben Sie einen Bearer Token ein um fortzufahren.";
+"UPLOAD_IMAGE_AUTH_ERROR_BASIC_MESSAGE" = "Der Server erfordert Authentifizierung. Geben Sie einen Benutzernamen und Passwort ein um fortzufahren."; 
+"UPLOAD_IMAGE_AUTH_ERROR_AUTHORIZE" = "Autorisieren";
 
 "CLOUDAPP_MIGRATION_TITLE" = "CloudApp";
-"CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp have decided to discontinue support for third-party integrations and thus it is no longer possible to upload an image to CloudApp in Palaver";  // Untranslated
-"CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "Use %@ instead";  // Untranslated
+"CLOUDAPP_MIGRATION_DESCRIPTION" = "CloudApp hat entschieden die Unterstützung für Drittanbieter-Integrationen einzustellen, weshalb es nicht mehr möglich ist, ein Bild in Palaver zu CloudApp hochzuladen.";
+"CLOUDAPP_MIGRATION_SWITCH_PROVIDER" = "%@ stattdessen verwenden";
 "CLOUDAPP_MIGRATION_ABORT" = "Abbrechen";
 
 "NEXTCLOUD_URL" = "URL";
@@ -366,13 +366,13 @@
 "WHOIS_USER_SECTION" = "Benutzer";
 
 /* Whois Session Information Section */
-"WHOIS_SESSION_SECTION" = "Session Information"; // Untranslated
+"WHOIS_SESSION_SECTION" = "Sitzungsinformationen";
 
 /* Whois Server Information Section */
-"WHOIS_SERVER_SECTION" = "Server Information"; // Untranslated
+"WHOIS_SERVER_SECTION" = "Serverinformationen";
 
 /* Whois User Realname */
-"WHOIS_USER_REALNAME" = "Realname"; // Untranslated
+"WHOIS_USER_REALNAME" = "Realname";
 
 /* Whois User Email Address */
 "WHOIS_USER_EMAIL_ADDRESS" = "E-Mail-Addresse";
@@ -387,10 +387,10 @@
 "WHOIS_USER_ACCOUNT" = "Account"; // Untranslated
 
 /* Whois User Modes */
-"WHOIS_USER_MODES" = "Modes"; // Untranslated
+"WHOIS_USER_MODES" = "Modi";
 
 /* Whois User Bot */
-"WHOIS_USER_BOT" = "Bot"; // Untranslated
+"WHOIS_USER_BOT" = "Bot";
 
 /* Whois User Is Network Operator */
 "WHOIS_USER_IS_NETWORK_OPERATOR" = "Netzwerk Operator";
@@ -417,7 +417,7 @@
 "WHOIS_SESSION_USING_TLS" = "Benutzt TLS";
 
 /* Whois Session IP Address */
-"WHOIS_SESSION_IP_ADDRESS" = "IP Address"; // Untranslated
+"WHOIS_SESSION_IP_ADDRESS" = "IP Adresse";
 
 /* Whois Server Hostname */
 "WHOIS_SERVER_HOSTNAME" = "Server";
@@ -471,13 +471,13 @@
 "CHANNEL_MODE_N" = "Keine externen Nachrichten (+n)";
 "CHANNEL_MODE_T" = "Nur Ops können Thema setzen (+t)";
 
-"CHANNEL_MODE_b_VIEW" = "View ban list (b)"; // Untranslated
-"CHANNEL_MODE_e_VIEW" = "View exception list (e)"; // Untranslated
-"CHANNEL_MODE_I_VIEW" = "View invite list (I)"; // Untranslated
+"CHANNEL_MODE_b_VIEW" = "Bannliste anzeigen (b)";
+"CHANNEL_MODE_e_VIEW" = "Ausnahmenliste anzeigen (e)";
+"CHANNEL_MODE_I_VIEW" = "Einladungsliste anzeigen (I)";
 "CHANNEL_MODE_LIST_VIEW" = "View %@ list"; // Untranslated
-"CHANNEL_MODE_LIST_VIEW_EMPTY" = "List empty"; // Untranslated
+"CHANNEL_MODE_LIST_VIEW_EMPTY" = "Liste leer";
 
-"CHANNEL_DETAIL_PART" = "Part Channel"; // Untranslated
+"CHANNEL_DETAIL_PART" = "Raum verlassen";
 
 /* URL Actions */
 "URL_ACTION_OPEN" = "Öffnen";
